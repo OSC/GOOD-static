@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.openondemand.org//2025//DNNSNU
+BEGIN:VTIMEZONE
+TZID:US/Eastern
+BEGIN:STANDARD
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T060000Z
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T070000Z
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-2025-Z8XYSF@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250318T083000
+DTEND;TZID=US/Eastern:20250318T100000
+DESCRIPTION:This tutorial provides an introduction to how to install and co
+ nfigure Open On Demand\, Slurm and Keycloak. Open OnDemand offers a user-f
+ riendly web interface for managing HPC resources\, allowing users to submi
+ t jobs\, access files\, and utilize interactive applications easily. Slurm
+ \, a robust workload manager\, is introduced for efficient job scheduling 
+ and resource allocation in HPC clusters. Keycloak\, an open-source identit
+ y and access management solution\, is integrated to enhance security throu
+ gh authentication and authorization. By following this tutorial\, users wi
+ ll gain practical knowledge and skills to deploy a seamless and secure HPC
+  environment on their own PCs.
+DTSTAMP:20250709T214537Z
+LOCATION:Belfer Case Study Room (CGIS S020)
+SUMMARY:From 0 to OOD: How to install Open On Demand with Keycloak and Slur
+ m integration. - Edwin Berbesi [Queen's University]
+URL:https://cfp.openondemand.org/2025/talk/Z8XYSF/
+END:VEVENT
+END:VCALENDAR

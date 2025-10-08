@@ -1,0 +1,240 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Scaling up OOD - a sysadmin&#x27;s perspective ::  GOOD 2025 :: pretalx</title>
+        <meta name="title" content="Scaling up OOD - a sysadmin&#x27;s perspective  - GOOD 2025 pretalx">
+        <meta name="description" content="CSC - IT Center for Science Ltd. is currently hosting three supercomputers,
+LUMI (#8 on the 11/2024 Top500 list) as well as two national supercomputers.
+CSC has been using Open OnDemand since 2021, and has since deployed OOD on
+all three supercomputers. The use of OOD has evolved over the years, and it
+has become an integral part of our service offering for users of the HPC clusters.
+
+The popularity of OOD among users has grown, and this has caused some interesting
+performance issues. In November of 2024, the busiest of our national supercomputers,
+Puhti, had around 1500 unique users logging into OOD. It is not uncommon to have
+up to 200 concurrent users on Puhti&#x27;s web interface, and at times there have been
+issues with high system load on the web server.
+
+This talk will go over a few major performance improvements that CSC has found
+helpful both in the past, but also some future improvements that have been
+identified. The talk will mention Passenger quirks as part of OOD&#x27;s architecture,
+the importance of running nginx_clean, as well as the impact of a fast
+user-mapper executable.
+
+The information will be quite technical in nature and is aimed towards operators
+of an OOD instance, e.g., system administrators and developers.
+The talk will include concrete suggestions for administrators on how to configure
+their OOD instances to avoid pitfalls when reaching a higher user count.">
+        <meta name="application-name" content="pretalx">
+        <meta name="generator" content="pretalx">
+        <meta name="keywords" content="GOOD 2025, 2025, 2025, schedule, talks, cfp, call for papers, conference, submissions, organizer">
+        
+        <meta name="robots" content="index, follow">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#C91235">
+        <meta name="HandheldFriendly" content="True"/>
+        <meta property="thumbnail" content="https://cfp.openondemand.org/2025/talk/BNEEB3/og-image">
+    <meta property="og:image" content="https://cfp.openondemand.org/2025/talk/BNEEB3/og-image">
+        <meta property="og:title" content="Scaling up OOD - a sysadmin&#x27;s perspective GOOD 2025">
+        <meta property="og:description" content="CSC - IT Center for Science Ltd. is currently hosting three supercomputers,
+LUMI (#8 on the 11/2024 Top500 list) as well as two national supercomputers.
+CSC has been using Open OnDemand since 2021, and has since deployed OOD on
+all three supercomputers. The use of OOD has evolved over the years, and it
+has become an integral part of our service offering for users of the HPC clusters.
+
+The popularity of OOD among users has grown, and this has caused some interesting
+performance issues. In November of 2024, the busiest of our national supercomputers,
+Puhti, had around 1500 unique users logging into OOD. It is not uncommon to have
+up to 200 concurrent users on Puhti&#x27;s web interface, and at times there have been
+issues with high system load on the web server.
+
+This talk will go over a few major performance improvements that CSC has found
+helpful both in the past, but also some future improvements that have been
+identified. The talk will mention Passenger quirks as part of OOD&#x27;s architecture,
+the importance of running nginx_clean, as well as the impact of a fast
+user-mapper executable.
+
+The information will be quite technical in nature and is aimed towards operators
+of an OOD instance, e.g., system administrators and developers.
+The talk will include concrete suggestions for administrators on how to configure
+their OOD instances to avoid pitfalls when reaching a higher user count.">
+        <meta property="og:url" content="http://testserver/2025/talk/BNEEB3/">
+        <meta property="twitter:card" content="summary">
+
+        
+            <link rel="icon" type="image/png" sizes="32x32" href="/good2025/schedule/static/common/img/favicon-32x32.38c2aab28d3a.png">
+            <link rel="icon" type="image/png" sizes="16x16" href="/good2025/schedule/static/common/img/favicon-16x16.02f8a56e1af3.png">
+        
+
+        <link rel="stylesheet" type="text/css" href="/good2025/schedule/static/common/scss/uncompressed.cabbf3759e3e.css" />
+        
+            <link rel="stylesheet" type="text/css" href="/good2025/schedule/static/vendored/fullcalendar/fullcalendar.min.ba055a2cd2b3.css"/>
+            <link rel="stylesheet" type="text/css" href="/good2025/schedule/media/2025/cfp.b4fdc45e320a46e0.css"/>
+            <link rel="stylesheet" type="text/css" href="/good2025/schedule/media/2025/agenda.4ecfa7153a486dbb.css"/>
+        
+        
+        <script src="/good2025/schedule/static/CACHE/js/output.079684506270.js" defer></script>
+        
+    
+    <link rel="alternate" type="application/json" title="GOOD 2025 API" href="https://cfp.openondemand.org/api/events/2025/talks/BNEEB3" />
+
+    
+    
+
+    </head>
+    <body data-datetimeformat="YYYY-MM-DD HH:mm:ss" data-dateformat="YYYY-MM-DD" data-datetimelocale="en">
+        <div id="top-bg" class="header pcb">
+            
+        </div>
+        
+        <div class="container" id="main-container">
+            <header>
+                <h1>
+                    <a href="
+    /2025/schedule/
+">
+                        
+                            GOOD 2025
+                        
+                    </a>
+                </h1>
+
+                <div class="d-flex" id="header-row">
+                    
+                    
+                </div>
+            </header>
+            <div class="card" id="main-card">
+                <main>
+                    
+
+                    
+    
+    
+    <article>
+        
+        <h3 class="talk-title">
+            <div class="heading-with-buttons">
+                Scaling up OOD - a sysadmin&#x27;s perspective
+                <div class="buttons" id="talk-buttons">
+                    
+                        <a class="btn btn-outline-primary" href="/good2025/schedule/talk/BNEEB3.ics">
+                            <i class="fa fa-calendar"></i> .ical
+                        </a>
+                    
+                    
+                    
+                </div>
+            </div>
+            <small>
+                
+                    03-18, 16:30–16:55 (US/Eastern), Tsai Auditorium (CGIS S010) <i class="fa fa-question-circle" data-toggle="tooltip" title="S010"></i>
+                
+                
+                
+            </small>
+        </h3>
+        <div class="talk row">
+            <div class="talk-content">
+                
+                
+                
+                <section class="abstract">
+                    <p>A walk-through of concrete issues and performance improvements<br>
+which CSC has identified when approaching a scale of hundreds of concurrent<br>
+users on Open OnDemand. The aim is to inform system administrators and developers<br>
+who are operating an OOD instance about potential pitfalls, as well as quirks<br>
+which only become visible at a larger scale.</p>
+<p>This technical talk will consider site-specific issues, code-specific issues in the OOD<br>
+upstream, as well as architectural impacts of using Passenger.<br>
+A general understanding of the OOD architecture, Passenger's role in it, and<br>
+Linux systems programming is beneficial.</p>
+                </section>
+                
+                    <hr />
+                
+                <section class="description">
+                    <p>CSC - IT Center for Science Ltd. is currently hosting three supercomputers,<br>
+LUMI (#8 on the 11/2024 Top500 list) as well as two national supercomputers.<br>
+CSC has been using Open OnDemand since 2021, and has since deployed OOD on<br>
+all three supercomputers. The use of OOD has evolved over the years, and it<br>
+has become an integral part of our service offering for users of the HPC clusters.</p>
+<p>The popularity of OOD among users has grown, and this has caused some interesting<br>
+performance issues. In November of 2024, the busiest of our national supercomputers,<br>
+Puhti, had around 1500 unique users logging into OOD. It is not uncommon to have<br>
+up to 200 concurrent users on Puhti's web interface, and at times there have been<br>
+issues with high system load on the web server.</p>
+<p>This talk will go over a few major performance improvements that CSC has found<br>
+helpful both in the past, but also some future improvements that have been<br>
+identified. The talk will mention Passenger quirks as part of OOD's architecture,<br>
+the importance of running nginx_clean, as well as the impact of a fast<br>
+user-mapper executable.</p>
+<p>The information will be quite technical in nature and is aimed towards operators<br>
+of an OOD instance, e.g., system administrators and developers.<br>
+The talk will include concrete suggestions for administrators on how to configure<br>
+their OOD instances to avoid pitfalls when reaching a higher user count.</p>
+                </section>
+                
+            </section>
+            
+            <section>
+                
+            </section>
+        </div>
+    </div>
+    
+        
+            <div class="pretalx-session">
+                <div class="pretalx-session-time-box avatar">
+                    <a href="/good2025/schedule/speaker/3NQDY7/">
+                        <div class="avatar-wrapper">
+                            
+                                <img src="/good2025/schedule/speaker/avatar.svg">
+                            
+                        </div>
+                    </a>
+                </div>
+                <div class="pretalx-session-info">
+                    <div class="title">
+                        <a href="/good2025/schedule/speaker/3NQDY7/">Simon Westersund [CSC - IT Center for Science]</a>
+                    </div>
+                    <div class="abstract"><p>Simon is a System specialist at CSC - IT Center for Science Ltd. He has been participating in the roll-out and operations of Open OnDemand on three different supercomputers since 2021, including the pre-exascale system LUMI. CSC operates OOD via a containerized deployment, which creates interesting opportunities for testing and development for OOD. CSC is an active contributor to the OOD project, including code submissions, issue reporting, and testing.</p></div>
+                    
+                </div>
+            </div>
+        
+    
+    </article>
+
+
+                </main>
+            </div>
+            <footer>
+                
+                    <div id="exporttimestamp" class="text-muted">
+                        
+                        This is a static export generated at 2025-07-09 17:45 EDT
+                    </div>
+                
+                
+
+
+    powered by <a href="https://pretalx.com" target="_blank" rel="noopener">pretalx</a>
+
+
+                
+                    &middot;
+                    <a href="mailto:jim@numfocus.org">Contact us</a>
+                
+                
+                
+            </footer>
+        </div>
+    </body>
+</html>

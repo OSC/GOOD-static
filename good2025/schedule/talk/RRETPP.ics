@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.openondemand.org//RRETPP
+BEGIN:VTIMEZONE
+TZID:US/Eastern
+BEGIN:STANDARD
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T060000Z
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T070000Z
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-2025-RRETPP@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250319T113000
+DTEND;TZID=US/Eastern:20250319T115500
+DESCRIPTION:Discover how to securely connect desktop applications directly 
+ to Open OnDemand jobs using mutual TLS authentication all the way from des
+ ktop client to compute node. This technical presentation demonstrates a ne
+ w proxy architecture enabling RDP\, VNC\, and other protocols to connect s
+ ecurely from desktop client programs to applications on compute nodes\, wi
+ th enhanced security controls missing from the current proxy implementatio
+ n. It’s perfect for sites wanting to offer desktop client access while m
+ aintaining browser viewer capabilities\, all with improved security.
+DTSTAMP:20250709T214529Z
+LOCATION:Belfer Case Study Room (CGIS S020)
+SUMMARY:Reinventing OOD Proxying: Mutual TLS Auth\, Access Control\, and VN
+ C/RDP to the Desktop - Ryan Cox [Brigham Young University]
+URL:https://cfp.openondemand.org/2025/talk/RRETPP/
+END:VEVENT
+END:VCALENDAR

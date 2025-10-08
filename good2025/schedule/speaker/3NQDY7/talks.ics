@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.openondemand.org//2025//3NQDY7
+BEGIN:VTIMEZONE
+TZID:US/Eastern
+BEGIN:STANDARD
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T060000Z
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T070000Z
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-2025-BNEEB3@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250318T163000
+DTEND;TZID=US/Eastern:20250318T165500
+DESCRIPTION:A walk-through of concrete issues and performance improvements\
+ nwhich CSC has identified when approaching a scale of hundreds of concurre
+ nt\nusers on Open OnDemand. The aim is to inform system administrators and
+  developers\nwho are operating an OOD instance about potential pitfalls\, 
+ as well as quirks\nwhich only become visible at a larger scale.\n\nThis te
+ chnical talk will consider site-specific issues\, code-specific issues in 
+ the OOD\nupstream\, as well as architectural impacts of using Passenger.\n
+ A general understanding of the OOD architecture\, Passenger's role in it\,
+  and\nLinux systems programming is beneficial.
+DTSTAMP:20250709T214539Z
+LOCATION:Tsai Auditorium (CGIS S010)
+SUMMARY:Scaling up OOD - a sysadmin's perspective - Simon Westersund [CSC -
+  IT Center for Science]
+URL:https://cfp.openondemand.org/2025/talk/BNEEB3/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.openondemand.org//2025//CYAMNS
+BEGIN:VTIMEZONE
+TZID:US/Eastern
+BEGIN:STANDARD
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T060000Z
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T070000Z
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-2025-AAGZE9@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250319T130000
+DTEND;TZID=US/Eastern:20250319T143000
+DESCRIPTION:This BoF will bring together administrators from different inst
+ itutions who use OOD in a teaching context. We will have a panel of presen
+ ters to talk about how OOD is implemented for teaching in their implementa
+ tion\, and then open up the floor for discussion with the panel. This BoF 
+ is intended to be useful to developers and administrators who are responsi
+ ble for OOD in teaching use cases\, as well as instructors who want a bett
+ er understanding of what's going on behind the scenes with the platforms t
+ hey use. It's our hope that this sharing of ideas will result in a lot of 
+ learning from different solutions to similar problems unique to deploying 
+ OOD for teaching.
+DTSTAMP:20250709T214538Z
+LOCATION:Lee Conference Room (CGIS S030)
+SUMMARY:Using OpenOnDemand for Teaching - Jeremy Guillette [Harvard]\, Ben 
+ Eisenbraun [Harvard]\, Ashley Dederich [University of Utah]\, Sean Anderso
+ n [Wake Forest University]
+URL:https://cfp.openondemand.org/2025/talk/AAGZE9/
+END:VEVENT
+END:VCALENDAR

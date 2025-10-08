@@ -1,0 +1,224 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Integration of Open OnDemand with the Jobstats Job Monitoring Platform ::  GOOD 2025 :: pretalx</title>
+        <meta name="title" content="Integration of Open OnDemand with the Jobstats Job Monitoring Platform  - GOOD 2025 pretalx">
+        <meta name="description" content="The inefficient use of compute resources is surely as old as the first Beowulf cluster. Typical causes for underutilization include jobs that over-allocate CPUs, CPU memory, or both. Such instances are frequently due to misunderstandings or in some cases by accident. The introduction of GPUs has made the problem more pressing. Two common problems are (1) jobs that allocate GPUs but do not use them and (2) jobs that use them but only with little utilization.
+
+At Princeton, we have started to continuously monitor nodes (including the GPUs) and filesystems using various Prometheus exporters. Our integrated solution is called Jobstats. The monitoring data is combined with the workload manager (Slurm) data to produce job efficiency reports. These reports provide metadata about the job as well as CPU/GPU utilization, CPU/GPU memory usage, and job-specific notes to guide users.
+
+The Jobstat platform includes an OOD Helper App. For a given job ID, the app generates a URL to a Grafana dashboard that shows various job-level and node-level metrics as a function of time. The job-level metrics include the CPU/GPU utilization and CPU/GPU memory usage. Some examples of the node-level metrics are the mean CPU frequencies, GPFS bandwidth statistics, and the number of InfiniBand errors. The dashboard is helpful when trying to understand why a job failed and for troubleshooting system issues. Jobstats also makes it possible to see the high-level job efficiency data on the “Completed Jobs” page of the OOD web interface. The “Active Jobs” page shows plots of CPU utilization and memory usage with a link to the detailed job statistics on Grafana.
+
+The combination of the OOD Helper App, the Grafana interface, and the command-line tools, makes it easy for users and system administrators to inspect the utilization and usage of individual jobs. The Jobstats platform was released in 2023. It is being used by tens of institutions throughout the world including Princeton, Brown and Yale.">
+        <meta name="application-name" content="pretalx">
+        <meta name="generator" content="pretalx">
+        <meta name="keywords" content="GOOD 2025, 2025, 2025, schedule, talks, cfp, call for papers, conference, submissions, organizer">
+        
+        <meta name="robots" content="index, follow">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#C91235">
+        <meta name="HandheldFriendly" content="True"/>
+        <meta property="thumbnail" content="https://cfp.openondemand.org/2025/talk/ES9ML9/og-image">
+    <meta property="og:image" content="https://cfp.openondemand.org/2025/talk/ES9ML9/og-image">
+        <meta property="og:title" content="Integration of Open OnDemand with the Jobstats Job Monitoring Platform GOOD 2025">
+        <meta property="og:description" content="The inefficient use of compute resources is surely as old as the first Beowulf cluster. Typical causes for underutilization include jobs that over-allocate CPUs, CPU memory, or both. Such instances are frequently due to misunderstandings or in some cases by accident. The introduction of GPUs has made the problem more pressing. Two common problems are (1) jobs that allocate GPUs but do not use them and (2) jobs that use them but only with little utilization.
+
+At Princeton, we have started to continuously monitor nodes (including the GPUs) and filesystems using various Prometheus exporters. Our integrated solution is called Jobstats. The monitoring data is combined with the workload manager (Slurm) data to produce job efficiency reports. These reports provide metadata about the job as well as CPU/GPU utilization, CPU/GPU memory usage, and job-specific notes to guide users.
+
+The Jobstat platform includes an OOD Helper App. For a given job ID, the app generates a URL to a Grafana dashboard that shows various job-level and node-level metrics as a function of time. The job-level metrics include the CPU/GPU utilization and CPU/GPU memory usage. Some examples of the node-level metrics are the mean CPU frequencies, GPFS bandwidth statistics, and the number of InfiniBand errors. The dashboard is helpful when trying to understand why a job failed and for troubleshooting system issues. Jobstats also makes it possible to see the high-level job efficiency data on the “Completed Jobs” page of the OOD web interface. The “Active Jobs” page shows plots of CPU utilization and memory usage with a link to the detailed job statistics on Grafana.
+
+The combination of the OOD Helper App, the Grafana interface, and the command-line tools, makes it easy for users and system administrators to inspect the utilization and usage of individual jobs. The Jobstats platform was released in 2023. It is being used by tens of institutions throughout the world including Princeton, Brown and Yale.">
+        <meta property="og:url" content="http://testserver/2025/talk/ES9ML9/">
+        <meta property="twitter:card" content="summary">
+
+        
+            <link rel="icon" type="image/png" sizes="32x32" href="/good2025/schedule/static/common/img/favicon-32x32.38c2aab28d3a.png">
+            <link rel="icon" type="image/png" sizes="16x16" href="/good2025/schedule/static/common/img/favicon-16x16.02f8a56e1af3.png">
+        
+
+        <link rel="stylesheet" type="text/css" href="/good2025/schedule/static/common/scss/uncompressed.cabbf3759e3e.css" />
+        
+            <link rel="stylesheet" type="text/css" href="/good2025/schedule/static/vendored/fullcalendar/fullcalendar.min.ba055a2cd2b3.css"/>
+            <link rel="stylesheet" type="text/css" href="/good2025/schedule/media/2025/cfp.b4fdc45e320a46e0.css"/>
+            <link rel="stylesheet" type="text/css" href="/good2025/schedule/media/2025/agenda.4ecfa7153a486dbb.css"/>
+        
+        
+        <script src="/good2025/schedule/static/CACHE/js/output.079684506270.js" defer></script>
+        
+    
+    <link rel="alternate" type="application/json" title="GOOD 2025 API" href="https://cfp.openondemand.org/api/events/2025/talks/ES9ML9" />
+
+    
+    
+
+    </head>
+    <body data-datetimeformat="YYYY-MM-DD HH:mm:ss" data-dateformat="YYYY-MM-DD" data-datetimelocale="en">
+        <div id="top-bg" class="header pcb">
+            
+        </div>
+        
+        <div class="container" id="main-container">
+            <header>
+                <h1>
+                    <a href="
+    /2025/schedule/
+">
+                        
+                            GOOD 2025
+                        
+                    </a>
+                </h1>
+
+                <div class="d-flex" id="header-row">
+                    
+                    
+                </div>
+            </header>
+            <div class="card" id="main-card">
+                <main>
+                    
+
+                    
+    
+    
+    <article>
+        
+        <h3 class="talk-title">
+            <div class="heading-with-buttons">
+                Integration of Open OnDemand with the Jobstats Job Monitoring Platform
+                <div class="buttons" id="talk-buttons">
+                    
+                        <a class="btn btn-outline-primary" href="/good2025/schedule/talk/ES9ML9.ics">
+                            <i class="fa fa-calendar"></i> .ical
+                        </a>
+                    
+                    
+                    
+                </div>
+            </div>
+            <small>
+                
+                    03-19, 17:20–17:30 (US/Eastern), Tsai Auditorium (CGIS S010) <i class="fa fa-question-circle" data-toggle="tooltip" title="S010"></i>
+                
+                
+                
+            </small>
+        </h3>
+        <div class="talk row">
+            <div class="talk-content">
+                
+                
+                
+                <section class="abstract">
+                    <p>Given the ever increasing cost of compute (especially GPUs) it is imperative that these resources are used efficiently. How can this be achieved in a simple-to-use way on a high-performance computing cluster that supports a large number of diverse researchers? Our solution is Jobstats, a job monitoring platform which integrates with Open OnDemand (OOD). This talk will provide an overview of the platform and its various components while concentrating on its links with OOD. Our planned extensions for the OOD integration will be presented with the hope of receiving feedback and new ideas from attendees.</p>
+                </section>
+                
+                    <hr />
+                
+                <section class="description">
+                    <p>The inefficient use of compute resources is surely as old as the first Beowulf cluster. Typical causes for underutilization include jobs that over-allocate CPUs, CPU memory, or both. Such instances are frequently due to misunderstandings or in some cases by accident. The introduction of GPUs has made the problem more pressing. Two common problems are (1) jobs that allocate GPUs but do not use them and (2) jobs that use them but only with little utilization.</p>
+<p>At Princeton, we have started to continuously monitor nodes (including the GPUs) and filesystems using various Prometheus exporters. Our integrated solution is called Jobstats. The monitoring data is combined with the workload manager (Slurm) data to produce job efficiency reports. These reports provide metadata about the job as well as CPU/GPU utilization, CPU/GPU memory usage, and job-specific notes to guide users.</p>
+<p>The Jobstat platform includes an OOD Helper App. For a given job ID, the app generates a URL to a Grafana dashboard that shows various job-level and node-level metrics as a function of time. The job-level metrics include the CPU/GPU utilization and CPU/GPU memory usage. Some examples of the node-level metrics are the mean CPU frequencies, GPFS bandwidth statistics, and the number of InfiniBand errors. The dashboard is helpful when trying to understand why a job failed and for troubleshooting system issues. Jobstats also makes it possible to see the high-level job efficiency data on the “Completed Jobs” page of the OOD web interface. The “Active Jobs” page shows plots of CPU utilization and memory usage with a link to the detailed job statistics on Grafana.</p>
+<p>The combination of the OOD Helper App, the Grafana interface, and the command-line tools, makes it easy for users and system administrators to inspect the utilization and usage of individual jobs. The Jobstats platform was released in 2023. It is being used by tens of institutions throughout the world including Princeton, Brown and Yale.</p>
+                </section>
+                
+            </section>
+            
+            <section>
+                
+            </section>
+        </div>
+    </div>
+    
+        
+            <div class="pretalx-session">
+                <div class="pretalx-session-time-box avatar">
+                    <a href="/good2025/schedule/speaker/RB7MVU/">
+                        <div class="avatar-wrapper">
+                            
+                                <img src="/good2025/schedule/speaker/avatar.svg">
+                            
+                        </div>
+                    </a>
+                </div>
+                <div class="pretalx-session-info">
+                    <div class="title">
+                        <a href="/good2025/schedule/speaker/RB7MVU/">Josko Plazonic [Princeton]</a>
+                    </div>
+                    <div class="abstract"></div>
+                    
+                        This speaker also appears in:
+                        <ul>
+                            
+                                <li>
+                                    <a href="/good2025/schedule/talk/KX33UB/">Lessons Learned from 8 Years of Open OnDemand at Princeton Research Computing</a>
+                                </li>
+                            
+                        </ul>
+                    
+                </div>
+            </div>
+        
+            <div class="pretalx-session">
+                <div class="pretalx-session-time-box avatar">
+                    <a href="/good2025/schedule/speaker/PXTCFR/">
+                        <div class="avatar-wrapper">
+                            
+                                <img src="/good2025/schedule/speaker/avatar.svg">
+                            
+                        </div>
+                    </a>
+                </div>
+                <div class="pretalx-session-info">
+                    <div class="title">
+                        <a href="/good2025/schedule/speaker/PXTCFR/">Jonathan Halverson [Princeton]</a>
+                    </div>
+                    <div class="abstract"><p>Jonathan Halverson is the Training Lead for the Princeton Institute of Computational Science and Engineering at Princeton University.</p></div>
+                    
+                        This speaker also appears in:
+                        <ul>
+                            
+                                <li>
+                                    <a href="/good2025/schedule/talk/KX33UB/">Lessons Learned from 8 Years of Open OnDemand at Princeton Research Computing</a>
+                                </li>
+                            
+                        </ul>
+                    
+                </div>
+            </div>
+        
+    
+    </article>
+
+
+                </main>
+            </div>
+            <footer>
+                
+                    <div id="exporttimestamp" class="text-muted">
+                        
+                        This is a static export generated at 2025-07-09 17:45 EDT
+                    </div>
+                
+                
+
+
+    powered by <a href="https://pretalx.com" target="_blank" rel="noopener">pretalx</a>
+
+
+                
+                    &middot;
+                    <a href="mailto:jim@numfocus.org">Contact us</a>
+                
+                
+                
+            </footer>
+        </div>
+    </body>
+</html>

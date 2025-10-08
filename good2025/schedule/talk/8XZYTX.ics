@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.openondemand.org//8XZYTX
+BEGIN:VTIMEZONE
+TZID:US/Eastern
+BEGIN:STANDARD
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T060000Z
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T070000Z
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-2025-8XZYTX@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250320T120000
+DTEND;TZID=US/Eastern:20250320T122500
+DESCRIPTION:Texas  A&M has a long history of creating Apps for OpenOnDemand
+  to improve the user experience. In this presentation\, we will present tw
+ o of our latest projects. We will briefly show our new experimental custom
+ izable dashboard\, where users can manage their resources and interact wit
+ h the HPRC helpdesk. Next\, we will show the Drona workflow engine\, a fra
+ mework for composing and generating custom workflows. Drona abstracts the 
+ researcher as much as possible from HPC specifics normally required to run
+  their jobs on our clusters so they can focus on their research. This incl
+ udes setting up custom environments and automatically selecting resources.
+  A major application is to assist researchers in creating and running thei
+ r AI workloads on a variety of accelerators.
+DTSTAMP:20250709T214531Z
+LOCATION:Tsai Auditorium (CGIS S010)
+SUMMARY:Drona Workflow Engine - Marinus Pennings [Texas A&M University]
+URL:https://cfp.openondemand.org/2025/talk/8XZYTX/
+END:VEVENT
+END:VCALENDAR

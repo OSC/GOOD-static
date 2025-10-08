@@ -1,0 +1,192 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Using Community Container Images with OOD for Robust RStudio Server and PostGIS ::  GOOD 2025 :: pretalx</title>
+        <meta name="title" content="Using Community Container Images with OOD for Robust RStudio Server and PostGIS  - GOOD 2025 pretalx">
+        <meta name="description" content="RStudio Server is one of the most common Open OnDemand interactive apps. However, some R packages can be challenging to install due to numerous Linux package dependencies and/or substantial R package compile times. It may be difficult to replicate a successful package build at a later time due to different package/dependency versions.
+
+The Rocker Project (https://rocker-project.org/) addresses the challenges of R package installation with community-supported container images that provide an extensive set of Linux software dependencies. In addition, they are preconfigured to install version-locked CRAN (R) packages from the Posit Public Package manager. The Bioconductor project (https://www.bioconductor.org/), a collection of R packages for bioinformatics, augments Rocker base images with additional Linux dependencies and configuration necessary to install almost any of the over 2,000 Bioconductor packages.
+
+PostGIS (https://postgis.net) is a set of extensions and command-line utilities that adds geospatial data processing capabilities to the PostgreSQL (Postgres) relational database management system. An institutional HPC cluster, providing large-capacity compute, memory, and data storage, can be a fitting environment for geospatial (or other) applications that need to store and query massive amounts of data from a Postgres database. But deploying a Postgres/PostGIS database without administrator privileges can be daunting, especially in an HPC cluster environment.
+
+The community Docker-PostGIS image (https://github.com/postgis/docker-postgis), based on the “Docker official” Postgres image (https://github.com/docker-library/postgres), provides a standardized software environment for deploying PostGIS. 
+
+This talk illustrates Open OnDemand interactive apps that utilize these container images, including user forms, pre-launch setup to facilitate running as an unprivileged user (with Singularity or Apptainer), and workaround “gotchas”, and user-facing operational aspects. The same container images can be used from command-line-driven batch or interactive jobs to take advantage of their software environments outside of Open OnDemand as well.">
+        <meta name="application-name" content="pretalx">
+        <meta name="generator" content="pretalx">
+        <meta name="keywords" content="GOOD 2025, 2025, 2025, schedule, talks, cfp, call for papers, conference, submissions, organizer">
+        
+        <meta name="robots" content="index, follow">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#C91235">
+        <meta name="HandheldFriendly" content="True"/>
+        <meta property="thumbnail" content="https://cfp.openondemand.org/2025/talk/SUZHBH/og-image">
+    <meta property="og:image" content="https://cfp.openondemand.org/2025/talk/SUZHBH/og-image">
+        <meta property="og:title" content="Using Community Container Images with OOD for Robust RStudio Server and PostGIS GOOD 2025">
+        <meta property="og:description" content="RStudio Server is one of the most common Open OnDemand interactive apps. However, some R packages can be challenging to install due to numerous Linux package dependencies and/or substantial R package compile times. It may be difficult to replicate a successful package build at a later time due to different package/dependency versions.
+
+The Rocker Project (https://rocker-project.org/) addresses the challenges of R package installation with community-supported container images that provide an extensive set of Linux software dependencies. In addition, they are preconfigured to install version-locked CRAN (R) packages from the Posit Public Package manager. The Bioconductor project (https://www.bioconductor.org/), a collection of R packages for bioinformatics, augments Rocker base images with additional Linux dependencies and configuration necessary to install almost any of the over 2,000 Bioconductor packages.
+
+PostGIS (https://postgis.net) is a set of extensions and command-line utilities that adds geospatial data processing capabilities to the PostgreSQL (Postgres) relational database management system. An institutional HPC cluster, providing large-capacity compute, memory, and data storage, can be a fitting environment for geospatial (or other) applications that need to store and query massive amounts of data from a Postgres database. But deploying a Postgres/PostGIS database without administrator privileges can be daunting, especially in an HPC cluster environment.
+
+The community Docker-PostGIS image (https://github.com/postgis/docker-postgis), based on the “Docker official” Postgres image (https://github.com/docker-library/postgres), provides a standardized software environment for deploying PostGIS. 
+
+This talk illustrates Open OnDemand interactive apps that utilize these container images, including user forms, pre-launch setup to facilitate running as an unprivileged user (with Singularity or Apptainer), and workaround “gotchas”, and user-facing operational aspects. The same container images can be used from command-line-driven batch or interactive jobs to take advantage of their software environments outside of Open OnDemand as well.">
+        <meta property="og:url" content="http://testserver/2025/talk/SUZHBH/">
+        <meta property="twitter:card" content="summary">
+
+        
+            <link rel="icon" type="image/png" sizes="32x32" href="/good2025/schedule/static/common/img/favicon-32x32.38c2aab28d3a.png">
+            <link rel="icon" type="image/png" sizes="16x16" href="/good2025/schedule/static/common/img/favicon-16x16.02f8a56e1af3.png">
+        
+
+        <link rel="stylesheet" type="text/css" href="/good2025/schedule/static/common/scss/uncompressed.cabbf3759e3e.css" />
+        
+            <link rel="stylesheet" type="text/css" href="/good2025/schedule/static/vendored/fullcalendar/fullcalendar.min.ba055a2cd2b3.css"/>
+            <link rel="stylesheet" type="text/css" href="/good2025/schedule/media/2025/cfp.b4fdc45e320a46e0.css"/>
+            <link rel="stylesheet" type="text/css" href="/good2025/schedule/media/2025/agenda.4ecfa7153a486dbb.css"/>
+        
+        
+        <script src="/good2025/schedule/static/CACHE/js/output.079684506270.js" defer></script>
+        
+    
+    <link rel="alternate" type="application/json" title="GOOD 2025 API" href="https://cfp.openondemand.org/api/events/2025/talks/SUZHBH" />
+
+    
+    
+
+    </head>
+    <body data-datetimeformat="YYYY-MM-DD HH:mm:ss" data-dateformat="YYYY-MM-DD" data-datetimelocale="en">
+        <div id="top-bg" class="header pcb">
+            
+        </div>
+        
+        <div class="container" id="main-container">
+            <header>
+                <h1>
+                    <a href="
+    /2025/schedule/
+">
+                        
+                            GOOD 2025
+                        
+                    </a>
+                </h1>
+
+                <div class="d-flex" id="header-row">
+                    
+                    
+                </div>
+            </header>
+            <div class="card" id="main-card">
+                <main>
+                    
+
+                    
+    
+    
+    <article>
+        
+        <h3 class="talk-title">
+            <div class="heading-with-buttons">
+                Using Community Container Images with OOD for Robust RStudio Server and PostGIS
+                <div class="buttons" id="talk-buttons">
+                    
+                        <a class="btn btn-outline-primary" href="/good2025/schedule/talk/SUZHBH.ics">
+                            <i class="fa fa-calendar"></i> .ical
+                        </a>
+                    
+                    
+                    
+                </div>
+            </div>
+            <small>
+                
+                    03-19, 15:00–15:25 (US/Eastern), Tsai Auditorium (CGIS S010) <i class="fa fa-question-circle" data-toggle="tooltip" title="S010"></i>
+                
+                
+                
+            </small>
+        </h3>
+        <div class="talk row">
+            <div class="talk-content">
+                
+                
+                
+                <section class="abstract">
+                    <p>We present our experience of leveraging several publicly available container projects for RStudio Server and PostGIS/PostgreSQL Open OnDemand interactive apps. These containers have pre-configured software stacks that facilitate easier application-specific package installation by users, reducing user support requests on computing center staff. This talk describes the user-friendly OOD interfaces to these complex apps and how the containers are launched on an HPC cluster with Singularity.</p>
+                </section>
+                
+                    <hr />
+                
+                <section class="description">
+                    <p>RStudio Server is one of the most common Open OnDemand interactive apps. However, some R packages can be challenging to install due to numerous Linux package dependencies and/or substantial R package compile times. It may be difficult to replicate a successful package build at a later time due to different package/dependency versions.</p>
+<p>The Rocker Project (<a href="https://rocker-project.org/" rel="nofollow" target="_blank">https://rocker-project.org/</a>) addresses the challenges of R package installation with community-supported container images that provide an extensive set of Linux software dependencies. In addition, they are preconfigured to install version-locked CRAN (R) packages from the Posit Public Package manager. The Bioconductor project (<a href="https://www.bioconductor.org/" rel="nofollow" target="_blank">https://www.bioconductor.org/</a>), a collection of R packages for bioinformatics, augments Rocker base images with additional Linux dependencies and configuration necessary to install almost any of the over 2,000 Bioconductor packages.</p>
+<p>PostGIS (<a href="https://postgis.net" rel="nofollow" target="_blank">https://postgis.net</a>) is a set of extensions and command-line utilities that adds geospatial data processing capabilities to the PostgreSQL (Postgres) relational database management system. An institutional HPC cluster, providing large-capacity compute, memory, and data storage, can be a fitting environment for geospatial (or other) applications that need to store and query massive amounts of data from a Postgres database. But deploying a Postgres/PostGIS database without administrator privileges can be daunting, especially in an HPC cluster environment.</p>
+<p>The community Docker-PostGIS image (<a href="https://github.com/postgis/docker-postgis" rel="nofollow" target="_blank">https://github.com/postgis/docker-postgis</a>), based on the “Docker official” Postgres image (<a href="https://github.com/docker-library/postgres" rel="nofollow" target="_blank">https://github.com/docker-library/postgres</a>), provides a standardized software environment for deploying PostGIS. </p>
+<p>This talk illustrates Open OnDemand interactive apps that utilize these container images, including user forms, pre-launch setup to facilitate running as an unprivileged user (with Singularity or Apptainer), and workaround “gotchas”, and user-facing operational aspects. The same container images can be used from command-line-driven batch or interactive jobs to take advantage of their software environments outside of Open OnDemand as well.</p>
+                </section>
+                
+            </section>
+            
+            <section>
+                
+            </section>
+        </div>
+    </div>
+    
+        
+            <div class="pretalx-session">
+                <div class="pretalx-session-time-box avatar">
+                    <a href="/good2025/schedule/speaker/STL7KR/">
+                        <div class="avatar-wrapper">
+                            
+                                <img src="/good2025/schedule/media/avatars/Paula_Sanematsu_QZFS5e4.jpg">
+                            
+                        </div>
+                    </a>
+                </div>
+                <div class="pretalx-session-info">
+                    <div class="title">
+                        <a href="/good2025/schedule/speaker/STL7KR/">Paula C Sanematsu [Harvard]</a>
+                    </div>
+                    <div class="abstract"><p>Paula joined FAS Research Computing in March 2022 and has been involved in user training, software installation and optimization, Open OnDemand app development, and storage benchmarking. Before joining Harvard, she worked on a wide range of computational modeling projects, from flow and nanoparticle transport in porous media to tissue mechanics during embryonic development.</p></div>
+                    
+                </div>
+            </div>
+        
+    
+    </article>
+
+
+                </main>
+            </div>
+            <footer>
+                
+                    <div id="exporttimestamp" class="text-muted">
+                        
+                        This is a static export generated at 2025-07-09 17:45 EDT
+                    </div>
+                
+                
+
+
+    powered by <a href="https://pretalx.com" target="_blank" rel="noopener">pretalx</a>
+
+
+                
+                    &middot;
+                    <a href="mailto:jim@numfocus.org">Contact us</a>
+                
+                
+                
+            </footer>
+        </div>
+    </body>
+</html>

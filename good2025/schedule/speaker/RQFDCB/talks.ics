@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.openondemand.org//2025//RQFDCB
+BEGIN:VTIMEZONE
+TZID:US/Eastern
+BEGIN:STANDARD
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T060000Z
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T070000Z
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-2025-MYXNRF@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250319T160000
+DTEND;TZID=US/Eastern:20250319T162500
+DESCRIPTION:IFOM is a cancer biomedical research center\, with the ultimate
+  goal of translating the discoveries in treatments and prevention strategi
+ es. Democratizing the access to the computational resources is the key ste
+ p for our biomedical researchers to be independent in analyzing and explor
+ ing the data\; for bioinformaticians to deliver novel computational approa
+ ches with ease\; for the organization to have an organic\, scalable and su
+ stainable platform. This talk walkthrough on IFOM’s adoption of Open OnD
+ emand: the challenges\, the solutions and the cultural implications of thi
+ s technological integration.
+DTSTAMP:20250709T214538Z
+LOCATION:Belfer Case Study Room (CGIS S020)
+SUMMARY:OOD at IFOM: combining Cancer Research\, reproducibility and user-f
+ riendliness - Raoul Jean Pierre Bonnal [IFOM ETS - The AIRC Institute of M
+ olecular Oncology]\, Cristiano Petrini [AIRC Institute of Molecular Oncolo
+ gy]
+URL:https://cfp.openondemand.org/2025/talk/MYXNRF/
+END:VEVENT
+END:VCALENDAR

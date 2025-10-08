@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.openondemand.org//2025//MVBZY3
+BEGIN:VTIMEZONE
+TZID:US/Eastern
+BEGIN:STANDARD
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T060000Z
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T070000Z
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-2025-ZHJDGC@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250318T160000
+DTEND;TZID=US/Eastern:20250318T162500
+DESCRIPTION:Open OnDemand (OOD) is ideally placed to bridge the divide betw
+ een traditional shell-based batch HPC and emerging large language model (L
+ LM) workflows. Our team deployed OOD internally at MERLIN\, a small HPC re
+ search cluster located inside Perth Children’s Hospital to provide HPC r
+ esources to a range of technical and non-technical users on sensitive heal
+ thcare data. We adapted existing LLM web applications for OOD to provide a
+  low-code playground for non-technical researchers such as medical doctors
+  and research assistants to engage with LLM resources in a healthcare envi
+ ronment. This presentation will discuss the rationale\, and implementation
+  of OOD LLM web applications in a highly restricted environment and motiva
+ te future improved support for these types of workflows within OOD.
+DTSTAMP:20250709T214537Z
+LOCATION:Belfer Case Study Room (CGIS S020)
+SUMMARY:Deploying LLM web applications on Open OnDemand: experiences at Per
+ th Children's Hospital - Harry Smallbone [University of Western Australia]
+ \, Thomas Drake-Brockman [Perth Children's Hospital]
+URL:https://cfp.openondemand.org/2025/talk/ZHJDGC/
+END:VEVENT
+END:VCALENDAR

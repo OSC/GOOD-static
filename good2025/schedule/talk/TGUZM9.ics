@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.openondemand.org//TGUZM9
+BEGIN:VTIMEZONE
+TZID:US/Eastern
+BEGIN:STANDARD
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T060000Z
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T070000Z
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-2025-TGUZM9@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250319T100000
+DTEND;TZID=US/Eastern:20250319T102500
+DESCRIPTION:The Ohio Supercomputer Center (OSC) saw increased use of its OS
+ C OnDemand web interface for classroom applications during the COVID-19 pa
+ ndemic\, particularly for R and Python. To address challenges in creating 
+ shareable and reproducible environments\, OSC customized RStudio and Jupyt
+ er Notebooks for a dedicated classroom OOD instance. This setup allows ins
+ tructors to manage and configure software environments for students\, ensu
+ ring consistency and reducing setup time. Instructors can also access stud
+ ent workspaces to review and manage homework.
+DTSTAMP:20250709T214530Z
+LOCATION:Belfer Case Study Room (CGIS S020)
+SUMMARY:Managing the software environment for a classroom deployment of OOD
+  - Karen Tomko [Ohio Supercomputer Center]
+URL:https://cfp.openondemand.org/2025/talk/TGUZM9/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.openondemand.org//2025//AVHKKM
+BEGIN:VTIMEZONE
+TZID:US/Eastern
+BEGIN:STANDARD
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T060000Z
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T070000Z
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-2025-AV3LRW@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250318T140000
+DTEND;TZID=US/Eastern:20250318T142500
+DESCRIPTION:The growing demands for accelerated computing in batch HPC and 
+ AI training call for innovative strategies to enhance infrastructure utili
+ zation. GPU fractionalization enables dynamic allocation and sharing of GP
+ U resources\, resulting in cost savings and improved efficiency. This talk
+  will discuss key approaches\, including NVIDIA Multi-Instance GPU (MIG) a
+ nd JuiceLabs' dynamic GPU sharing software\, highlighting their features\,
+  impact on system design\, and interaction with the Open OnDemand ecosyste
+ m. We will also present a new initiative between Cambridge Computer and Ju
+ iceLabs to develop the integration of their GPU-sharing technology with Op
+ en OnDemand and discuss how institutions can start using the product today
+  and contribute to the design and vision of the product.
+DTSTAMP:20250709T214542Z
+LOCATION:Tsai Auditorium (CGIS S010)
+SUMMARY:Maximizing your AI Infrastructure Utilization with Open OnDemand an
+ d GPU Fractionalization - Chris Simmons [Cambridge Computer]
+URL:https://cfp.openondemand.org/2025/talk/AV3LRW/
+END:VEVENT
+END:VCALENDAR

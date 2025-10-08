@@ -1,0 +1,3569 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>  GOOD 2025 :: pretalx</title>
+        <meta name="title" content="  - GOOD 2025 pretalx">
+        <meta name="description" content="Schedule, talks and talk submissions for GOOD 2025">
+        <meta name="application-name" content="pretalx">
+        <meta name="generator" content="pretalx">
+        <meta name="keywords" content="GOOD 2025, 2025, 2025, schedule, talks, cfp, call for papers, conference, submissions, organizer">
+        
+        <meta name="robots" content="index, follow">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#C91235">
+        <meta name="HandheldFriendly" content="True"/>
+        <meta property="thumbnail" content="https://cfp.openondemand.org/2025/og-image">
+            <meta property="og:image" content="https://cfp.openondemand.org/2025/og-image">
+        
+        <meta property="og:title" content=" GOOD 2025">
+        <meta property="og:description" content="Schedule, talks and talk submissions for GOOD 2025">
+        <meta property="og:url" content="http://testserver/2025/schedule/v/0.21/nojs">
+        <meta property="twitter:card" content="summary">
+
+        
+            <link rel="icon" type="image/png" sizes="32x32" href="/static/common/img/favicon-32x32.38c2aab28d3a.png">
+            <link rel="icon" type="image/png" sizes="16x16" href="/static/common/img/favicon-16x16.02f8a56e1af3.png">
+        
+
+        <link rel="stylesheet" type="text/css" href="/static/common/scss/uncompressed.cabbf3759e3e.css" />
+        
+            <link rel="stylesheet" type="text/css" href="/static/vendored/fullcalendar/fullcalendar.min.ba055a2cd2b3.css"/>
+            <link rel="stylesheet" type="text/css" href="/media/2025/cfp.b4fdc45e320a46e0.css"/>
+            <link rel="stylesheet" type="text/css" href="/media/2025/agenda.4ecfa7153a486dbb.css"/>
+        
+        
+        <script src="/static/CACHE/js/output.079684506270.js" defer></script>
+        
+    
+        <link rel="alternate" type="application/atom+xml" title="GOOD 2025 Schedule Versions" href="/2025/schedule/feed.xml" />
+        <link rel="alternate" type="application/json" title="GOOD 2025 API" href="https://cfp.openondemand.org/api/events/2025/" />
+    
+    
+    
+
+    </head>
+    <body data-datetimeformat="YYYY-MM-DD HH:mm:ss" data-dateformat="YYYY-MM-DD" data-datetimelocale="en">
+        <div id="top-bg" class="header pcb">
+            
+        </div>
+        
+        <div class="container" id="main-container">
+            <header>
+                <h1>
+                    <a href="
+    /2025/schedule/
+">
+                        
+                            GOOD 2025
+                        
+                    </a>
+                </h1>
+
+                <div class="d-flex" id="header-row">
+                    
+                    
+                </div>
+            </header>
+            <div class="card" id="main-card">
+                <main>
+                    
+
+                    
+    
+    
+    <div id="fahrplan" class="list">
+
+        <div class="alert alert-info">
+            <div></div>
+            <div>
+                To see our schedule with full functionality, like timezone conversion and personal scheduling, please enable JavaScript and go <a href="/2025/schedule/">here</a>.
+            </div>
+        </div>
+        
+            <div class="alert alert-warning m-3"><span>
+                
+                    You are currently viewing an older schedule version.
+                
+                
+                    You can find the current version <a href="/2025/schedule/">here</a>.
+                
+            </span></div>
+        
+
+        
+
+<nav id="schedule-nav" class="p-3">
+    <div class="navigation">
+        <a href="/2025/schedule/" class="btn btn-outline-success  active">
+            <i class="fa fa-calendar"></i> Schedule
+            
+                </a><a href="/2025/talk/" class="btn btn-outline-success ">
+                    <i class="fa fa-comments-o"></i> Sessions
+            
+        </a><a href="/2025/speaker/" class="btn btn-outline-success ">
+            <i class="fa fa-group"></i> Speakers</a>
+    </div>
+    <div class="header-right">
+        
+            <span>Version <a href="/2025/schedule/changelog/">0.21</a></span>
+            <details class="dropdown">
+                <summary class="btn btn-sm btn-outline-info">
+                    <i class="fa fa-code"></i><i class="fa fa-caret-down"></i>
+                </summary>
+                <ul class="dropdown-content dropdown-content-sw">
+                    
+                        <li><a class="dropdown-item" href="/2025/schedule/export/schedule.ics">
+                            
+                                <span class="fa fa-calendar export-icon"></span>
+                            
+                            iCal
+                            
+                                <span class="export-qrcode">
+                                    <div class="btn btn-default btn-sm">
+                                        <i class="fa fa-qrcode"></i>
+                                    </div>
+                                    <div class="export-qrcode-image btn btn-default"><svg xmlns:ns0="http://www.w3.org/2000/svg" width="41mm" height="41mm" version="1.1" xmlns="http://www.w3.org/2000/svg"><ns0:rect x="4mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="5mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="5mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="5mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="5mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="5mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="5mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="5mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="5mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="5mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="5mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="5mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="9mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="9mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="9mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="9mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="9mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="9mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="9mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="9mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="9mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="9mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="9mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="5mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="11mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="11mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="11mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="11mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="11mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="11mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="11mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="5mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="5mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="11mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="11mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="5mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="11mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="11mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="11mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="5mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="5mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="11mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="11mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="11mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="5mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="11mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="29mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="29mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="29mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="29mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="29mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="29mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="29mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="29mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="29mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="5mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="5mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="36mm" width="1mm" height="1mm" /></svg></div>
+                                </span>
+                            
+                        </a></li>
+                    
+                        <li><a class="dropdown-item" href="/2025/schedule/export/schedule.json">
+                            
+                                <span class="export-icon">{ }</span>
+                            
+                            JSON (frab compatible)
+                            
+                        </a></li>
+                    
+                        <li><a class="dropdown-item" href="/2025/schedule/export/schedule.xcal">
+                            
+                                <span class="fa fa-calendar export-icon"></span>
+                            
+                            XCal (frab compatible)
+                            
+                        </a></li>
+                    
+                        <li><a class="dropdown-item" href="/2025/schedule/export/schedule.xml">
+                            
+                                <span class="fa fa-code export-icon"></span>
+                            
+                            XML (frab compatible)
+                            
+                                <span class="export-qrcode">
+                                    <div class="btn btn-default btn-sm">
+                                        <i class="fa fa-qrcode"></i>
+                                    </div>
+                                    <div class="export-qrcode-image btn btn-default"><svg xmlns:ns0="http://www.w3.org/2000/svg" width="41mm" height="41mm" version="1.1" xmlns="http://www.w3.org/2000/svg"><ns0:rect x="4mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="5mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="4mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="5mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="5mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="5mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="5mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="5mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="5mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="5mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="5mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="5mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="5mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="5mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="6mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="7mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="8mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="9mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="9mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="9mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="9mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="9mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="9mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="9mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="9mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="9mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="9mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="9mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="9mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="5mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="10mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="11mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="11mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="11mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="11mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="11mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="11mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="12mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="11mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="13mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="11mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="14mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="5mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="15mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="16mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="5mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="17mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="11mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="18mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="19mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="11mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="20mm" width="1mm" height="1mm" /><ns0:rect x="5mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="21mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="5mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="11mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="22mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="23mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="11mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="24mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="11mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="25mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="26mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="11mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="27mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="28mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="29mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="29mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="29mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="29mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="29mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="29mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="29mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="29mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="29mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="29mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="29mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="29mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="29mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="29mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="5mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="30mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="31mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="32mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="17mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="23mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="36mm" y="33mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="18mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="34mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="14mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="19mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="20mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="22mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="24mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="25mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="29mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="30mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="32mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="33mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="34mm" y="35mm" width="1mm" height="1mm" /><ns0:rect x="4mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="5mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="6mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="7mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="8mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="9mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="10mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="12mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="13mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="15mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="16mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="21mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="26mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="27mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="28mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="31mm" y="36mm" width="1mm" height="1mm" /><ns0:rect x="35mm" y="36mm" width="1mm" height="1mm" /></svg></div>
+                                </span>
+                            
+                        </a></li>
+                    
+                </ul>
+            </details>
+        
+    </div>
+</nav>
+
+        <div class="pretalx-tabbed"><div class="pretalx-tabbed-content">
+            
+                <div class="pretalx-tabs">
+                    
+                        <div class="pretalx-tab">
+                            <label class="pretalx-tab-label" for="2025-03-17">
+                                Monday, March 17, 2025
+                            </label>
+                        </div>
+                    
+                        <div class="pretalx-tab">
+                            <label class="pretalx-tab-label" for="2025-03-18">
+                                Tuesday, March 18, 2025
+                            </label>
+                        </div>
+                    
+                        <div class="pretalx-tab">
+                            <label class="pretalx-tab-label" for="2025-03-19">
+                                Wednesday, March 19, 2025
+                            </label>
+                        </div>
+                    
+                        <div class="pretalx-tab">
+                            <label class="pretalx-tab-label" for="2025-03-20">
+                                Thursday, March 20, 2025
+                            </label>
+                        </div>
+                    
+                </div>
+            
+            
+                
+                    <input name="tabs" id="2025-03-17" type="radio" checked>
+                
+                <div class="pretalx-list-day pretalx-tab-content" data-start="">
+                    
+                        
+                            <div class="bucket-time">13:00</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="CFEMBK"
+     style="--track-color:#1AA6EA"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            13:00
+        </div>
+        <div class="duration">
+            240min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Contributor Jam
+            
+        </div>
+        
+            <div class="speakers">
+                Emily Moffat Sadeghi [Ohio Supercomputer Center], Travis Ravert [Ohio Supercomputer Center]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>What is the Contributor Jam? | The Contributor Jam will offer attendees an immersive opportunity to work closely with Open OnDemand (OOD) developers. Participants will gain an understanding of OOD's components and leave with the knowledge and tools to contribute to its development.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Core Team Track</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                    
+                </div>
+            
+                
+                    <input name="tabs" id="2025-03-18" type="radio" >
+                
+                <div class="pretalx-list-day pretalx-tab-content" data-start="">
+                    
+                        
+                            <div class="bucket-time">08:00</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="Z8XYSF"
+     style="--track-color:#BD79FB"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            08:00
+        </div>
+        <div class="duration">
+            90min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                From 0 to OOD: How to install Open On Demand with Keycloak and Slurm integration.
+            
+        </div>
+        
+            <div class="speakers">
+                Edwin Berbesi [Queen&#x27;s University]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>This tutorial provides an introduction to how to install and configure Open On Demand, Slurm and Keycloak. Open OnDemand offers a user-friendly web interface for managing HPC resources, allowing users to submit jobs, access files, and utilize interactive applications easily. Slurm, a robust workload manager, is introduced for efficient job scheduling and resource allocation in HPC clusters. Keycloak, an open-source identity and access management solution, is integrated to enhance security through authentication and authorization. By following this tutorial, users will gain practical knowledge and skills to deploy a seamless and secure HPC environment on their own PCs.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tutorial</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="TJNP7W"
+     style="--track-color:#BD79FB"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            08:00
+        </div>
+        <div class="duration">
+            90min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Integrating XDMoD with OnDemand
+            
+        </div>
+        
+            <div class="speakers">
+                Dori Sajdak [University at Buffalo]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>This tutorial will demonstrate how to integrate XDMoD job statistics graphics on the OnDemand dashboard and how to configure XDMoD to aggregate OnDemand usage logs.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tutorial</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">09:30</div>
+                            
+                            
+
+<div class="pretalx-session break"
+     id="break"
+     style="--track-color:#ccc"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            09:30
+        </div>
+        <div class="duration">
+            30min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                Break
+            
+        </div>
+        
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">10:00</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="SWLTCA"
+     style="--track-color:#BD79FB"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            10:00
+        </div>
+        <div class="duration">
+            90min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Deploying a user-facing system status application with NextJS and OOD
+            
+        </div>
+        
+            <div class="speakers">
+                Johnathan Lee [Arizona State University]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>A tutorial for getting a NextJS node status application set up with OOD.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tutorial</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="V3PHZJ"
+     style="--track-color:#BD79FB"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            10:00
+        </div>
+        <div class="duration">
+            90min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Extending Functionality with Initializers
+            
+        </div>
+        
+            <div class="speakers">
+                Huston Rogers [Mississippi State University]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>OOD can leverage initializers to customize or provide extended options when generating forms, and using other OOD features. This talk covers what initializers are, how to set them up, and example initializers for different functions.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Tutorial</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">11:30</div>
+                            
+                            
+
+<div class="pretalx-session break"
+     id="break"
+     style="--track-color:#ccc"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            11:30
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                Lunch
+            
+        </div>
+        
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">12:30</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="FK7R3E"
+     style="--track-color:#1AA6EA"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            12:30
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                A GOOD Start:  Open OnDemand’s Past, Present, and Future
+            
+        </div>
+        
+            <div class="speakers">
+                Alan Chalker [Ohio Supercomputer Center]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>The conference will kick-off with a welcome to everyone attending as well as a brief overview of recent major accomplishments related to Open OnDemand.  Open OnDemand PI Alan Chalker will provide a vision for the future of Open OnDemand, particularly as it relates to the rapid adoption of AI technologies.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Core Team Track [featuring AI OnDemand]</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">13:00</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="TPGRMP"
+     style="--track-color:#FF2172"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            13:00
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Open OnDemand @ Harvard IQSS
+            
+        </div>
+        
+            <div class="speakers">
+                Len Wisniewski [Harvard]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>This talk gives a high-level overview of our user-centered, collaborative approach to infrastructure operations and software development for Open OnDemand at Harvard IQSS.  We highlight past, present, and future projects for Open OnDemand feature development.  This talk can serve as a springboard for a number of other presentations as needed to share more in-depth experiences with Open OnDemand.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Platinum Sponsor Talk</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">13:30</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="BUKSXS"
+     style="--track-color:#FF2172"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            13:30
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Cambridge Computer - Title TBA
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>TBA</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Platinum Sponsor Talk</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">14:00</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="SZXWKM"
+     style="--track-color:#DB6524"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:00
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Bringing AI tools to Open OnDemand to boost coding efficiency
+            
+        </div>
+        
+            <div class="speakers">
+                Wei Feinstein [Lawrence Berkeley National Laboratory]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Integrating AI-powered developer tools within VS Code and Jupyter Notebooks significantly enhances coding efficiency and productivity. This presentation will feature select coding assistant tools applicable to Open OnDemand users engaged in coding, encompassing beginner developers, data analysts, and experienced developers. Participants will receive feature overviews and installation guidance to facilitate the seamless adoption of AI-powered coding tools.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Application Track [featuring AI OnDemand]</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="KX33UB"
+     style="--track-color:#7A685B"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:00
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Lessons Learned from 8 Years of Open OnDemand at Princeton Research Computing
+            
+        </div>
+        
+            <div class="speakers">
+                Jonathan Halverson [Princeton], Josko Plazonic [Princeton], Irene Kopaliani [Princeton]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Adopting a new software platform that has the power to change the way teaching and research is done is rarely easy. In this talk, we explain how Princeton University Research Computing started with Open OnDemand (OOD), what we contributed, and what we learned. Hear about our problems, solutions and continued pain points.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Platform Track</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">14:30</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="KGVZRX"
+     style="--track-color:#1AA6EA"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:30
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Developer Forum (Breakout Sessions)
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Room for optional breakout sessions</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Core Team Track</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="R7UZUH"
+     style="--track-color:#1AA6EA"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:30
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Developer Forum (Breakout Sessions)
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Room for optional breakout sessions</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Core Team Track</div>
+            <div class="room">Lee Conference Room (CGIS S030)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="3CWD9A"
+     style="--track-color:#1AA6EA"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:30
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Developer Forum (Breakout Sessions)
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Room for optional breakout sessions</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Core Team Track</div>
+            <div class="room">Kang Conference Room (CGIS S050)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">15:00</div>
+                            
+                            
+
+<div class="pretalx-session break"
+     id="break"
+     style="--track-color:#ccc"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            15:00
+        </div>
+        <div class="duration">
+            30min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                Break
+            
+        </div>
+        
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">15:30</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="ZHJDGC"
+     style="--track-color:#DB6524"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            15:30
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Deploying LLM web applications on Open OnDemand: experiences at Perth Children&#x27;s Hospital
+            
+        </div>
+        
+            <div class="speakers">
+                Harry Smallbone [University of Western Australia], Thomas Drake-Brockman [Perth Children&#x27;s Hospital]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Open OnDemand (OOD) is ideally placed to bridge the divide between traditional shell-based batch HPC and emerging large language model (LLM) workflows. Our team deployed OOD internally at MERLIN, a small HPC research cluster located inside Perth Children’s Hospital to provide HPC resources to a range of technical and non-technical users on sensitive healthcare data. We adapted existing LLM web applications for OOD to provide a low-code playground for non-technical researchers such as medical doctors and research assistants to engage with LLM resources in a healthcare environment. This presentation will discuss the rationale, and implementation of OOD LLM web applications in a highly restricted environment and motivate future improved support for these types of workflows within OOD.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Application Track [featuring AI OnDemand]</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="7CWQLP"
+     style="--track-color:#7A685B"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            15:30
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Federated Open OnDemand
+            
+        </div>
+        
+            <div class="speakers">
+                Robin Karlsson [CSC - IT Center for Science]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Some organizations, such as CSC - IT Center for Science, provide the users with access to multiple supercomputers, where each of the supercomputers may have completely separate instances of Open OnDemand. This leads to a fragmented user experience, where the user is required to log in to another instance to access another supercomputer, as well as increased time spent on maintaining multiple instances. This talk targets system administrators, service owners, and other persons responsible for maintaining and developing Open OnDemand instances, and discusses the benefits and challenges of providing a single instance of Open OnDemand, which is connected to all of the organization's supercomputers and potentially even partner organizations' supercomputers.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Platform Track</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">16:00</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="ZXPTGW"
+     style="--track-color:#DB6524"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            16:00
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Creating and Deploying Singularity-Based Web Applications on Open OnDemand
+            
+        </div>
+        
+            <div class="speakers">
+                Kyriakos Tsoukalas [Colgate University]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>This talk will describe the process of creating and deploying Singularity-based interactive applications on the Open OnDemand environment. Singularity containers offer a secure and portable way to package applications. When combined with Open OnDemand, they enable easy scaling of single-user applications to multi-user environments, while offloading user management to the Open OnDemand environment. The talk will also cover the used of Streamlit for the creation of python-based web applications that integrate with Open OnDemand’s job submission system and shared file systems. Attendees will gain hands-on experience in deploying reproducible, and easily accessible applications in a high-throughput computing environment.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Application Track</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="BNEEB3"
+     style="--track-color:#7A685B"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            16:00
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Scaling up OOD - a sysadmin&#x27;s perspective
+            
+        </div>
+        
+            <div class="speakers">
+                Simon Westersund [CSC - IT Center for Science]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>A walk-through of concrete issues and performance improvements<br>
+which CSC has identified when approaching a scale of hundreds of concurrent<br>
+users on Open OnDemand. The aim is to inform system administrators and developers<br>
+who are operating an OOD instance about potential pitfalls, as well as quirks<br>
+which only become visible at a larger scale.</p>
+<p>This technical talk will consider site-specific issues, code-specific issues in the OOD<br>
+upstream, as well as architectural impacts of using Passenger.<br>
+A general understanding of the OOD architecture, Passenger's role in it, and<br>
+Linux systems programming is beneficial.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Platform Track</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">16:30</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="XUTHP9"
+     style="--track-color:#1AA6EA"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            16:30
+        </div>
+        <div class="duration">
+            90min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Growing Open OnDemand: Leveraging Unified Community Knowledge (GOODLUCK) – A Deeper Dive
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Members of the leadership team of GOODLUCK, the most recent NSF-funded Open OnDemand project, will introduce the key elements of the four major thrusts of the project:  building an apverse, gathering classroom solutions,  developing cross-cutting solutions and growing the community through affinity groups with time for Q&amp;A and feedback. </p>
+<p>This session will be followed by the Idea Marketplace, where audience members will have an opportunity to have informal one-on-one discussions with the GOODLUCK team to provide feedback and join the effort.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Core Team Track [featuring AI OnDemand]</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">18:00</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="M8TV3T"
+     style="--track-color:#0076AF"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            18:00
+        </div>
+        <div class="duration">
+            120min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Idea Marketplace and Reception (Hors D&#x27;oeuvres)
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Join us for an evening of posters, GOODLUCK conversations, and some fun and games. </p>
+<p>Chat with our sponsors, meet fellow GOOD attendees and the Open OnDemand core team, and gear up for Day 3! </p>
+<p>Drinks and refreshments will be served!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Reception</div>
+            <div class="room">CGIS Concourse</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">18:30</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="3PW9AL"
+     style="--track-color:#9B2732"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            18:30
+        </div>
+        <div class="duration">
+            10min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Using OpenOnDemand for Real-World, Interdisciplinary AI Projects in Classrooms
+            
+        </div>
+        
+            <div class="speakers">
+                Gulustan Dogan [University of North Carolina Wilmington]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Integrating interdisciplinary collaboration in AI courses enables students to apply AI to real-world problems across diverse fields. In my AI classes, students partner with faculty from various departments, using OpenOnDemand for GPU-based computations to develop AI solutions. This hands-on approach includes projects like rainfall prediction, wildlife imagery classification, and healthcare trend analysis. OpenOnDemand supports these projects enabling students to tackle data-intensive challenges. This framework builds technical skills and highlights AI’s impact across disciplines, preparing students to innovate beyond traditional boundaries. This poster showcases the work done with OpenOnDemand across 7 different disciplines to show the interdisciplinary power of OpenOnDemand.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Posters [featuring AI OnDemand]</div>
+            <div class="room">CGIS Concourse</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">18:40</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="FU7YFW"
+     style="--track-color:#9B2732"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            18:40
+        </div>
+        <div class="duration">
+            10min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Simplifying HPC Access: Enhancing Research with Open OnDemand at University of Virginia
+            
+        </div>
+        
+            <div class="speakers">
+                Ahmad Sheikhzada [University of Virginia]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>As computational methods in research evolve, many researchers face challenges using traditional High-Performance Computing (HPC) systems. At the University of Virginia Research Computing, we address this by leveraging Open OnDemand (OOD) as a user-friendly, browser-based platform for Interactive HPC (IHPC) and Slurm job management. OOD simplifies HPC access with popular applications, virtual desktops for GUI-based tools, and seamless connectivity without the need for a VPN or command-line interaction. To enhance usability, we’ve added custom utilities for monitoring account status, managing scratch filesystem files, and generating Slurm scripts with Service Unit (SU) estimates. <br>
+These innovations reduce barriers to HPC use, enabling researchers to focus on their work while accessing pow</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Posters</div>
+            <div class="room">CGIS Concourse</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">18:50</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="PJMNB7"
+     style="--track-color:#9B2732"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            18:50
+        </div>
+        <div class="duration">
+            10min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                The OOD App Ecosystem
+            
+        </div>
+        
+            <div class="speakers">
+                Sean Anderson [Wake Forest University]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>There are thousands of scientific and HPC applications that users need to carry out their work. OOD offers an incredible resource for users to access these applications, but how best to understand the existing OOD Apps, to learn from them, and to create your own? In this poster, we propose a simple, centralized repository for OOD Apps and some basic guidelines for creating and sharing new ones.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Posters</div>
+            <div class="room">CGIS Concourse</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">19:00</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="99AZDY"
+     style="--track-color:#9B2732"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            19:00
+        </div>
+        <div class="duration">
+            10min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Dartmouth College Open OnDemand Setup
+            
+        </div>
+        
+            <div class="speakers">
+                Jaime Cleek [Dartmouth]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>How we worked through the Kerberized NFS storage</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Posters</div>
+            <div class="room">CGIS Concourse</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                    
+                </div>
+            
+                
+                    <input name="tabs" id="2025-03-19" type="radio" >
+                
+                <div class="pretalx-list-day pretalx-tab-content" data-start="">
+                    
+                        
+                            <div class="bucket-time">09:00</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="EJ9LEA"
+     style="--track-color:#1AA6EA"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            09:00
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Open OnDemand Developer Relations
+            
+        </div>
+        
+            <div class="speakers">
+                Emily Moffat Sadeghi [Ohio Supercomputer Center]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Learn how the Open OnDemand Dev team organizes the github issues that drive the development and release process and how to contribute to the project.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Core Team Track</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">09:30</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="BX7BCF"
+     style="--track-color:#FF2172"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            09:30
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                OOD Meets EESSI: Accessing and  Distributing Scientific Software with Ease
+            
+        </div>
+        
+            <div class="speakers">
+                Christian Bustelo, Arturo Gimeno [Do IT Now]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>This presentation will provide an overview of the EESSI project and its objectives, as well as our plans to integrate it into the OOD platform. This will allow for combined easy access to both scientific software and HPC resources in a single platform.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Platinum Sponsor Talk</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">10:00</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="QGHTR3"
+     style="--track-color:#2BB519"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            10:00
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                AWS
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>TBA</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Sponsor Talk</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="UAU9AG"
+     style="--track-color:#2BB519"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            10:00
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Integrating MATLAB with OOD: New Tools to Boost Usage and Improve User Experience
+            
+        </div>
+        
+            <div class="speakers">
+                Nick Choi [MathWorks], Lisa Kempler [MathWorks]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Join us to learn how HPC Centers and other sites are integrating MATLAB to work with cluster hardware and data portals. This session will cover tools and best practices to make MATLAB available to users on OOD as a browser-based app and as a Jupyter Notebook language plug-in, as well as available GPU and other parallel computing capabilities.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Sponsor Talk</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">10:30</div>
+                            
+                            
+
+<div class="pretalx-session break"
+     id="break"
+     style="--track-color:#ccc"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            10:30
+        </div>
+        <div class="duration">
+            30min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                Break
+            
+        </div>
+        
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">11:00</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="PUWKRB"
+     style="--track-color:#7A685B"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            11:00
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Fungible Slurm clusters with Open OnDemand and Azure CycleCloud
+            
+        </div>
+        
+            <div class="speakers">
+                Xavier Pillons [Microsoft]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Learn how to build on-demand Slurm clusters using the Azure CycleCloud workspace for Slurm and extend it with an Open OnDemand portal connected to Slurm. This talk will provide you with technical know-how and practical insights to efficiently leverage these tools, ensuring your Azure computational resources are both scalable and flexible.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Platform Track</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="WQFEUA"
+     style="--track-color:#DB6524"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            11:00
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Microsoft Windows through OOD: easy, fast, secure, and scalable
+            
+        </div>
+        
+            <div class="speakers">
+                Dean Anderson [Brigham Young University]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Not all commercially available software will run on Linux or Wine, compelling researchers to request Windows in HPC environments. Traditional solutions demand dedicated servers, Active Directory infrastructure, and specialized IT staff. 7lbd (7-layer bean dip) is an open-source project that eliminates this overhead by treating Windows as "just another Open OnDemand application," allowing users to launch secure Windows desktops in an isolated environment anywhere on their cluster while maintaining access to all of the user’s files. This solution simplifies Windows to a level that even Linux systems administrators will find easy to maintain.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Application Track</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">11:30</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="RRETPP"
+     style="--track-color:#DB6524"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            11:30
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Reinventing OOD Proxying: Mutual TLS Auth, Access Control, and VNC/RDP to the Desktop
+            
+        </div>
+        
+            <div class="speakers">
+                Ryan Cox [Brigham Young University]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Discover how to securely connect desktop applications directly to Open OnDemand jobs using mutual TLS authentication all the way from desktop client to compute node. This technical presentation demonstrates a new proxy architecture enabling RDP, VNC, and other protocols to connect securely from desktop client programs to applications on compute nodes, with enhanced security controls missing from the current proxy implementation. It’s perfect for sites wanting to offer desktop client access while maintaining browser viewer capabilities, all with improved security.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Application Track</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="9P3FWH"
+     style="--track-color:#7A685B"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            11:30
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Software Defined HPC with Open OnDemand
+            
+        </div>
+        
+            <div class="speakers">
+                John-Paul Robinson [University of Alabama at Birmingham]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Research computing organizations facilitate scientific investigations by providing access to computational resources, advanced networking, and ample storage to support the demands of scientific workflows.  Traditional HPC systems run as self-contained environments with a head node that defines access to all resources and orchestrates operation of the cluster.  Managing access to these services over the various lifetimes of hardware, software, clusters, and facilities presents challenges in maintaining access for users to different systems as they evolve.  At UAB we are building a software defined HPC environment to manage evolution of our systems by implementing an A/B testing framework that leverages Open OnDemand as the web interface to different generations of hardware.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Platform Track</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">12:00</div>
+                            
+                            
+
+<div class="pretalx-session break"
+     id="break"
+     style="--track-color:#ccc"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            12:00
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                Lunch
+            
+        </div>
+        
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">13:00</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="ARPPAF"
+     style="--track-color:#BD79FB"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            13:00
+        </div>
+        <div class="duration">
+            90min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Containerized Open OnDemand Base
+            
+        </div>
+        
+            <div class="speakers">
+                Morgan Ludwig [Cambridge Computer]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>A comprehensive overview of taking a base container setup, building of the image and standing up of ood in a container.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Birds-of-a-Feather (BoFs)</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="C7N9RV"
+     style="--track-color:#BD79FB"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            13:00
+        </div>
+        <div class="duration">
+            90min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                HPC Adult Coloring Book BOF
+            
+        </div>
+        
+            <div class="speakers">
+                Sarah L Duncan [Harvard]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Ever heard of coloring books for adults? Take a brain break, hang out with new friends and colleagues and color the "What's So Super About Super Computing?" OSC coloring book. Colored pencils provided!</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Birds-of-a-Feather (BoFs)</div>
+            <div class="room">Kang Conference Room (CGIS S050)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="AAGZE9"
+     style="--track-color:#BD79FB"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            13:00
+        </div>
+        <div class="duration">
+            90min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Using OpenOnDemand for Teaching
+            
+        </div>
+        
+            <div class="speakers">
+                Jeremy Guillette [Harvard], Ben Eisenbraun [Harvard], Sean Anderson [Wake Forest University], Ashley Dederich [University of Utah]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>This BoF will bring together administrators from different institutions who use OOD in a teaching context. We will have a panel of presenters to talk about how OOD is implemented for teaching in their implementation, and then open up the floor for discussion with the panel. This BoF is intended to be useful to developers and administrators who are responsible for OOD in teaching use cases, as well as instructors who want a better understanding of what's going on behind the scenes with the platforms they use. It's our hope that this sharing of ideas will result in a lot of learning from different solutions to similar problems unique to deploying OOD for teaching.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Birds-of-a-Feather (BoFs)</div>
+            <div class="room">Lee Conference Room (CGIS S030)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">14:30</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="TTWN9E"
+     style="--track-color:#7A685B"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:30
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Bridging the Gap: Simplifying HPC Access for Data Science Users at Universidad de Sonora
+            
+        </div>
+        
+            <div class="speakers">
+                Maria del Carmen Heras Sanchez [University of Sonora]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>The Universidad de Sonora (UNISON) has successfully integrated Open OnDemand to address the growing demand for high-performance computing (HPC) resources among researchers and students, particularly those in data science with limited technical expertise in HPC. This presentation will showcase how Open OnDemand has empowered non-specialized users by providing an intuitive interface to access advanced computational resources, enabling breakthroughs in data-driven research. By detailing our implementation strategy, user-focused approach, and the resulting benefits, we aim to highlight the transformative potential of Open OnDemand for institutions facing similar challenges.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Platform Track</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="73MZUC"
+     style="--track-color:#DB6524"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:30
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Containerized bioinformatics applications and pipelines on Open OnDemand
+            
+        </div>
+        
+            <div class="speakers">
+                Yucheng Zhang [Tufts University]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Tufts University hosts a vibrant bioinformatics community, many of whom are new to using the linux command line for high-performance computing (HPC). Open OnDemand (OOD) simplifies access to HPC resources with its user-friendly web interface. At Tufts, we have deployed over 30 bioinformatics applications and nf-core pipelines on OOD, including custom RStudio servers tailored for bioinformatics. The nf-core pipelines enable users to run complex workflows with ease. Here, we share our experiences in building a custom RStudio server container for bioinformatics, deploying containerized applications as OOD apps, and transforming the complex command-line interfaces of nf-core pipelines into user-friendly OOD web applications.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Application Track</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">15:00</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="NKEYVY"
+     style="--track-color:#7A685B"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            15:00
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                    <span class="fa-stack">
+                        <i class="fa fa-video-camera fa-stack-1x"></i>
+                        <i class="fa fa-ban do-not-record fa-stack-2x" aria-hidden="true" title="This session will not be recorded."></i>
+                    </span>
+                
+                ERN CryoEM Federated Remote Instrument Access Pilot Project
+            
+        </div>
+        
+            <div class="speakers">
+                Maureen Dougherty [Ecosystem for Research Networking]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>The Ecosystem for Research Networking (ERN) CryoEM Remote Instrument Access Pilot Project aims to simplify wide-area internet access to scientific instruments and data sets by multi-institutional collaboration with emphasis on under-represented and under-resourced institutions. The goal is a secure, web-based portal, built upon containerized Open OnDemand, providing federated access to scientific instruments and associated large data sets;  generate workflows paired with AI microservices, edge computing, and advanced computing, for real-time experimental parameter adjustments and decisions. This talk will present an overview of the design and development efforts of this active project, concluding with a short video and link to the open-source GitHub repository for community participation.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Platform Track</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="SUZHBH"
+     style="--track-color:#DB6524"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            15:00
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Using Community Container Images with OOD for Robust RStudio Server and PostGIS
+            
+        </div>
+        
+            <div class="speakers">
+                Paula C Sanematsu [Harvard]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>We present our experience of leveraging several publicly available container projects for RStudio Server and PostGIS/PostgreSQL Open OnDemand interactive apps. These containers have pre-configured software stacks that facilitate easier application-specific package installation by users, reducing user support requests on computing center staff. This talk describes the user-friendly OOD interfaces to these complex apps and how the containers are launched on an HPC cluster with Singularity.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Application Track</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">15:30</div>
+                            
+                            
+
+<div class="pretalx-session break"
+     id="break"
+     style="--track-color:#ccc"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            15:30
+        </div>
+        <div class="duration">
+            30min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                Break
+            
+        </div>
+        
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">16:00</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="NYHCQF"
+     style="--track-color:#DB6524"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            16:00
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                AlphaFold accessibility: an optimized open-source OOD app for Protein Structure Prediction
+            
+        </div>
+        
+            <div class="speakers">
+                William Lai [Cornell], Vinay Saji Mathew [Pennsylvania State University]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>The AlphaFold AI system won the 2024 Chemistry Nobel Prize because of its predictive achievements poised to revolutionize disease understanding and drug discovery. Initially released as open-source (and now proprietary), researchers are working to improve the code to require less resources and maintain open-source accessibility. We present an open-source implementation of AlphaFold 2 &amp; 3 that optimizes computational resource allocation by intelligently separating CPU and GPU phases within a single OOD instance. This addresses a critical challenge to make AlphaFold more accessible by minimizing idle GPU cycles. Benchmarking across three major clusters (NCSA Delta, Jetstream2, and ROAR), we developed a user-friendly OOD application that operates with maximum resource efficiency.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Application Track [featuring AI OnDemand]</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="MYXNRF"
+     style="--track-color:#7A685B"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            16:00
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                OOD at IFOM: combining Cancer Research, reproducibility and user-friendliness
+            
+        </div>
+        
+            <div class="speakers">
+                Raoul Jean Pierre Bonnal [IFOM ETS - The AIRC Institute of Molecular Oncology], Cristiano Petrini [AIRC Institute of Molecular Oncology]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>IFOM is a cancer biomedical research center, with the ultimate goal of translating the discoveries in treatments and prevention strategies. Democratizing the access to the computational resources is the key step for our biomedical researchers to be independent in analyzing and exploring the data; for bioinformaticians to deliver novel computational approaches with ease; for the organization to have an organic, scalable and sustainable platform. This talk walkthrough on IFOM’s adoption of Open OnDemand: the challenges, the solutions and the cultural implications of this technological integration.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Platform Track</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">16:30</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="D8UEDS"
+     style="--track-color:#7A685B"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            16:30
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                OOD from Scratch: if we can do it, so can you!
+            
+        </div>
+        
+            <div class="speakers">
+                Sean Anderson [Wake Forest University]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Open OnDemand (OOD) is a transformative tool for Research and High Performance Computing Centers -- but getting it up-and-running at your institution can feel daunting. We recently took on this challenge, and trust me, if one guy from a small team at a small school can do it, then so can you! I will talk about excellent resources I had, lessons I learned, and some key takeaways from the experience. If you are considering OOD for your institution, then this is your chance to hear some positive first-hand experience.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Platform Track</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="3R7NWE"
+     style="--track-color:#DB6524"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            16:30
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Try | Create | Share - Customizations with OnDemand plugins
+            
+        </div>
+        
+            <div class="speakers">
+                Aday Bujeda [Harvard]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Open OnDemand has evolved to offer powerful customization features, enabling institutions to tailor their instances like never before. This talk will explore how these features allow administrators and developers to create and deploy customizations easily, fostering a community-driven ecosystem of shared enhancements. Attendees will learn how to extend Open OnDemand using plugins and benefit from community contributions through practical examples, such as the metrics widget and the session card metrics developed by IQSS.</p>
+<p>Whether you're managing an HPC environment or developing for Open OnDemand, you'll leave with practical knowledge on how to try, create, and share customizations that simplify administration and improve user experiences.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Application Track</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">17:00</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="T8TCDS"
+     style="--track-color:#7A685B"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            17:00
+        </div>
+        <div class="duration">
+            10min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Building Success Through Testing
+            
+        </div>
+        
+            <div class="speakers">
+                Alyza Rosario [University of British Columbia]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Rolling out Open OnDemand is one thing - ensuring it actually works for users is another. Without a structured testing strategy, unexpected issues can slip through, leading to frustrated researchers and overloaded support teams.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Platform Track</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="78P3VV"
+     style="--track-color:#DB6524"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            17:00
+        </div>
+        <div class="duration">
+            10min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Open OnDemand App Template for Standardizing and Simplifying Development
+            
+        </div>
+        
+            <div class="speakers">
+                Owen Cochell [Michigan State University]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>The OnDemand Template is a framework that simplifies and standardizes the app development process, which aims to reduce the learning curve for new developers. It offers a documented, generic application that provides most of the configuration required to get applications running in the OnDemand system. Users can specify parameters via the form file, which the template will utilize to self-configure. In most cases, users only need to specify the app metadata, modules to load, the command to execute, and whether it's VNC enabled. The template also utilizes a work in progress plugin system that allows developers to extend existing apps by dynamically adding attributes to the form file and evaluating scripts before the app is started, which allows for apps to be easily extended.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Application Track</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">17:10</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="GY9Y7X"
+     style="--track-color:#7A685B"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            17:10
+        </div>
+        <div class="duration">
+            10min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Open OnDemand for an Established University HPC Community
+            
+        </div>
+        
+            <div class="speakers">
+                Jacob Boschee [University of British Columbia]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>The Advanced Research Computing department at the University of British Columbia (UBC) have been supporting a local HPC cluster for use by the entire UBC research community for nearly a decade. With a demand for more interactive computing options coming from our researchers, we have begun implementing Open OnDemand as a portal for accessing our resources and with that has come challenges around our currently existing architecture. This talk will provide a detailed, yet high-level overview of the challenges we faced and the solutions we explored. By sharing our journey, we hope to provide other system administrators with a view of both the ease of modifying Open OnDemand for current systems, as well as potential challenges to keep in mind when exploring adding Open OnDemand.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Platform Track</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="EZSRZ8"
+     style="--track-color:#DB6524"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            17:10
+        </div>
+        <div class="duration">
+            10min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                SAML Authentication with Open On Demand for HPC Clusters
+            
+        </div>
+        
+            <div class="speakers">
+                Rodgers Kimera [Research Data and Communication Technologies]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Secure and efficient access to High-Performance Computing (HPC) resources is critical for enabling scientific and technical innovation. Open OnDemand (OOD), a widely used web-based HPC access portal, simplifies user interactions with cluster resources. However, traditional authentication methods often present challenges, including limited scalability, complex configurations, and security vulnerabilities. Integrating Security Assertion Markup Language (SAML)-based authentication with OOD addresses these challenges by leveraging federated identity providers for seamless and secure single sign-on (SSO). This approach enables researchers and institutions to utilize existing identity management systems, ensuring compliance with organizational policies while streamlining user access. The present</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Application Track</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">17:20</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="ES9ML9"
+     style="--track-color:#DB6524"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            17:20
+        </div>
+        <div class="duration">
+            10min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Integration of Open OnDemand with the Jobstats Job Monitoring Platform
+            
+        </div>
+        
+            <div class="speakers">
+                Jonathan Halverson [Princeton], Josko Plazonic [Princeton]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Given the ever increasing cost of compute (especially GPUs) it is imperative that these resources are used efficiently. How can this be achieved in a simple-to-use way on a high-performance computing cluster that supports a large number of diverse researchers? Our solution is Jobstats, a job monitoring platform which integrates with Open OnDemand (OOD). This talk will provide an overview of the platform and its various components while concentrating on its links with OOD. Our planned extensions for the OOD integration will be presented with the hope of receiving feedback and new ideas from attendees.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Application Track</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">17:30</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="FBJKT8"
+     style="--track-color:#1AA6EA"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            17:30
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Developer Forum
+            
+        </div>
+        
+            <div class="speakers">
+                Jeff Ohrstrom [Ohio Supercomputer Center], Alan Chalker [Ohio Supercomputer Center], Emily Moffat Sadeghi [Ohio Supercomputer Center], Julie Ma [Massachusetts Green High Performance Computing Center], Travis Ravert [Ohio Supercomputer Center]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Meet with Open OnDemand Dev team members to ask questions about the platform and the docs that don’t easily lend themselves to discourse or email. Community members are welcome to chime in on topics outside the scope of what is deployed at Ohio Supercomputer Center.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Core Team Track</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="UEWB9L"
+     style="--track-color:#1AA6EA"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            17:30
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Developer Forum (Breakout Sessions)
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Meet with Open OnDemand Dev team members to ask questions about the platform and the docs that don’t easily lend themselves to discourse or email. Community members are welcome to chime in on topics outside the scope of what is deployed at Ohio Supercomputer Center.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Core Team Track</div>
+            <div class="room">Lee Conference Room (CGIS S030)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="GUHH3G"
+     style="--track-color:#1AA6EA"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            17:30
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Developer Forum (Breakout Sessions)
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Meet with Open OnDemand Dev team members to ask questions about the platform and the docs that don’t easily lend themselves to discourse or email. Community members are welcome to chime in on topics outside the scope of what is deployed at Ohio Supercomputer Center.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Core Team Track</div>
+            <div class="room">Kang Conference Room (CGIS S050)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="TGUZM9"
+     style="--track-color:#1AA6EA"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            17:30
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Managing the software environment for a classroom deployment of OOD
+            
+        </div>
+        
+            <div class="speakers">
+                Karen Tomko [Ohio Supercomputer Center]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>The Ohio Supercomputer Center (OSC) saw increased use of its OSC OnDemand web interface for classroom applications during the COVID-19 pandemic, particularly for R and Python. To address challenges in creating shareable and reproducible environments, OSC customized RStudio and Jupyter Notebooks for a dedicated classroom OOD instance. This setup allows instructors to manage and configure software environments for students, ensuring consistency and reducing setup time. Instructors can also access student workspaces to review and manage homework.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Core Team Track [featuring AI OnDemand]</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">18:00</div>
+                            
+                            
+
+<div class="pretalx-session break"
+     id="break"
+     style="--track-color:#ccc"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            18:00
+        </div>
+        <div class="duration">
+            120min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                GOOD Social Event
+            
+        </div>
+        
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                    
+                </div>
+            
+                
+                    <input name="tabs" id="2025-03-20" type="radio" >
+                
+                <div class="pretalx-list-day pretalx-tab-content" data-start="">
+                    
+                        
+                            <div class="bucket-time">09:00</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="7TZZYC"
+     style="--track-color:#1AA6EA"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            09:00
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Open OnDemand Governance &amp; Sustainability
+            
+        </div>
+        
+            <div class="speakers">
+                Julie Ma [Massachusetts Green High Performance Computing Center], Justin Costa [OH-TECH]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Learn about the Open OnDemand Governance and Sustainability models that we are rolling out in 2025 and how to get involved.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Core Team Track</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">09:30</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="GKLZKD"
+     style="--track-color:#FF2172"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            09:30
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                    <span class="fa-stack">
+                        <i class="fa fa-video-camera fa-stack-1x"></i>
+                        <i class="fa fa-ban do-not-record fa-stack-2x" aria-hidden="true" title="This session will not be recorded."></i>
+                    </span>
+                
+                Dell and Intel AI Better Together
+            
+        </div>
+        
+            <div class="speakers">
+                Michael Simon [Dell], John Haag [Intel]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Join us to learn what Dell and Intel are doing in the evolving world of AI and HPC.  We will introduce the room to new platforms, new technology and the focused insights of Dell and Intel.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Platinum Sponsor Talk [featuring AI OnDemand]</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">10:00</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="RNBTC8"
+     style="--track-color:#2BB519"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            10:00
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                A Simplified Approach to Managing Your Data With Globus
+            
+        </div>
+        
+            <div class="speakers">
+                Greg Nawrocki [Globus]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Open OnDemand and Globus are natural partners: Open OnDemand lowers the barrier to using advanced computing resources while Globus removes the friction from data management. Using Globus to move and share data makes your Open OnDemand system even more valuable to researchers. In this talk we will demonstrate how the two systems integrate to help researchers reach data management and computation nirvana.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Sponsor Talk</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="ZLW9EY"
+     style="--track-color:#2BB519"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            10:00
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Enhanced HPC Workforce Development: Overcoming the &#x27;Blinking Cursor&#x27; Barrier with Open OnD
+            
+        </div>
+        
+            <div class="speakers">
+                Jeaime Powell [Omnibond]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>High-Performance Computing (HPC) workforce development initiatives aimed to train diverse stakeholders in essential tools and methods. The "blinking cursor" barrier in terminal interfaces was addressed by integrating Open OnDemand within the projectEUREKA platform, facilitating 18 groups of MSI undergraduates and faculty in cyberinfrastructure-targeted hackathons. These time-bounded events, based on the HackHPC Model, addressed the HPC skills gap through intensive applied training. This presentation will compare traditional terminal/CLI-based and web-GUI-based training approaches, examining their evolution and effectiveness. Additionally, modified outcomes and artifacts produced by participants will provide insights into the impact of these training methodologies.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Sponsor Talk</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">10:30</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="MH8ND3"
+     style="--track-color:#1AA6EA"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            10:30
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Developer Forum
+            
+        </div>
+        
+            <div class="speakers">
+                Emily Moffat Sadeghi [Ohio Supercomputer Center], Alan Chalker [Ohio Supercomputer Center], Jeff Ohrstrom [Ohio Supercomputer Center], Travis Ravert [Ohio Supercomputer Center], Julie Ma [Massachusetts Green High Performance Computing Center]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Meet with Open OnDemand Dev team members to ask questions about the platform and the docs that don’t easily lend themselves to discourse or email. Community members are welcome to chime in on topics outside the scope of what is deployed at Ohio Supercomputer Center.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Core Team Track</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="WXPYBE"
+     style="--track-color:#1AA6EA"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            10:30
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Developer Forum (Breakout Session)
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Meet with Open OnDemand Dev team members to ask questions about the platform and the docs that don’t easily lend themselves to discourse or email. Community members are welcome to chime in on topics outside the scope of what is deployed at Ohio Supercomputer Center.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Core Team Track</div>
+            <div class="room">Lee Conference Room (CGIS S030)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="GLJQGC"
+     style="--track-color:#1AA6EA"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            10:30
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Developer Forum (Breakout Session)
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Meet with Open OnDemand Dev team members to ask questions about the platform and the docs that don’t easily lend themselves to discourse or email. Community members are welcome to chime in on topics outside the scope of what is deployed at Ohio Supercomputer Center.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Core Team Track</div>
+            <div class="room">Kang Conference Room (CGIS S050)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">11:00</div>
+                            
+                            
+
+<div class="pretalx-session break"
+     id="break"
+     style="--track-color:#ccc"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            11:00
+        </div>
+        <div class="duration">
+            30min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                Break
+            
+        </div>
+        
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">11:30</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="RARKPZ"
+     style="--track-color:#7A685B"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            11:30
+        </div>
+        <div class="duration">
+            10min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Maintaining Institutional Identity Within a Shared Open OnDemand Instance
+            
+        </div>
+        
+            <div class="speakers">
+                Jason L. Simms [Swarthmore College]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>This session discusses using CILogon and Open OnDemand to enable institution-specific authentication and branding for Swarthmore College's and Lafayette College's merged HPC cluster.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Platform Track</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="M3EWSU"
+     style="--track-color:#DB6524"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            11:30
+        </div>
+        <div class="duration">
+            10min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                    <span class="fa-stack">
+                        <i class="fa fa-video-camera fa-stack-1x"></i>
+                        <i class="fa fa-ban do-not-record fa-stack-2x" aria-hidden="true" title="This session will not be recorded."></i>
+                    </span>
+                
+                Using a Passenger App for Displaying GPU Node Configuration and Resource Availability
+            
+        </div>
+        
+            <div class="speakers">
+                Michael Dickens [Texas A&amp;M University]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>An up-to-the-minute status report of the configuration and availability of HPC resources can be useful for selecting resource parameters in interactive apps. GPU node resources can be low at times leaving few or no GPUs available for immediate use when launching interactive apps. By providing the status of readily available GPU node resources such as the type and number of GPUs, CPU cores and GB of memory, users can more efficiently utilize cluster resources and minimize job queue wait times.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Application Track</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">11:45</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="CXWBEP"
+     style="--track-color:#7A685B"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            11:45
+        </div>
+        <div class="duration">
+            10min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Approachable High Performance Computing with Open OnDemand
+            
+        </div>
+        
+            <div class="speakers">
+                Joe Ryan [Michigan State University]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Administrators and Research Consultants helping researchers scale their work can use Open OnDemand applications to make HPC resources more accessible to disciplines that are not traditionally identified as HPC users.  A brief discussion of how we help make high performance computing (HPC) more approachable to new users, with an emphasis on the applications presented, support process, and using Open OnDemand as a launch pad to fully integrate new users into the HPC workflow.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Platform Track</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="PBSAAB"
+     style="--track-color:#DB6524"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            11:45
+        </div>
+        <div class="duration">
+            10min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Open OnDemand Web Dashboard for User-Friendly Job Accounting and Performance Metrics
+            
+        </div>
+        
+            <div class="speakers">
+                Richie Tan [Purdue]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>The Anvil supercomputer, funded by the NSF and maintained by Purdue University, powers research across the country. Anvil’s web dashboard is an Open OnDemand portal with just the base features, including creating jobs and viewing the job queue. However, a lot of information is locked behind Slurm terminal commands and other scripts, making it difficult for researchers without terminal knowledge to access the information provided by these commands. The goal of this project is to create a detailed, user-friendly dashboard built off of Open OnDemand to provide useful information about the cluster and their own jobs. This improved dashboard enables researchers to more efficiently conduct their research and access commonly-needed cluster information without learning complex terminal commands.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Application Track</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">12:00</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="8XZYTX"
+     style="--track-color:#1AA6EA"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            12:00
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Drona Workflow Engine
+            
+        </div>
+        
+            <div class="speakers">
+                Marinus Pennings [Texas A&amp;M University]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Texas  A&amp;M has a long history of creating Apps for OpenOnDemand to improve the user experience. In this presentation, we will present two of our latest projects. We will briefly show our new experimental customizable dashboard, where users can manage their resources and interact with the HPRC helpdesk. Next, we will show the Drona workflow engine, a framework for composing and generating custom workflows. Drona abstracts the researcher as much as possible from HPC specifics normally required to run their jobs on our clusters so they can focus on their research. This includes setting up custom environments and automatically selecting resources. A major application is to assist researchers in creating and running their AI workloads on a variety of accelerators.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Core Team Track</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="LNMCUB"
+     style="--track-color:#2BB519"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            12:00
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Leveraging the Open Science Operating System to build virtual environments for science and education
+            
+        </div>
+        
+            <div class="speakers">
+                Sandeep Chandra [Stack Science], Sandra Gesing [Stack Science]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>The Stack Science team will share use cases to demonstrate how the Open Science Operating System (OS2) is driving research and scientific outcomes through a suite of capabilities, including science gateways as a service, research software development, secure cloud enclaves, and regulatory data management.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Sponsor Talk</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">12:30</div>
+                            
+                            
+
+<div class="pretalx-session break"
+     id="break"
+     style="--track-color:#ccc"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            12:30
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                Lunch/Contributor Jam Recognition
+            
+        </div>
+        
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">13:30</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="Y7E77C"
+     style="--track-color:#1AA6EA"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            13:30
+        </div>
+        <div class="duration">
+            25min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                A GOOD Ending
+            
+        </div>
+        
+            <div class="speakers">
+                Alan Chalker [Ohio Supercomputer Center]
+            </div>
+        
+        
+            <div class="abstract">
+                <p>A brief summary of the GOOD conference will be provided, along with a call to action to continue the engagement within the Open OnDemand community in the months and years to come.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Core Team Track</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">14:00</div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="VP83KJ"
+     style="--track-color:#1AA6EA"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:00
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Governance Working Group - Community Engagement
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>TBA</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Core Team Track</div>
+            <div class="room">Tsai Auditorium (CGIS S010)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="8QYEUJ"
+     style="--track-color:#1AA6EA"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:00
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Governance Working Group - Contributor Guide
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>TBA</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Core Team Track</div>
+            <div class="room">Lee Conference Room (CGIS S030)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="E893EN"
+     style="--track-color:#1AA6EA"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:00
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Governance Working Group - Technical
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>TBA</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Core Team Track</div>
+            <div class="room">Belfer Case Study Room (CGIS S020)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+     id="RPVAEC"
+     style="--track-color:#1AA6EA"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:00
+        </div>
+        <div class="duration">
+            60min
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Governance Working Group - User Guide
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>TBA</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Core Team Track</div>
+            <div class="room">Kang Conference Room (CGIS S050)</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                    
+                </div>
+            
+            <script src="/static/CACHE/js/output.878453ca853a.js" defer></script>
+        </div>
+
+
+                </main>
+            </div>
+            <footer>
+                
+                    <div id="exporttimestamp" class="text-muted">
+                        
+                        This is a static export generated at 2025-07-09 17:45 EDT
+                    </div>
+                
+                
+
+
+    powered by <a href="https://pretalx.com" target="_blank" rel="noopener">pretalx</a>
+
+
+                
+                    &middot;
+                    <a href="mailto:jim@numfocus.org">Contact us</a>
+                
+                
+                
+            </footer>
+        </div>
+    </body>
+</html>

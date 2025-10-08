@@ -1,0 +1,2159 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- Made with love by pretalx v2.3.2post0. -->
+<schedule>
+    <generator name="pretalx" version="2.3.2post0" />
+    <version>0.33</version>
+    <conference>
+        <acronym>2025</acronym>
+        <title>GOOD 2025</title>
+        <start>2025-03-17</start>
+        <end>2025-03-20</end>
+        <days>4</days>
+        <timeslot_duration>00:05</timeslot_duration>
+        <base_url>https://cfp.openondemand.org/2025/schedule/</base_url>
+        <time_zone_name>US/Eastern</time_zone_name>
+    </conference>
+    <day index='1' date='2025-03-17' start='2025-03-17T04:00:00-04:00' end='2025-03-18T03:59:00-04:00'>
+        <room name='Tsai Auditorium (CGIS S010)'>
+            <event guid='307e1812-4a21-5d33-910b-30543d8c6026' id='56'>
+                <date>2025-03-17T13:00:00-04:00</date>
+                <start>13:00</start>
+                <duration>04:00</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-56-contributor-jam</slug>
+                <url>https://cfp.openondemand.org//2025/talk/CFEMBK/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Contributor Jam</title>
+                <subtitle></subtitle>
+                <track>Core Team Track</track>
+                <type>Contributor Jam</type>
+                <language>en</language>
+                <abstract>What is the Contributor Jam? | The Contributor Jam will offer attendees an immersive opportunity to work closely with Open OnDemand (OOD) developers. Participants will gain an understanding of OOD&apos;s components and leave with the knowledge and tools to contribute to its development.</abstract>
+                <description>Required programming level | Attendees of all programming levels and experience are invited to participate. There will be something for everyone. 
+
+What to bring | Your laptop, fully charged
+
+Highlights:
+1) Explore the Building Blocks of OOD
+  - Dive into key repositories: ondemand, ood_core, ood-documentation, and learn how they interconnect.
+  - Understand the dashboard and its role within OOD.
+  - Familiarize yourself with all the OnDemand Ruby gems&#8212;and more!
+
+2) Contribute
+  - Learn how to make pull requests across multiple OnDemand repositories.
+  - Discover the development tools and dev files designed to simplify the process.
+  - Navigate the contributor guides for seamless onboarding.
+  
+3) Demonstrate and Learn
+  - Witness OOD&apos;s functionality in action, including its support for schedulers, OS compatibility, and applications.
+  - Deepen your understanding of the OOD documentation.
+
+4) Take Home Resources
+  - Leave with a cheat sheet crafted by the OOD developers, packed with practical tips and shortcuts.
+
+Free to attend for conference ticket holders. Register your participation during conference registration. 
+
+Questions | Email info@good.openondemand.org with any questions about participating in the Contributor Jam.</description>
+                <logo></logo>
+                <persons>
+                    <person id='73'>Emily Moffat Sadeghi [Ohio Supercomputer Center]</person><person id='74'>Travis Ravert [Ohio Supercomputer Center]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        <room name='Belfer Case Study Room (CGIS S020)'>
+            <event guid='8549c641-404d-5ddf-965c-303594b89a03' id='87'>
+                <date>2025-03-17T13:00:00-04:00</date>
+                <start>13:00</start>
+                <duration>04:00</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-87-contributor-jam-breakout-sessions-</slug>
+                <url>https://cfp.openondemand.org//2025/talk/TXCCLT/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Contributor Jam (Breakout Sessions)</title>
+                <subtitle></subtitle>
+                <track>Core Team Track</track>
+                <type>Contributor Jam</type>
+                <language>en</language>
+                <abstract>Room for optional breakout sessions</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='74'>Travis Ravert [Ohio Supercomputer Center]</person><person id='73'>Emily Moffat Sadeghi [Ohio Supercomputer Center]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        <room name='Kang Conference Room (CGIS S050)'>
+            <event guid='aa7fe129-97f7-5a05-9cad-accbd14f73d0' id='88'>
+                <date>2025-03-17T13:00:00-04:00</date>
+                <start>13:00</start>
+                <duration>04:00</duration>
+                <room>Kang Conference Room (CGIS S050)</room>
+                <slug>2025-88-contributor-jam-breakout-sessions-</slug>
+                <url>https://cfp.openondemand.org//2025/talk/RXCFVB/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Contributor Jam (Breakout Sessions)</title>
+                <subtitle></subtitle>
+                <track>Core Team Track</track>
+                <type>Contributor Jam</type>
+                <language>en</language>
+                <abstract>Room for optional breakout sessions</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='73'>Emily Moffat Sadeghi [Ohio Supercomputer Center]</person><person id='74'>Travis Ravert [Ohio Supercomputer Center]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        
+    </day>
+    <day index='2' date='2025-03-18' start='2025-03-18T04:00:00-04:00' end='2025-03-19T03:59:00-04:00'>
+        <room name='Tsai Auditorium (CGIS S010)'>
+            <event guid='85092bd4-bb9d-5b35-b802-4fc50d7e718e' id='20'>
+                <date>2025-03-18T08:30:00-04:00</date>
+                <start>08:30</start>
+                <duration>01:30</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-20-integrating-xdmod-with-ondemand</slug>
+                <url>https://cfp.openondemand.org//2025/talk/TJNP7W/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Integrating XDMoD with OnDemand</title>
+                <subtitle></subtitle>
+                <track>Tutorial</track>
+                <type>Tutorial</type>
+                <language>en</language>
+                <abstract>This tutorial will demonstrate how to integrate XDMoD job statistics graphics on the OnDemand dashboard and how to configure XDMoD to aggregate OnDemand usage logs.</abstract>
+                <description>Building off of the highly successful HPC Toolset Tutorial (https://github.com/ubccr/hpc-toolset-tutorial) developed by the teams at OSC and University at Buffalo CCR, this 90 minute tutorial will take users through the steps needed to integrate Open XDMoD (https://open.xdmod.org/) with OnDemand.  Open XDMoD is an application for monitoring cyberinfrastructure resources such as HPC clusters, storage, cloud, and OnDemand instances.  Open XDMoD provides standard metrics such as utilization, provides quality of service metrics designed to proactively identify underperforming system hardware and software, and can report job level performance data for every job running on the HPC system. 
+
+There are two types of OnDemand-XDMoD integration possible.  The first allows XDMoD user specific job usage graphs to display on the OnDemand dashboard.  Users are presented with information such as the most recent month&apos;s job efficiency report, core hours efficiency report, and recently completed job information.  The second part of the tutorial will demonstrate the xdmod-ondemand module, an optional add-on for Open XDMoD that allows for the display and analysis of Open OnDemand usage. This is intended to be used by HPC center staff to analyze who uses OnDemand at their center, how frequently it&apos;s used and what applications within OnDemand are utilized.
+
+This tutorial will use the Docker container setup created for the HPC Toolset Tutorial and step participants through the configurations required for the two different integration options.  This tutorial will be fast paced and is intended for experienced HPC system administrators who are relatively familiar with the configuration of both Open XDMoD and Open OnDemand.  Attendees have the option to either participate in the step-by-step configuration using Docker on their laptops and running the HPC Toolset Tutorial containers locally or they can simply follow along as the speaker demonstrates.  
+
+Tutorial setup:
+The container environment requires approximately 25GB of disk space and should be downloaded prior to the tutorial from here:  https://github.com/ubccr/hpc-toolset-tutorial
+
+Run the first step of the tutorial under the &quot;XDMoD Setup &amp; Job Ingestion&quot; section (https://github.com/ubccr/hpc-toolset-tutorial/blob/master/xdmod/README.md#xdmod-ondemand-integration-tutorial) prior to the start of the tutorial as this process can take 25-30 minutes: 
+- Submit jobs to the cluster</description>
+                <logo></logo>
+                <persons>
+                    <person id='27'>Dori Sajdak [University at Buffalo]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='1d8d26f1-7fcd-548f-8496-4b71c628bb69' id='9'>
+                <date>2025-03-18T10:30:00-04:00</date>
+                <start>10:30</start>
+                <duration>01:30</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-9-extending-functionality-with-initializers</slug>
+                <url>https://cfp.openondemand.org//2025/talk/V3PHZJ/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Extending Functionality with Initializers</title>
+                <subtitle></subtitle>
+                <track>Tutorial</track>
+                <type>Tutorial</type>
+                <language>en</language>
+                <abstract>OOD can leverage initializers to customize or provide extended options when generating forms, and using other OOD features. This talk covers what initializers are, how to set them up, and example initializers for different functions.</abstract>
+                <description>Example initializers: dynamic scheduler queries, filesystem checking, licensing checks, etc.</description>
+                <logo></logo>
+                <persons>
+                    <person id='17'>Huston Rogers [Mississippi State University]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='b4372156-d412-5c9f-81ca-840b3267f47f' id='58'>
+                <date>2025-03-18T13:00:00-04:00</date>
+                <start>13:00</start>
+                <duration>00:25</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-58-a-good-start-open-ondemand-s-past-present-and-future</slug>
+                <url>https://cfp.openondemand.org//2025/talk/FK7R3E/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>A GOOD Start:  Open OnDemand&#8217;s Past, Present, and Future</title>
+                <subtitle></subtitle>
+                <track>Core Team Track [featuring AI OnDemand]</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>The conference will kick-off with a welcome to everyone attending as well as a brief overview of recent major accomplishments related to Open OnDemand.  Open OnDemand PI Alan Chalker will provide a vision for the future of Open OnDemand, particularly as it relates to the rapid adoption of AI technologies.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='5'>Alan Chalker [Ohio Supercomputer Center]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='1f8dce98-e823-5770-9891-2e3554f57fb4' id='44'>
+                <date>2025-03-18T13:30:00-04:00</date>
+                <start>13:30</start>
+                <duration>00:25</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-44-open-ondemand-harvard-iqss</slug>
+                <url>https://cfp.openondemand.org//2025/talk/TPGRMP/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Open OnDemand @ Harvard IQSS</title>
+                <subtitle></subtitle>
+                <track>Platinum Sponsor Talk</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>This talk gives a high-level overview of our user-centered, collaborative approach to infrastructure operations and software development for Open OnDemand at Harvard IQSS.  We highlight past, present, and future projects for Open OnDemand feature development.  This talk can serve as a springboard for a number of other presentations as needed to share more in-depth experiences with Open OnDemand.</abstract>
+                <description>Projects include the following:
+
+* Efficient Open OnDemand maintenance processes
+* Integration of Open OnDemand and Dataverse
+* Integrating HarvardKey, AD, and Okta for IAM for Open OnDemand
+* Researcher and System Metrics in Open OnDemand
+* Open OnDemand extensions without forking
+* Local environment for Open OnDemand for software development and puppet testing
+* OnDemand customizations with profiles - how to use profiles
+* Developing an Open OnDemand developer guide
+* Saved settings for Job Composer</description>
+                <logo></logo>
+                <persons>
+                    <person id='8'>Len Wisniewski [Harvard]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='0c832c5e-3697-54d9-a1fe-663373063c17' id='85'>
+                <date>2025-03-18T14:00:00-04:00</date>
+                <start>14:00</start>
+                <duration>00:25</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-85-maximizing-your-ai-infrastructure-utilization-with-open-ondemand-and-gpu-fractionalization</slug>
+                <url>https://cfp.openondemand.org//2025/talk/AV3LRW/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Maximizing your AI Infrastructure Utilization with Open OnDemand and GPU Fractionalization</title>
+                <subtitle></subtitle>
+                <track>Platinum Sponsor Talk [featuring AI OnDemand]</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>The growing demands for accelerated computing in batch HPC and AI training call for innovative strategies to enhance infrastructure utilization. GPU fractionalization enables dynamic allocation and sharing of GPU resources, resulting in cost savings and improved efficiency. This talk will discuss key approaches, including NVIDIA Multi-Instance GPU (MIG) and JuiceLabs&apos; dynamic GPU sharing software, highlighting their features, impact on system design, and interaction with the Open OnDemand ecosystem. We will also present a new initiative between Cambridge Computer and JuiceLabs to develop the integration of their GPU-sharing technology with Open OnDemand and discuss how institutions can start using the product today and contribute to the design and vision of the product.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='80'>Chris Simmons [Cambridge Computer]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='22fb743e-b73b-59ae-8306-7fabd84f0a03' id='49'>
+                <date>2025-03-18T14:30:00-04:00</date>
+                <start>14:30</start>
+                <duration>00:25</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-49-bringing-ai-tools-to-open-ondemand-to-boost-coding-efficiency</slug>
+                <url>https://cfp.openondemand.org//2025/talk/SZXWKM/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Bringing AI tools to Open OnDemand to boost coding efficiency</title>
+                <subtitle></subtitle>
+                <track>Application Track [featuring AI OnDemand]</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Integrating AI-powered developer tools within VS Code and Jupyter Notebooks significantly enhances coding efficiency and productivity. This presentation will feature select coding assistant tools applicable to Open OnDemand users engaged in coding, encompassing beginner developers, data analysts, and experienced developers. Participants will receive feature overviews and installation guidance to facilitate the seamless adoption of AI-powered coding tools.</abstract>
+                <description>VS Code and Jupyter Notebooks are established tools within the programming and data science communities, with Open OnDemand enhancing their accessibility and usability, particularly within high-performance computing environments. AI-powered developer tools are transforming software development paradigms. At Berkeley Lab, we provide Large Language Models (LLMs) on-premises and in the cloud to support the scientific computing community. This presentation will demonstrate AI-powered developer tools, including GitHub Copilot, Continue with locally hosted LLMs via Ollama, and Jupyter AI, integrated within VS Code and Jupyter Notebook, respectively. We will guide tool configuration within the Open OnDemand platform and illustrate AI-powered functionalities through coding examples. Participants will gain insights into leveraging AI-powered developer tools to optimize their coding workflow for writing, debugging, and maintaining code within the Open OnDemand environment.</description>
+                <logo></logo>
+                <persons>
+                    <person id='58'>Wei Feinstein [Lawrence Berkeley National Laboratory]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='9928371d-51ae-5019-a106-dec686542fdf' id='89'>
+                <date>2025-03-18T15:00:00-04:00</date>
+                <start>15:00</start>
+                <duration>00:25</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-89-developer-forum</slug>
+                <url>https://cfp.openondemand.org//2025/talk/WKECSV/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Developer Forum</title>
+                <subtitle></subtitle>
+                <track>Core Team Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Meet with Open OnDemand Dev team members to ask questions about the platform and the docs that don&#8217;t easily lend themselves to discourse or email. Community members are welcome to chime in on topics outside the scope of what is deployed at Ohio Supercomputer Center.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='5'>Alan Chalker [Ohio Supercomputer Center]</person><person id='21'>Julie Ma [Massachusetts Green High Performance Computing Center]</person><person id='73'>Emily Moffat Sadeghi [Ohio Supercomputer Center]</person><person id='74'>Travis Ravert [Ohio Supercomputer Center]</person><person id='75'>Jeff Ohrstrom [Ohio Supercomputer Center]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='d1db8ca6-ca06-57b0-8ede-0a0fc41458e8' id='25'>
+                <date>2025-03-18T16:00:00-04:00</date>
+                <start>16:00</start>
+                <duration>00:25</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-25-federated-open-ondemand</slug>
+                <url>https://cfp.openondemand.org//2025/talk/7CWQLP/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Federated Open OnDemand</title>
+                <subtitle></subtitle>
+                <track>Platform Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Some organizations, such as CSC - IT Center for Science, provide the users with access to multiple supercomputers, where each of the supercomputers may have completely separate instances of Open OnDemand. This leads to a fragmented user experience, where the user is required to log in to another instance to access another supercomputer, as well as increased time spent on maintaining multiple instances. This talk targets system administrators, service owners, and other persons responsible for maintaining and developing Open OnDemand instances, and discusses the benefits and challenges of providing a single instance of Open OnDemand, which is connected to all of the organization&apos;s supercomputers and potentially even partner organizations&apos; supercomputers.</abstract>
+                <description>Open OnDemand (OOD) is typically deployed in, or close to the supercomputer, usually on login or utility nodes, where the supercomputer file system can be mounted, direct access to the scheduler exists, and compute nodes can be accessed. However, in cases where the supercomputers are geographically distributed or managed by external organizations, these pre-requisites may not be fulfilled.
+
+This talk explores the possibilities and challenges of deploying OOD in a different environment than the supercomputer itself, enabling the possibility of providing access to multiple remote supercomputers through a single centralized instance of OOD.
+
+As part of the exploration work, CSC developed two prototypes of a centralized OOD instance to discover challenges and test potential solutions. Based on the prototypes, the main technical challenges consist of identity and access management, file system access, compute node access, scheduler access and potential performance concerns.
+
+The first prototype was based on direct SSH access to the national supercomputers, with quick-and-dirty SSHFS mounts to explore the other challenges of federated OOD. The second prototype utilized FirecREST for accessing the supercomputer, and included an additional abstraction layer to solve the challenges related to the file system. Future work in this area consists of building a production-ready implementation of a federated OOD instance.
+
+The goal of the talk is to provide a foundation for future discussion surrounding the topic, gather ideas for technical solutions and future development, as well as provide insight about the topic to other organizations interested in achieving a single, centralized OOD instance that could provide access to multiple supercomputers.</description>
+                <logo></logo>
+                <persons>
+                    <person id='30'>Robin Karlsson [CSC - IT Center for Science]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='7502f888-5717-5d1d-a518-f22ef062d50a' id='42'>
+                <date>2025-03-18T16:30:00-04:00</date>
+                <start>16:30</start>
+                <duration>00:25</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-42-scaling-up-ood-a-sysadmin-s-perspective</slug>
+                <url>https://cfp.openondemand.org//2025/talk/BNEEB3/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Scaling up OOD - a sysadmin&apos;s perspective</title>
+                <subtitle></subtitle>
+                <track>Platform Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>A walk-through of concrete issues and performance improvements
+which CSC has identified when approaching a scale of hundreds of concurrent
+users on Open OnDemand. The aim is to inform system administrators and developers
+who are operating an OOD instance about potential pitfalls, as well as quirks
+which only become visible at a larger scale.
+
+This technical talk will consider site-specific issues, code-specific issues in the OOD
+upstream, as well as architectural impacts of using Passenger.
+A general understanding of the OOD architecture, Passenger&apos;s role in it, and
+Linux systems programming is beneficial.</abstract>
+                <description>CSC - IT Center for Science Ltd. is currently hosting three supercomputers,
+LUMI (#8 on the 11/2024 Top500 list) as well as two national supercomputers.
+CSC has been using Open OnDemand since 2021, and has since deployed OOD on
+all three supercomputers. The use of OOD has evolved over the years, and it
+has become an integral part of our service offering for users of the HPC clusters.
+
+The popularity of OOD among users has grown, and this has caused some interesting
+performance issues. In November of 2024, the busiest of our national supercomputers,
+Puhti, had around 1500 unique users logging into OOD. It is not uncommon to have
+up to 200 concurrent users on Puhti&apos;s web interface, and at times there have been
+issues with high system load on the web server.
+
+This talk will go over a few major performance improvements that CSC has found
+helpful both in the past, but also some future improvements that have been
+identified. The talk will mention Passenger quirks as part of OOD&apos;s architecture,
+the importance of running nginx_clean, as well as the impact of a fast
+user-mapper executable.
+
+The information will be quite technical in nature and is aimed towards operators
+of an OOD instance, e.g., system administrators and developers.
+The talk will include concrete suggestions for administrators on how to configure
+their OOD instances to avoid pitfalls when reaching a higher user count.</description>
+                <logo></logo>
+                <persons>
+                    <person id='53'>Simon Westersund [CSC - IT Center for Science]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='726f9380-5bc9-5bc0-9727-a613e0207c91' id='59'>
+                <date>2025-03-18T17:00:00-04:00</date>
+                <start>17:00</start>
+                <duration>01:00</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-59-growing-open-ondemand-leveraging-unified-community-knowledge-goodluck-a-deeper-dive</slug>
+                <url>https://cfp.openondemand.org//2025/talk/XUTHP9/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Growing Open OnDemand: Leveraging Unified Community Knowledge (GOODLUCK) &#8211; A Deeper Dive</title>
+                <subtitle></subtitle>
+                <track>Core Team Track [featuring AI OnDemand]</track>
+                <type>Other [Share your creative idea for the program]</type>
+                <language>en</language>
+                <abstract>Members of the leadership team of GOODLUCK, the most recent NSF-funded Open OnDemand project, will introduce the key elements of the four major thrusts of the project:  building an apverse, gathering classroom solutions,  developing cross-cutting solutions and growing the community through affinity groups with time for Q&amp;A and feedback. 
+
+This session will be followed by the Idea Marketplace, where audience members will have an opportunity to have informal one-on-one discussions with the GOODLUCK team to provide feedback and join the effort.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        <room name='Belfer Case Study Room (CGIS S020)'>
+            <event guid='1e9c05a7-39b9-50ce-9b6e-42a26b1f0741' id='18'>
+                <date>2025-03-18T08:30:00-04:00</date>
+                <start>08:30</start>
+                <duration>01:30</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-18-from-0-to-ood-how-to-install-open-on-demand-with-keycloak-and-slurm-integration-</slug>
+                <url>https://cfp.openondemand.org//2025/talk/Z8XYSF/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>From 0 to OOD: How to install Open On Demand with Keycloak and Slurm integration.</title>
+                <subtitle></subtitle>
+                <track>Tutorial</track>
+                <type>Tutorial</type>
+                <language>en</language>
+                <abstract>This tutorial provides an introduction to how to install and configure Open On Demand, Slurm and Keycloak. Open OnDemand offers a user-friendly web interface for managing HPC resources, allowing users to submit jobs, access files, and utilize interactive applications easily. Slurm, a robust workload manager, is introduced for efficient job scheduling and resource allocation in HPC clusters. Keycloak, an open-source identity and access management solution, is integrated to enhance security through authentication and authorization. By following this tutorial, users will gain practical knowledge and skills to deploy a seamless and secure HPC environment on their own PCs.</abstract>
+                <description>Welcome to this tutorial designed to guide you through the installation and configuration of three essential tools for managing High-Performance Computing (HPC) environments: Open OnDemand, Slurm, and Keycloak. Whether you are a system administrator, developer, or HPC enthusiast, this tutorial will provide you with step-by-step instructions and best practices to seamlessly integrate these powerful tools.
+
+By the end of this tutorial, you will have a fully operational HPC environment equipped with user-friendly access, efficient workload management, and robust security features.</description>
+                <logo></logo>
+                <persons>
+                    <person id='25'>Edwin Berbesi [Queen&apos;s University]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='e19be2c4-336f-58ce-b2fa-5d199efca35b' id='3'>
+                <date>2025-03-18T10:30:00-04:00</date>
+                <start>10:30</start>
+                <duration>01:30</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-3-deploying-a-user-facing-system-status-application-with-nextjs-and-ood</slug>
+                <url>https://cfp.openondemand.org//2025/talk/SWLTCA/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Deploying a user-facing system status application with NextJS and OOD</title>
+                <subtitle></subtitle>
+                <track>Tutorial</track>
+                <type>Tutorial</type>
+                <language>en</language>
+                <abstract>A tutorial for getting a NextJS node status application set up with OOD.</abstract>
+                <description>In this 90-minute tutorial, participants will learn how to deploy a real-time system status application and integrate it into Open OnDemand (OOD) for seamless SLURM cluster monitoring. We will provide a virtual machine (VM) instance in partnership with Jetstream2&#8212;along with SLURM API, and the Prometheus access needed for deployment.
+
+Attendees will be guided through:
+
+Setting up the environment &#8211; Establishing SSH access to a VM, and preparing dependencies
+
+Deploying the Next.js application &#8211; Installing the repository, configuring SLURM and Prometheus, and launching the service
+
+Integrating with Open OnDemand &#8211; Embedding the status dashboard within an OOD instance for user access
+
+This hands-on session will provide participants with the practical knowledge needed to quickly deploy and connect a user-facing system status page, offering real-time insights into HPC cluster performance.</description>
+                <logo>/media/2025/submissions/SWLTCA/Screenshot_2025-03-16_at_9.06.40PM_FL6GMJl.png</logo>
+                <persons>
+                    <person id='10'>Johnathan Lee [Arizona State University]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='501b3abd-794e-56a6-9db8-4af7b4b5d4e5' id='46'>
+                <date>2025-03-18T14:30:00-04:00</date>
+                <start>14:30</start>
+                <duration>00:25</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-46-lessons-learned-from-8-years-of-open-ondemand-at-princeton-research-computing</slug>
+                <url>https://cfp.openondemand.org//2025/talk/KX33UB/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Lessons Learned from 8 Years of Open OnDemand at Princeton Research Computing</title>
+                <subtitle></subtitle>
+                <track>Platform Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Adopting a new software platform that has the power to change the way teaching and research is done is rarely easy. In this talk, we explain how Princeton University Research Computing started with Open OnDemand (OOD), what we contributed, and what we learned. Hear about our problems, solutions and continued pain points.</abstract>
+                <description>OOD at Princeton started over 8 years ago as an attempt to make teaching easier. It quickly blossomed into an essential new way to not only teach but to facilitate research, for expert users but especially beginners. We have reached the point where in 2023, on our largest general-purpose HPC cluster, 41% of users ran at least one job with OOD.
+
+The journey to that point involved a lot of learning about OOD but also about the needs of our user community. We now have Jupyter OOD apps that offer numerous different setups (e.g., per course, per Anaconda version) and that largely auto-detect user environments. Remote desktop via OOD uses our dedicated visualization nodes and a systemd-based scheduler that we contributed. MATLAB, Mathematica, RStudio, Stata and other apps are also available. File quota reports are available through a web interface as well.
+
+To improve utilization of our clusters and help users optimize their jobs, we developed Jobstats, which is a job monitoring platform that includes OOD helper apps. For a given job ID, we have an app that generates a URL to a Grafana dashboard that shows detailed job metrics as a function of time. These metrics include the CPU/GPU utilization and CPU/GPU memory usage as well as useful node-level metrics. The dashboard is helpful when trying to understand why a job failed and for troubleshooting system performance issues.
+
+To meet the recent demand for GPUs for classes and training workshops, we have configured our local OOD implementation to burst to the cloud. We will discuss the various unexpected problems that arose while creating this service as well as their solutions. Feedback from instructors and students will be presented.
+
+While OOD is working well for the majority of use cases, a certain set of issues continually arise. For instance, we receive a steady stream of support tickets from users with sessions that will not start. While support staff is capable of resolving the matter, more can be done with OOD to identify the problem and present the solution to the user in an understandable way. Other recurring issues and our efforts to address them will be presented.</description>
+                <logo></logo>
+                <persons>
+                    <person id='45'>Jonathan Halverson [Princeton]</person><person id='55'>Josko Plazonic [Princeton]</person><person id='59'>Irene Kopaliani [Princeton]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='a64704d8-cc9f-57db-98a7-69ad0a26a492' id='66'>
+                <date>2025-03-18T15:00:00-04:00</date>
+                <start>15:00</start>
+                <duration>00:25</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-66-developer-forum-breakout-sessions-</slug>
+                <url>https://cfp.openondemand.org//2025/talk/KGVZRX/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Developer Forum (Breakout Sessions)</title>
+                <subtitle></subtitle>
+                <track>Core Team Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Room for optional breakout sessions</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='e36a5756-6975-523e-9ee8-c08a59b178f7' id='22'>
+                <date>2025-03-18T16:00:00-04:00</date>
+                <start>16:00</start>
+                <duration>00:25</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-22-deploying-llm-web-applications-on-open-ondemand-experiences-at-perth-children-s-hospital</slug>
+                <url>https://cfp.openondemand.org//2025/talk/ZHJDGC/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Deploying LLM web applications on Open OnDemand: experiences at Perth Children&apos;s Hospital</title>
+                <subtitle></subtitle>
+                <track>Application Track [featuring AI OnDemand]</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Open OnDemand (OOD) is ideally placed to bridge the divide between traditional shell-based batch HPC and emerging large language model (LLM) workflows. Our team deployed OOD internally at MERLIN, a small HPC research cluster located inside Perth Children&#8217;s Hospital to provide HPC resources to a range of technical and non-technical users on sensitive healthcare data. We adapted existing LLM web applications for OOD to provide a low-code playground for non-technical researchers such as medical doctors and research assistants to engage with LLM resources in a healthcare environment. This presentation will discuss the rationale, and implementation of OOD LLM web applications in a highly restricted environment and motivate future improved support for these types of workflows within OOD.</abstract>
+                <description>We are a team of multidisciplinary paediatric anaesthesia researchers at Perth Children&#8217;s Hospital in Western Australia. Real-world deployments of HPC in healthcare settings have been limited by the challenges of working with sensitive healthcare data within restricted network and operational environments. In Australia, health data cannot be processed outside of the country and in most cases cannot leave the hospital data centre due to privacy requirements. The large Australian public supercomputers NCI GADI and Pawsey Supercomputing Centre do not permit the storage and analysis of healthcare data. Accordingly, Australian medical HPC research has focused on genomic analysis, drug discovery and corporate AI model development. Recently, we deployed a small on-premises HPC research cluster with Open OnDemand (OOD) inside Perth Children&#8217;s Hospital primarily to facilitate the use of large language models (LLMs) on sensitive hospital data. 
+Our team comprises software engineers, data analysts and end users i.e. research assistants, anaesthetists and other healthcare staff who use AI models as part of everyday clinical work. We deployed OOD with the intention of enabling a variety of interactive and batch computing jobs to suit the needs of our users. We realised that there are many containerised low-code LLM web applications that would be suitable to use by non-technical users and that can be contextualised with locally developed language models and techniques such as retrieval augmented generation (RAG). 
+We implemented a containerised workflow using Podman Compose to orchestrate container services and to expose web services over the OOD reverse proxy. Our environment constraints mean that most users share the same node, so we additionally restrict applications to only expose ports over an authenticated Caddy reverse proxy. The hospital environment is strictly locked down and as such some web applications required patching to render client-side URLs prefixed with the OOD reverse proxy path. Future work to simplify this process is planned.
+This enables an end-to-end workflow where technical researchers are able to use batch jobs to finetune and deploy models locally for use by non-technical end users in clinical situations using open-source user-friendly web applications over OOD. We believe this workflow democratises access to LLM and HPC resources and allows our team to be more agile in developing and validating LLMs in clinical settings.</description>
+                <logo></logo>
+                <persons>
+                    <person id='24'>Harry Smallbone [University of Western Australia]</person><person id='68'>Thomas Drake-Brockman [Perth Children&apos;s Hospital]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='6130277b-91df-5e0d-88bb-5e493217768a' id='33'>
+                <date>2025-03-18T16:30:00-04:00</date>
+                <start>16:30</start>
+                <duration>00:25</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-33-creating-and-deploying-singularity-based-web-applications-on-open-ondemand</slug>
+                <url>https://cfp.openondemand.org//2025/talk/ZXPTGW/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Creating and Deploying Singularity-Based Web Applications on Open OnDemand</title>
+                <subtitle></subtitle>
+                <track>Application Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>This talk will describe the process of creating and deploying Singularity-based interactive applications on the Open OnDemand environment. Singularity containers offer a secure and portable way to package applications. When combined with Open OnDemand, they enable easy scaling of single-user applications to multi-user environments, while offloading user management to the Open OnDemand environment. The talk will also cover the used of Streamlit for the creation of python-based web applications that integrate with Open OnDemand&#8217;s job submission system and shared file systems. Attendees will gain hands-on experience in deploying reproducible, and easily accessible applications in a high-throughput computing environment.</abstract>
+                <description>This talk will describe the process of creating and deploying Singularity-based interactive applications on the Open OnDemand environment. Singularity containers offer a secure and portable way to package applications. When combined with Open OnDemand, they enable easy scaling of single-user applications to multi-user environments, while offloading user management to the Open OnDemand environment. The talk will also cover the used of Streamlit for the creation of python-based web applications that integrate with Open OnDemand&#8217;s job submission system and shared file systems. Attendees will gain hands-on experience in deploying reproducible, and easily accessible applications in a high-throughput computing environment.
+Outline: Introduction to Singularity and Streamlit; Overview of building Singularity containers; Overview of developing with Streamlit; Containerizing interactive applications - considerations for GUIs, data dependencies, and user-specific configurations; Setting up the Open OnDemand interactive application; Integrating Singularity containers with Open OnDemand; Scaling single-user applications for multi-user access; Best practices for resource allocation and performance optimization; Practical steps for attendees to deploy their own applications; Brief live demonstration; Q&amp;A and Discussion.
+Why Attend:&#8232;Attendees will gain practical knowledge of setting up a Singularity-based Open OnDemand interactive application and scaling single-user applications for multi-user access via Open OnDemand.
+Who Should Attend:&#8232;HPC administrators, researchers, and developers interested in containerizing web or GUI applications for deployment via the Open OnDemand environment. Basic familiarity with containerization concepts and Open OnDemand is helpful but not required.</description>
+                <logo></logo>
+                <persons>
+                    <person id='42'>Kyriakos Tsoukalas [Colgate University]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        <room name='Lee Conference Room (CGIS S030)'>
+            <event guid='9659c26c-627e-527d-9f54-76a2a4a23ed6' id='67'>
+                <date>2025-03-18T15:00:00-04:00</date>
+                <start>15:00</start>
+                <duration>00:25</duration>
+                <room>Lee Conference Room (CGIS S030)</room>
+                <slug>2025-67-developer-forum-breakout-sessions-</slug>
+                <url>https://cfp.openondemand.org//2025/talk/R7UZUH/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Developer Forum (Breakout Sessions)</title>
+                <subtitle></subtitle>
+                <track>Core Team Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Room for optional breakout sessions</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        <room name='Kang Conference Room (CGIS S050)'>
+            <event guid='ce4c2b6f-0a45-5589-9ca1-b33f5fca7062' id='68'>
+                <date>2025-03-18T15:00:00-04:00</date>
+                <start>15:00</start>
+                <duration>00:25</duration>
+                <room>Kang Conference Room (CGIS S050)</room>
+                <slug>2025-68-developer-forum-breakout-sessions-</slug>
+                <url>https://cfp.openondemand.org//2025/talk/3CWD9A/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Developer Forum (Breakout Sessions)</title>
+                <subtitle></subtitle>
+                <track>Core Team Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Room for optional breakout sessions</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        <room name='CGIS Concourse'>
+            <event guid='b8062a8e-0c20-5756-8c94-d3666734bad1' id='60'>
+                <date>2025-03-18T18:00:00-04:00</date>
+                <start>18:00</start>
+                <duration>02:00</duration>
+                <room>CGIS Concourse</room>
+                <slug>2025-60-idea-marketplace-and-reception-hors-d-oeuvres-</slug>
+                <url>https://cfp.openondemand.org//2025/talk/M8TV3T/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Idea Marketplace and Reception (Hors D&apos;oeuvres)</title>
+                <subtitle></subtitle>
+                <track>Reception</track>
+                <type>Reception</type>
+                <language>en</language>
+                <abstract>Join us for an evening of posters, GOODLUCK conversations, and some fun and games. 
+
+Chat with our sponsors, meet fellow GOOD attendees and the Open OnDemand core team, and gear up for Day 3! 
+
+Drinks and refreshments will be served!</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='a8e2c3d9-1feb-5610-bbdf-50f4c27b33a6' id='4'>
+                <date>2025-03-18T18:30:00-04:00</date>
+                <start>18:30</start>
+                <duration>00:10</duration>
+                <room>CGIS Concourse</room>
+                <slug>2025-4-using-openondemand-for-real-world-interdisciplinary-ai-projects-in-classrooms</slug>
+                <url>https://cfp.openondemand.org//2025/talk/3PW9AL/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Using OpenOnDemand for Real-World, Interdisciplinary AI Projects in Classrooms</title>
+                <subtitle></subtitle>
+                <track>Posters [featuring AI OnDemand]</track>
+                <type>Poster</type>
+                <language>en</language>
+                <abstract>Integrating interdisciplinary collaboration in AI courses enables students to apply AI to real-world problems across diverse fields. In my AI classes, students partner with faculty from various departments, using OpenOnDemand for GPU-based computations to develop AI solutions. This hands-on approach includes projects like rainfall prediction, wildlife imagery classification, and healthcare trend analysis. OpenOnDemand supports these projects enabling students to tackle data-intensive challenges. This framework builds technical skills and highlights AI&#8217;s impact across disciplines, preparing students to innovate beyond traditional boundaries. This poster showcases the work done with OpenOnDemand across 7 different disciplines to show the interdisciplinary power of OpenOnDemand.</abstract>
+                <description>This presentation examines integrating interdisciplinary collaboration into AI courses, using OpenOnDemand for GPU-based computations to support data-intensive, real-world projects. In my AI classes, students collaborate with faculty from different departments, applying machine learning and data analysis techniques to solve complex problems while connecting their work to other disciplines. OpenOnDemand provides students with high-performance computing access, enabling them to handle large datasets and train models efficiently, making interdisciplinary AI projects feasible and scalable.
+
+Key projects include:
+
+- Earth and Ocean Sciences: Predicting rainfall in the western USA, classifying wildlife in imagery, and assessing water quality using satellite data.
+- Environmental Sciences: Examining the impact of concentrated animal feeding operations (CAFOs) on communities in North Carolina.
+- Exercise Science: Analyzing factors affecting divers&#8217; balance using force plate data.
+- Healthcare Administration: Predicting access points in electronic health records and deriving insights from American Hospital Association survey data.
+- Nursing: Identifying depression patterns among parents of children with special healthcare needs.
+- Physics and Physical Oceanography: Detecting building damage through satellite imagery.
+- English: Analyzing literary depictions of the Wilmington Massacre of 1898 with natural language processing.
+- History: Studying the long-term effects of the 1898 Wilmington Massacre on Black communities in Wilmington.
+
+Through these projects, students gain hands-on experience in developing AI solutions tailored to specific domains. This interdisciplinary approach expands their understanding of AI&#8217;s applications beyond computer science, helping them to see how AI can drive innovation across a variety of contexts. By applying AI to real-world data, students enhance their technical expertise and develop an appreciation for cross-disciplinary research, equipping them to tackle diverse challenges with AI solutions.
+
+This model prepares students to approach AI with a holistic perspective, fostering skills that allow them to innovate at the intersection of AI and other fields, addressing complex societal and academic challenges.</description>
+                <logo></logo>
+                <persons>
+                    <person id='11'>Gulustan Dogan [University of North Carolina Wilmington]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='79e5cc78-1f9d-5d55-8124-0397d554feea' id='48'>
+                <date>2025-03-18T18:40:00-04:00</date>
+                <start>18:40</start>
+                <duration>00:10</duration>
+                <room>CGIS Concourse</room>
+                <slug>2025-48-simplifying-hpc-access-enhancing-research-with-open-ondemand-at-university-of-virginia</slug>
+                <url>https://cfp.openondemand.org//2025/talk/FU7YFW/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Simplifying HPC Access: Enhancing Research with Open OnDemand at University of Virginia</title>
+                <subtitle></subtitle>
+                <track>Posters</track>
+                <type>Poster</type>
+                <language>en</language>
+                <abstract>As computational methods in research evolve, many researchers face challenges using traditional High-Performance Computing (HPC) systems. At the University of Virginia Research Computing, we address this by leveraging Open OnDemand (OOD) as a user-friendly, browser-based platform for Interactive HPC (IHPC) and Slurm job management. OOD simplifies HPC access with popular applications, virtual desktops for GUI-based tools, and seamless connectivity without the need for a VPN or command-line interaction. To enhance usability, we&#8217;ve added custom utilities for monitoring account status, managing scratch filesystem files, and generating Slurm scripts with Service Unit (SU) estimates. 
+These innovations reduce barriers to HPC use, enabling researchers to focus on their work while accessing pow</abstract>
+                <description>With the expanding reliance of research on ever evolving computational methods, it is essential to recognize that most researchers lack the training necessary to effectively utilize traditional HPC systems. With the growing reliance on computational methods in research, many researchers lack the training required to effectively use traditional High-Performance Computing (HPC) systems. To ensure equitable access to HPC resources, innovative and user-friendly interfaces are essential, particularly for less-experienced users.  
+At the University of Virginia Research Computing, we leverage Open OnDemand (OOD) as our primary platform for Interactive High-Performance Computing (IHPC) and as a web portal for Slurm job submission, supporting both educational and research activities.  
+
+OOD empowers users to access the power and scalability of HPC systems for interactive data analysis and visualization through a browser-based interface, eliminating the need for a Virtual Private Network (VPN). As an operating system-agnostic platform, OOD is accessible from any device, offering popular applications and a virtual desktop environment for GUI-based tools. This approach significantly enhances usability, making HPC systems more approachable for researchers.  
+Drawing on our experience, we identified that many researchers primarily use HPC systems for a limited set of applications. To address this, we customized OOD&#8217;s framework to streamline access to these applications and utilities. Our tailored tools include:  
+
+- **Account Status Checker:** Displays the status of HPC accounts and storage usage.  
+- **HPC Status:** Monitors partition activity, showing running and pending jobs.  
+- **Scratch Filesystem Monitor:** Notifies users of files scheduled for deletion in the scratch filesystem.  
+- **Slurm Script Generator:** Assists in creating Slurm scripts based on user-defined parameters and estimates Service Unit (SU) consumption.  
+
+To further reduce barriers, we transitioned our onboarding training and &#8220;Intro to HPC&#8221; sessions entirely to OOD, eliminating the need for command-line interaction.  
+
+By integrating OOD with these custom utilities, we have simplified HPC access, reduced technical challenges, and enabled researchers to focus on advancing their work without needing to become HPC experts. This approach fosters productivity, innovation, and greater accessibility across diverse research domains.</description>
+                <logo></logo>
+                <persons>
+                    <person id='57'>Ahmad Sheikhzada [University of Virginia]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='2c46fe94-b902-5147-a99f-dd7709e2b8d8' id='7'>
+                <date>2025-03-18T18:50:00-04:00</date>
+                <start>18:50</start>
+                <duration>00:10</duration>
+                <room>CGIS Concourse</room>
+                <slug>2025-7-the-ood-app-ecosystem</slug>
+                <url>https://cfp.openondemand.org//2025/talk/PJMNB7/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>The OOD App Ecosystem</title>
+                <subtitle></subtitle>
+                <track>Posters</track>
+                <type>Poster</type>
+                <language>en</language>
+                <abstract>There are thousands of scientific and HPC applications that users need to carry out their work. OOD offers an incredible resource for users to access these applications, but how best to understand the existing OOD Apps, to learn from them, and to create your own? In this poster, we propose a simple, centralized repository for OOD Apps and some basic guidelines for creating and sharing new ones.</abstract>
+                <description>Description will be completed before due date.</description>
+                <logo></logo>
+                <persons>
+                    <person id='14'>Sean Anderson [Wake Forest University]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='fbbec5f5-5424-53d1-864c-567ee8b673b7' id='57'>
+                <date>2025-03-18T19:00:00-04:00</date>
+                <start>19:00</start>
+                <duration>00:10</duration>
+                <room>CGIS Concourse</room>
+                <slug>2025-57-dartmouth-college-open-ondemand-setup</slug>
+                <url>https://cfp.openondemand.org//2025/talk/99AZDY/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Dartmouth College Open OnDemand Setup</title>
+                <subtitle></subtitle>
+                <track>Posters</track>
+                <type>Poster</type>
+                <language>en</language>
+                <abstract>How we worked through the Kerberized NFS storage</abstract>
+                <description>This poster will outline how Dartmouth College setup Open OnDemand to work with both our Kerberized NFS storage and our SAML Single Sign-On (SSO) systems.</description>
+                <logo></logo>
+                <persons>
+                    <person id='35'>Jaime Cleek [Dartmouth]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        
+    </day>
+    <day index='3' date='2025-03-19' start='2025-03-19T04:00:00-04:00' end='2025-03-20T03:59:00-04:00'>
+        <room name='Tsai Auditorium (CGIS S010)'>
+            <event guid='354d6167-824d-5a51-9f32-bc4917070d77' id='64'>
+                <date>2025-03-19T09:00:00-04:00</date>
+                <start>09:00</start>
+                <duration>00:25</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-64-open-ondemand-developer-relations</slug>
+                <url>https://cfp.openondemand.org//2025/talk/EJ9LEA/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Open OnDemand Developer Relations</title>
+                <subtitle></subtitle>
+                <track>Core Team Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Learn how the Open OnDemand Dev team organizes the github issues that drive the development and release process and how to contribute to the project.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='73'>Emily Moffat Sadeghi [Ohio Supercomputer Center]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='77328dc9-a6b3-5425-9aa7-fefccc4ecbe2' id='74'>
+                <date>2025-03-19T09:30:00-04:00</date>
+                <start>09:30</start>
+                <duration>00:25</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-74-ood-meets-eessi-accessing-and-distributing-scientific-software-with-ease</slug>
+                <url>https://cfp.openondemand.org//2025/talk/BX7BCF/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>OOD Meets EESSI: Accessing and  Distributing Scientific Software with Ease</title>
+                <subtitle></subtitle>
+                <track>Platinum Sponsor Talk</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>This presentation will provide an overview of the EESSI project and its objectives, as well as our plans to integrate it into the OOD platform. This will allow for combined easy access to both scientific software and HPC resources in a single platform.</abstract>
+                <description>In the HPC space there is a push to improve accessibility and lower the entry barrier to users. Thus, they can focus solely on science and not deal with the intricacies of HPC systems, which can be pretty obscure to non HPC experts. The OOD platform is the result of such efforts and has become sort of a standard: many of the supercomputers around the world provide it as one of the ways to access and interact with the HPC system. 
+OOD deals mainly with accessibility to the HPC resources, but there is another aspect to accessibility: scientific software availability. Installation of scientific software is rather complex, since it is not sufficient for it to work, but must also perform.  
+
+Here enters the European Environment for Scientific Software Installations (EESSI) project, that provides a complete and optimized scientific software stack accessible from many different platforms: personal workstations, cloud and supercomputers. This allows users to work with the same software environment, regardless of the platform, OS, or architecture.   
+
+Two distinct projects with different aims, but complementary: EESSI provides the scientific software and OOD the way to access it.</description>
+                <logo></logo>
+                <persons>
+                    <person id='81'>Christian Bustelo</person><person id='82'>Arturo Gimeno [Do IT Now]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='68550a7d-0389-555b-b4c3-3894d5ac34d9' id='31'>
+                <date>2025-03-19T10:00:00-04:00</date>
+                <start>10:00</start>
+                <duration>00:25</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-31-integrating-matlab-with-ood-new-tools-to-boost-usage-and-improve-user-experience</slug>
+                <url>https://cfp.openondemand.org//2025/talk/UAU9AG/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Integrating MATLAB with OOD: New Tools to Boost Usage and Improve User Experience</title>
+                <subtitle></subtitle>
+                <track>Sponsor Talk</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Join us to learn how HPC Centers and other sites are integrating MATLAB to work with cluster hardware and data portals. This session will cover tools and best practices to make MATLAB available to users on OOD as a browser-based app and as a Jupyter Notebook language plug-in, as well as available GPU and other parallel computing capabilities.</abstract>
+                <description>The new matlab-proxy repository is available on GitHub and works with your existing MATLAB licenses to make MATLAB available to users as a browser-based web application. The web-based MATLAB environment is very similar to the local MATLAB desktop interface, giving users a consistent and responsive experience across platforms.  A second GitHub repo, jupyter-matlab-proxy includes tools to integrate MATLAB as a language for use in Jupyter Notebooks, enabling users to create MATLAB language based .ipynb computational notebooks for research reports and course projects. 
+
+The talk will include brief demonstrations of the integrations and the associated MATLAB capabilities. Additionally, we will share online resources and support services to get you started and help MATLAB users run MATLAB more effectively on HPC and Research center clusters.</description>
+                <logo>/media/2025/submissions/UAU9AG/2025-01-31_11-03-46_J1cLWQG.jpg</logo>
+                <persons>
+                    <person id='40'>Nick Choi [MathWorks]</person><person id='70'>Lisa Kempler [MathWorks]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='2c210153-9bb7-5f85-966e-f9dff0c7a415' id='26'>
+                <date>2025-03-19T11:00:00-04:00</date>
+                <start>11:00</start>
+                <duration>00:25</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-26-fungible-slurm-clusters-with-open-ondemand-and-azure-cyclecloud</slug>
+                <url>https://cfp.openondemand.org//2025/talk/PUWKRB/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Fungible Slurm clusters with Open OnDemand and Azure CycleCloud</title>
+                <subtitle></subtitle>
+                <track>Platform Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Learn how to build on-demand Slurm clusters using the Azure CycleCloud workspace for Slurm and extend it with an Open OnDemand portal connected to Slurm. This talk will provide you with technical know-how and practical insights to efficiently leverage these tools, ensuring your Azure computational resources are both scalable and flexible.</abstract>
+                <description>Azure CycleCloud Workspace for Slurm is an Azure Marketplace solution template designed to facilitate the creation, configuration, and deployment of pre-defined Slurm clusters with CycleCloud on Azure. This solution does not require prior knowledge of Azure or Slurm. The Slurm clusters come pre-configured with PMix v4, Pyxis, and enroot to support containerized AI/HPC Slurm jobs. Users can access the provisioned login node via SSH or Visual Studio Code to perform tasks such as submitting and managing Slurm jobs.
+Given that Open OnDemand provides HPC end users with remote web access to HPC clusters, it is logical to offer a streamlined method to deploy and configure Open OnDemand for the CycleCloud Workspace for Slurm cluster.
+In this session, you will learn how to efficiently and swiftly build functional Slurm clusters and their Open OnDemand web access using Azure CycleCloud.</description>
+                <logo></logo>
+                <persons>
+                    <person id='31'>Xavier Pillons [Microsoft]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='a2b23eff-725c-5877-b007-b329f44e2098' id='50'>
+                <date>2025-03-19T11:30:00-04:00</date>
+                <start>11:30</start>
+                <duration>00:25</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-50-software-defined-hpc-with-open-ondemand</slug>
+                <url>https://cfp.openondemand.org//2025/talk/9P3FWH/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Software Defined HPC with Open OnDemand</title>
+                <subtitle></subtitle>
+                <track>Platform Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Research computing organizations facilitate scientific investigations by providing access to computational resources, advanced networking, and ample storage to support the demands of scientific workflows.  Traditional HPC systems run as self-contained environments with a head node that defines access to all resources and orchestrates operation of the cluster.  Managing access to these services over the various lifetimes of hardware, software, clusters, and facilities presents challenges in maintaining access for users to different systems as they evolve.  At UAB we are building a software defined HPC environment to manage evolution of our systems by implementing an A/B testing framework that leverages Open OnDemand as the web interface to different generations of hardware.</abstract>
+                <description>This talk will cover the use case of building a A/B testing environment that enables us to route our cluster users to existing and new cluster resources base on their membership is specific groups.  We describe the general motivation for building this capability and provide details on how we used this new framework to migrate our user community from GPFS4 to GPFS5 and our cluster systems from an on-campus data center to a commercial colocation facility.</description>
+                <logo></logo>
+                <persons>
+                    <person id='61'>John-Paul Robinson [University of Alabama at Birmingham]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='c3b21397-8fb7-5e15-a059-48dc0b5a51cf' id='12'>
+                <date>2025-03-19T14:30:00-04:00</date>
+                <start>14:30</start>
+                <duration>00:25</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-12-containerized-bioinformatics-applications-and-pipelines-on-open-ondemand</slug>
+                <url>https://cfp.openondemand.org//2025/talk/73MZUC/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Containerized bioinformatics applications and pipelines on Open OnDemand</title>
+                <subtitle></subtitle>
+                <track>Application Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Tufts University hosts a vibrant bioinformatics community, many of whom are new to using the linux command line for high-performance computing (HPC). Open OnDemand (OOD) simplifies access to HPC resources with its user-friendly web interface. At Tufts, we have deployed over 30 bioinformatics applications and nf-core pipelines on OOD, including custom RStudio servers tailored for bioinformatics. The nf-core pipelines enable users to run complex workflows with ease. Here, we share our experiences in building a custom RStudio server container for bioinformatics, deploying containerized applications as OOD apps, and transforming the complex command-line interfaces of nf-core pipelines into user-friendly OOD web applications.</abstract>
+                <description>The decreasing cost of next-generation sequencing (NGS) has encouraged more wet-lab scientists to integrate bioinformatics into their research. However, transitioning from wet-lab work to bioinformatics requires new skills, with the Linux command-line interface posing a significant challenge. Open OnDemand (OOD) provides a solution by offering a web-based interface that simplifies HPC access without extensive command-line navigation.
+Some bioinformatics applications come with a GUI, making them suitable for OOD. At Tufts HPC, we have deployed containerized versions of popular tools like CellProfiler, FastQC, QualiMap, and Relion as OOD apps. Our custom RStudio Server for bioinformatics is particularly popular, offering a user-friendly web-based interface superior to RStudio Desktop. We researched user needs and pre-installed over 1,300 R packages, supporting a wide range of analyses beyond bioinformatics. Users can also install additional packages in their $HOME directory.
+While most OOD apps are GUI-based, some command-line tools also benefit greatly from OOD integration. AlphaFold, the recipient of the 2024 Nobel Prize in Chemistry, serves as a prime example. Running AlphaFold via the command line involves complex database paths and parameters. OOD simplifies this by managing configurations behind the scenes. Since deploying AlphaFold on OOD, most users prefer this version. In classrooms, even undergraduates with limited command-line skills have successfully submitted AlphaFold GPU jobs via OOD and obtained predicted protein structures. 
+nf-core is a global initiative providing over 120 open-source analysis pipelines built with Nextflow, enhancing research with consistency and reproducibility in genomics and beyond. Despite their benefits, adopting Nextflow and nf-core in HPC centers faces challenges. While nf-core pipelines are designed for general usability, they often need customization for specialized HPC environments, leaving many users unsure of how to adapt them effectively. In Spring 2024, we integrated nf-core pipelines into Tufts&#8217; OOD. Custom scripts converted hundreds of pipeline parameters into OOD form widgets, enabling users to run complex workflows via an intuitive interface. Within just five months, over 12% of Tufts bioinformatics researchers adopted Nextflow and nf-core into their research.</description>
+                <logo></logo>
+                <persons>
+                    <person id='13'>Yucheng Zhang [Tufts University]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='dd68f9c2-b696-5785-9bf5-087cd2021151' id='53'>
+                <date>2025-03-19T15:00:00-04:00</date>
+                <start>15:00</start>
+                <duration>00:25</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-53-using-community-container-images-with-ood-for-robust-rstudio-server-and-postgis</slug>
+                <url>https://cfp.openondemand.org//2025/talk/SUZHBH/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Using Community Container Images with OOD for Robust RStudio Server and PostGIS</title>
+                <subtitle></subtitle>
+                <track>Application Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>We present our experience of leveraging several publicly available container projects for RStudio Server and PostGIS/PostgreSQL Open OnDemand interactive apps. These containers have pre-configured software stacks that facilitate easier application-specific package installation by users, reducing user support requests on computing center staff. This talk describes the user-friendly OOD interfaces to these complex apps and how the containers are launched on an HPC cluster with Singularity.</abstract>
+                <description>RStudio Server is one of the most common Open OnDemand interactive apps. However, some R packages can be challenging to install due to numerous Linux package dependencies and/or substantial R package compile times. It may be difficult to replicate a successful package build at a later time due to different package/dependency versions.
+
+The Rocker Project (https://rocker-project.org/) addresses the challenges of R package installation with community-supported container images that provide an extensive set of Linux software dependencies. In addition, they are preconfigured to install version-locked CRAN (R) packages from the Posit Public Package manager. The Bioconductor project (https://www.bioconductor.org/), a collection of R packages for bioinformatics, augments Rocker base images with additional Linux dependencies and configuration necessary to install almost any of the over 2,000 Bioconductor packages.
+
+PostGIS (https://postgis.net) is a set of extensions and command-line utilities that adds geospatial data processing capabilities to the PostgreSQL (Postgres) relational database management system. An institutional HPC cluster, providing large-capacity compute, memory, and data storage, can be a fitting environment for geospatial (or other) applications that need to store and query massive amounts of data from a Postgres database. But deploying a Postgres/PostGIS database without administrator privileges can be daunting, especially in an HPC cluster environment.
+
+The community Docker-PostGIS image (https://github.com/postgis/docker-postgis), based on the &#8220;Docker official&#8221; Postgres image (https://github.com/docker-library/postgres), provides a standardized software environment for deploying PostGIS. 
+
+This talk illustrates Open OnDemand interactive apps that utilize these container images, including user forms, pre-launch setup to facilitate running as an unprivileged user (with Singularity or Apptainer), and workaround &#8220;gotchas&#8221;, and user-facing operational aspects. The same container images can be used from command-line-driven batch or interactive jobs to take advantage of their software environments outside of Open OnDemand as well.</description>
+                <logo></logo>
+                <persons>
+                    <person id='69'>Paula C Sanematsu [Harvard]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='6da6168b-0b23-550b-81f1-49dcd936d808' id='15'>
+                <date>2025-03-19T16:00:00-04:00</date>
+                <start>16:00</start>
+                <duration>00:25</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-15-alphafold-accessibility-an-optimized-open-source-ood-app-for-protein-structure-prediction</slug>
+                <url>https://cfp.openondemand.org//2025/talk/NYHCQF/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>AlphaFold accessibility: an optimized open-source OOD app for Protein Structure Prediction</title>
+                <subtitle></subtitle>
+                <track>Application Track [featuring AI OnDemand]</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>The AlphaFold AI system won the 2024 Chemistry Nobel Prize because of its predictive achievements poised to revolutionize disease understanding and drug discovery. Initially released as open-source (and now proprietary), researchers are working to improve the code to require less resources and maintain open-source accessibility. We present an open-source implementation of AlphaFold 2 &amp; 3 that optimizes computational resource allocation by intelligently separating CPU and GPU phases within a single OOD instance. This addresses a critical challenge to make AlphaFold more accessible by minimizing idle GPU cycles. Benchmarking across three major clusters (NCSA Delta, Jetstream2, and ROAR), we developed a user-friendly OOD application that operates with maximum resource efficiency.</abstract>
+                <description>Through extensive benchmarking across three major clusters (NCSA Delta, Jetstream, and Roar), we identified that AlphaFold&apos;s workflow can be effectively split into CPU-intensive (MSA generation) and GPU-intensive (structure prediction) phases. Our analysis revealed that approximately 75% of the runtime is CPU-bound, while GPU resources are only required for the final structure prediction phase.
+Key Innovations:
+1. Workflow Optimization:
+&#8226; Separated CPU and GPU phases to maximize resource efficiency
+&#8226; Optimizes resource allocation by allocating GPU resources only AFTER successful CPU phase completion.
+&#8226; Reduced unnecessary GPU allocation time by up to 75%
+2.  User Interface Development:
+&#8226; Created an intuitive web interface requiring only the amino acid sequence as input
+&#8226; Eliminated coding requirements for researchers
+&#8226; Automated resource management and job scheduling.
+3. Cross-Platform Validation:
+&#8226; Comprehensive benchmarking across three distinct HPC environments.
+&#8226; Documented performance metrics for various protein sizes.
+&#8226; Established optimal configuration guidelines for different infrastructures.
+Our solution is now deployed at Penn State&apos;s High Performance Computing platform and is available as an open-source project, enabling other institutions to implement similar services. This work significantly reduces the barrier to entry for structural biology research while optimizing computational resource utilization.  The application is particularly timely with the release of AlphaFold 3, which natively supports CPU/GPU separation, making our framework immediately compatible with this latest iteration.
+Target Audience:
+&#8226; HPC administrators looking to deploy AlphaFold services.
+&#8226; Researchers in structural biology and related fields.
+&#8226; Scientific computing professionals interested in resource optimization.
+Learning Outcomes/Attendees will learn about:
+&#8226; Efficient AlphaFold deployment strategies.
+&#8226; Resource optimization techniques for mixed CPU/GPU workloads.
+&#8226; Implementation patterns for user-friendly scientific applications.
+This presentation will include live demonstrations and reference our open-source codebase, providing immediate practical value to attendees.</description>
+                <logo></logo>
+                <persons>
+                    <person id='22'>William Lai [Cornell]</person><person id='23'>Vinay Saji Mathew [Pennsylvania State University]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='bae5061d-aaaf-532c-9364-9fe7a13ebcc8' id='55'>
+                <date>2025-03-19T16:30:00-04:00</date>
+                <start>16:30</start>
+                <duration>00:25</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-55-try-create-share-customizations-with-ondemand-plugins</slug>
+                <url>https://cfp.openondemand.org//2025/talk/3R7NWE/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Try | Create | Share - Customizations with OnDemand plugins</title>
+                <subtitle></subtitle>
+                <track>Application Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Open OnDemand has evolved to offer powerful customization features, enabling institutions to tailor their instances like never before. This talk will explore how these features allow administrators and developers to create and deploy customizations easily, fostering a community-driven ecosystem of shared enhancements. Attendees will learn how to extend Open OnDemand using plugins and benefit from community contributions through practical examples, such as the metrics widget and the session card metrics developed by IQSS.
+
+Whether you&apos;re managing an HPC environment or developing for Open OnDemand, you&apos;ll leave with practical knowledge on how to try, create, and share customizations that simplify administration and improve user experiences.</abstract>
+                <description>Customization has always been important for institutions using Open OnDemand, but recent enhancements have made implementation, deployment, and management more seamless than ever. 
+
+This talk will walk attendees through the evolution of Open OnDemand&#8217;s customization capabilities, highlighting the latest plugin features and the rendering of widget partials. It will then demonstrate how to develop and structure customizations as modular units that are easy to deploy and share, using practical examples like the metrics widget and the session card metrics developed by IQSS.
+
+We&#8217;ll cover:
+1. The Evolution of Customization in Open OnDemand &#8211; A brief look at how Open OnDemand&#8217;s customization options have grown over time, leading to the introduction of the latest plugin system.
+2. Deploying Customizations &#8211; Step-by-step guidance on how to integrate and manage enhancements in the form of plugins within an Open OnDemand instance.
+3. Creating Customizations &#8211; A hands-on walkthrough of how to develop customizations using the new plugins feature, including practical examples.
+4. The Power of Sharing &#8211; How community-driven customization fosters innovation, allowing administrators and developers to try, create, and share enhancements that benefit the entire Open OnDemand ecosystem.
+
+This talk is aimed at HPC administrators and developers who want to personalize their Open OnDemand instances. It will be informative and practical, offering attendees the know how to leverage these features in their own environments. By the end of the session, participants will understand how to develop and deploy customizations and take advantage of shared improvements from others.</description>
+                <logo></logo>
+                <persons>
+                    <person id='71'>Aday Bujeda [Harvard]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='4d045bce-4ee8-5d23-9aab-6082f658373f' id='38'>
+                <date>2025-03-19T17:00:00-04:00</date>
+                <start>17:00</start>
+                <duration>00:10</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-38-open-ondemand-app-template-for-standardizing-and-simplifying-development</slug>
+                <url>https://cfp.openondemand.org//2025/talk/78P3VV/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Open OnDemand App Template for Standardizing and Simplifying Development</title>
+                <subtitle></subtitle>
+                <track>Application Track</track>
+                <type>Short Talk</type>
+                <language>en</language>
+                <abstract>The OnDemand Template is a framework that simplifies and standardizes the app development process, which aims to reduce the learning curve for new developers. It offers a documented, generic application that provides most of the configuration required to get applications running in the OnDemand system. Users can specify parameters via the form file, which the template will utilize to self-configure. In most cases, users only need to specify the app metadata, modules to load, the command to execute, and whether it&apos;s VNC enabled. The template also utilizes a work in progress plugin system that allows developers to extend existing apps by dynamically adding attributes to the form file and evaluating scripts before the app is started, which allows for apps to be easily extended.</abstract>
+                <description>The goal of this talk is to describe the design decisions behind the Open OnDemand template, and discuss benefits of using templates such as this one. This talk will have the following outline:
+
+- Introduce audience to motivation behind the template
+- Discuss technical aspects of the template
+	- Comment on documentation throughout project
+	- Showcase the form with default values, VNC configuration, and modules to load
+	- Discuss structure of main script file structure and module loading
+	- Showcase VNC auto configuration in before and main script file
+- Discuss plugin system
+	- Explain motivation behind plugin system
+	- Discuss what things can be done with plugins (adding attributes to form file and running scripts before app starts)
+	- Discuss plugin technical details (structure, ERB rendering on form file, locating and running scripts)
+- Conclusion and future direction
+
+The target audience will be developers looking to produce Open OnDemand applications, and who may want to utilize the template to create a generic framework that can be utilized to deploy custom apps on their infrastructure. As of now the source code is closed source, but snippets and design ideas will be discussed.</description>
+                <logo></logo>
+                <persons>
+                    <person id='48'>Owen Cochell [Michigan State University]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='ee73127a-08dd-5d71-bdb4-da8d82ec09b8' id='41'>
+                <date>2025-03-19T17:10:00-04:00</date>
+                <start>17:10</start>
+                <duration>00:10</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-41-saml-authentication-with-open-on-demand-for-hpc-clusters</slug>
+                <url>https://cfp.openondemand.org//2025/talk/EZSRZ8/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>SAML Authentication with Open On Demand for HPC Clusters</title>
+                <subtitle></subtitle>
+                <track>Application Track</track>
+                <type>Short Talk</type>
+                <language>en</language>
+                <abstract>Secure and efficient access to High-Performance Computing (HPC) resources is critical for enabling scientific and technical innovation. Open OnDemand (OOD), a widely used web-based HPC access portal, simplifies user interactions with cluster resources. However, traditional authentication methods often present challenges, including limited scalability, complex configurations, and security vulnerabilities. Integrating Security Assertion Markup Language (SAML)-based authentication with OOD addresses these challenges by leveraging federated identity providers for seamless and secure single sign-on (SSO). This approach enables researchers and institutions to utilize existing identity management systems, ensuring compliance with organizational policies while streamlining user access. The present</abstract>
+                <description>High-Performance Computing (HPC) clusters play a pivotal role in scientific and biomedical research, engineering, and data-intensive applications. Open OnDemand (OOD), an open-source web portal is being optimized at our HPC centers to provide quicker access to HPC resources, offer a user-friendly interface to access computing resources, submit jobs, and monitor workflows. However, ensuring secure, scalable, and user-friendly authentication is a critical challenge, especially in environments where diverse users from multiple institutions need access.
+Security Assertion Markup Language (SAML) authentication provides a robust solution for managing access to HPC clusters through federated identity systems. By integrating SAML with Open OnDemand, users can utilize single sign-on (SSO) capabilities, enabling seamless access across multiple services while relying on their institution&apos;s identity provider (IdP) for secure authentication. This reduces the need for maintaining separate credentials and simplifies access management for system administrators.
+Implementing SAML authentication in OOD involves configuring the portal to communicate with SAML-compliant IdPs, such as Shibboleth and mapping user identities to cluster resources. This integration requires careful consideration of security policies, attribute mapping, and access control mechanisms to ensure secure operation in shared, multi-user environments.
+The adoption of SAML authentication with Open OnDemand offers significant benefits, including Enhanced Security, Improved User Experience, Scalability, Streamlined Administration.
+This approach is particularly valuable in collaborative research environments where multiple institutions share access to HPC resources. By leveraging federated identity systems, SAML-enabled Open OnDemand enhances the usability and security of HPC clusters, making them more accessible to a broader user community.
+We present how this has been implemented at the HPC Clusters at the Africa Centers of Excellence (ACE) in Bioinformatics and Data intensive science in both East Africa, at Makerere University, Kampala Uganda and West Africa at the University of Science, Technique and Technology, Bamako Mali.</description>
+                <logo></logo>
+                <persons>
+                    <person id='52'>Rodgers Kimera [Research Data and Communication Technologies]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='3d85196c-202f-5592-a0c1-96fd718171f1' id='45'>
+                <date>2025-03-19T17:20:00-04:00</date>
+                <start>17:20</start>
+                <duration>00:10</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-45-integration-of-open-ondemand-with-the-jobstats-job-monitoring-platform</slug>
+                <url>https://cfp.openondemand.org//2025/talk/ES9ML9/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Integration of Open OnDemand with the Jobstats Job Monitoring Platform</title>
+                <subtitle></subtitle>
+                <track>Application Track</track>
+                <type>Short Talk</type>
+                <language>en</language>
+                <abstract>Given the ever increasing cost of compute (especially GPUs) it is imperative that these resources are used efficiently. How can this be achieved in a simple-to-use way on a high-performance computing cluster that supports a large number of diverse researchers? Our solution is Jobstats, a job monitoring platform which integrates with Open OnDemand (OOD). This talk will provide an overview of the platform and its various components while concentrating on its links with OOD. Our planned extensions for the OOD integration will be presented with the hope of receiving feedback and new ideas from attendees.</abstract>
+                <description>The inefficient use of compute resources is surely as old as the first Beowulf cluster. Typical causes for underutilization include jobs that over-allocate CPUs, CPU memory, or both. Such instances are frequently due to misunderstandings or in some cases by accident. The introduction of GPUs has made the problem more pressing. Two common problems are (1) jobs that allocate GPUs but do not use them and (2) jobs that use them but only with little utilization.
+
+At Princeton, we have started to continuously monitor nodes (including the GPUs) and filesystems using various Prometheus exporters. Our integrated solution is called Jobstats. The monitoring data is combined with the workload manager (Slurm) data to produce job efficiency reports. These reports provide metadata about the job as well as CPU/GPU utilization, CPU/GPU memory usage, and job-specific notes to guide users.
+
+The Jobstat platform includes an OOD Helper App. For a given job ID, the app generates a URL to a Grafana dashboard that shows various job-level and node-level metrics as a function of time. The job-level metrics include the CPU/GPU utilization and CPU/GPU memory usage. Some examples of the node-level metrics are the mean CPU frequencies, GPFS bandwidth statistics, and the number of InfiniBand errors. The dashboard is helpful when trying to understand why a job failed and for troubleshooting system issues. Jobstats also makes it possible to see the high-level job efficiency data on the &#8220;Completed Jobs&#8221; page of the OOD web interface. The &#8220;Active Jobs&#8221; page shows plots of CPU utilization and memory usage with a link to the detailed job statistics on Grafana.
+
+The combination of the OOD Helper App, the Grafana interface, and the command-line tools, makes it easy for users and system administrators to inspect the utilization and usage of individual jobs. The Jobstats platform was released in 2023. It is being used by tens of institutions throughout the world including Princeton, Brown and Yale.</description>
+                <logo></logo>
+                <persons>
+                    <person id='45'>Jonathan Halverson [Princeton]</person><person id='55'>Josko Plazonic [Princeton]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='9812f267-9e8f-51b2-9034-86fde5f8c02f' id='71'>
+                <date>2025-03-19T17:30:00-04:00</date>
+                <start>17:30</start>
+                <duration>00:25</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-71-developer-forum</slug>
+                <url>https://cfp.openondemand.org//2025/talk/FBJKT8/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Developer Forum</title>
+                <subtitle></subtitle>
+                <track>Core Team Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Meet with Open OnDemand Dev team members to ask questions about the platform and the docs that don&#8217;t easily lend themselves to discourse or email. Community members are welcome to chime in on topics outside the scope of what is deployed at Ohio Supercomputer Center.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='75'>Jeff Ohrstrom [Ohio Supercomputer Center]</person><person id='5'>Alan Chalker [Ohio Supercomputer Center]</person><person id='73'>Emily Moffat Sadeghi [Ohio Supercomputer Center]</person><person id='21'>Julie Ma [Massachusetts Green High Performance Computing Center]</person><person id='74'>Travis Ravert [Ohio Supercomputer Center]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        <room name='Belfer Case Study Room (CGIS S020)'>
+            <event guid='b37014d1-dc3f-5a72-90be-5092ee03defa' id='51'>
+                <date>2025-03-19T10:00:00-04:00</date>
+                <start>10:00</start>
+                <duration>00:25</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-51-managing-the-software-environment-for-a-classroom-deployment-of-ood</slug>
+                <url>https://cfp.openondemand.org//2025/talk/TGUZM9/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Managing the software environment for a classroom deployment of OOD</title>
+                <subtitle></subtitle>
+                <track>Core Team Track [featuring AI OnDemand]</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>The Ohio Supercomputer Center (OSC) saw increased use of its OSC OnDemand web interface for classroom applications during the COVID-19 pandemic, particularly for R and Python. To address challenges in creating shareable and reproducible environments, OSC customized RStudio and Jupyter Notebooks for a dedicated classroom OOD instance. This setup allows instructors to manage and configure software environments for students, ensuring consistency and reducing setup time. Instructors can also access student workspaces to review and manage homework.</abstract>
+                <description>The Ohio Supercomputer Center (OSC) provides advanced computing solutions to researchers through a web-based interface called OSC OnDemand. During the COVID-19 pandemic, we observed a significant increase in the use of OnDemand for classroom applications, particularly for tools like R and Python. However, this surge highlighted challenges in creating environments that are easily shareable and reproducible to meet classroom needs.
+To address these challenges, we customized RStudio and Jupyter Notebook and deployed them on a dedicated classroom server. This setup enables the delivery of tailored, isolated software environments for each classroom, ensuring a seamless and efficient learning experience for students and instructors. Each classroom environment is managed by the instructor, who can install, and update packages as needed. When students log into a course hosted on the classroom server, they are provided with the custom R or Python environment configured by the instructor. This eliminates the need for students to install packages themselves, ensuring consistency and reducing setup time. Additionally, these environments are isolated from other Python or R workflows the user may already have in their accounts, preventing conflicts and maintaining a clean, course-specific workspace. 
+Instructors can also easily share data and other files for students to use for assignments. They have access to a student&apos;s workspace with limited permissions, allowing them to review and manage homework submissions directly within the custom environment. This ensures that assignments are completed and assessed within the same controlled setup, streamlining the process for both students and instructors.
+Classroom projects remain an area of growth at OSC. In 2023 we hosted over 200 courses for 30 colleges and universities around the state, provided computing and software resources to a total of 6750 enrollees. In our presentation, we will discuss the capabilities, tools and processes used at OSC so that others in the OOD community can leverage our efforts to support their educational workloads.</description>
+                <logo></logo>
+                <persons>
+                    <person id='63'>Karen Tomko [Ohio Supercomputer Center]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='b79a61f9-0ca5-54fa-b098-698e71a9a0db' id='11'>
+                <date>2025-03-19T11:00:00-04:00</date>
+                <start>11:00</start>
+                <duration>00:25</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-11-microsoft-windows-through-ood-easy-fast-secure-and-scalable</slug>
+                <url>https://cfp.openondemand.org//2025/talk/WQFEUA/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Microsoft Windows through OOD: easy, fast, secure, and scalable</title>
+                <subtitle></subtitle>
+                <track>Application Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Not all commercially available software will run on Linux or Wine, compelling researchers to request Windows in HPC environments. Traditional solutions demand dedicated servers, Active Directory infrastructure, and specialized IT staff. 7lbd (7-layer bean dip) is an open-source project that eliminates this overhead by treating Windows as &quot;just another Open OnDemand application,&quot; allowing users to launch secure Windows desktops in an isolated environment anywhere on their cluster while maintaining access to all of the user&#8217;s files. This solution simplifies Windows to a level that even Linux systems administrators will find easy to maintain.</abstract>
+                <description>This presentation demonstrates how centers can deploy Windows capabilities through Open OnDemand without additional infrastructure. The discussion includes the solution&apos;s architecture, which combines Apache Guacamole for remote access, network namespaces for isolation, and a simplified Windows VM configuration that eliminates traditional management overhead.
+Topics covered include implementation requirements, Microsoft licensing, configuration steps, and the security model that makes this possible through network isolation. The presentation explores VM image management strategies and maintenance approaches, incorporating production deployment experiences and lessons learned from real-world implementations.
+This talk is aimed at systems administrators and IT decision-makers familiar with Open OnDemand and basic virtualization concepts. Attendees will learn how to provide Windows capabilities to their users while minimizing infrastructure costs and administrative overhead.  GitHub repository:  https://github.com/BYUHPC/7lbd/wiki</description>
+                <logo></logo>
+                <persons>
+                    <person id='19'>Dean Anderson [Brigham Young University]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='cda5e97f-7f9c-5ee8-b7b2-8e615ffde800' id='37'>
+                <date>2025-03-19T11:30:00-04:00</date>
+                <start>11:30</start>
+                <duration>00:25</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-37-reinventing-ood-proxying-mutual-tls-auth-access-control-and-vnc-rdp-to-the-desktop</slug>
+                <url>https://cfp.openondemand.org//2025/talk/RRETPP/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Reinventing OOD Proxying: Mutual TLS Auth, Access Control, and VNC/RDP to the Desktop</title>
+                <subtitle></subtitle>
+                <track>Application Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Discover how to securely connect desktop applications directly to Open OnDemand jobs using mutual TLS authentication all the way from desktop client to compute node. This technical presentation demonstrates a new proxy architecture enabling RDP, VNC, and other protocols to connect securely from desktop client programs to applications on compute nodes, with enhanced security controls missing from the current proxy implementation. It&#8217;s perfect for sites wanting to offer desktop client access while maintaining browser viewer capabilities, all with improved security.</abstract>
+                <description>This presentation introduces a new proxy architecture that enables secure delivery of RDP, VNC, and other protocols from OOD-launched applications (including Windows VMs in isolated network namespaces) directly to end-user desktop clients using standard open source tools and only a little glue. The client-facing side supports both time-limited one-time-use TLS certificates for desktop clients (mutual TLS authentication) and standard session authentication such as for noVNC in a browser.  The internal-facing side provides flexible security options including per-job mutual TLS authentication, HTTP Basic Auth, and configurable host/port restrictions to prevent unauthorized access.</description>
+                <logo></logo>
+                <persons>
+                    <person id='47'>Ryan Cox [Brigham Young University]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='59f2ee14-b97e-5b39-a7fd-756f23c4adf9' id='27'>
+                <date>2025-03-19T13:00:00-04:00</date>
+                <start>13:00</start>
+                <duration>01:30</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-27-containerized-open-ondemand-base</slug>
+                <url>https://cfp.openondemand.org//2025/talk/ARPPAF/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Containerized Open OnDemand Base</title>
+                <subtitle></subtitle>
+                <track>Birds-of-a-Feather (BoFs)</track>
+                <type>Birds-of-a-feather (BoF)</type>
+                <language>en</language>
+                <abstract>A comprehensive overview of taking a base container setup, building of the image and standing up of ood in a container.</abstract>
+                <description>This presentation will go over taking my base for a containerized Open OnDemand deployment and standing it up from scratch. Using a Dockerfile to build the image with Podman we will go over the various configuration requirements, all in files contained within the Git repo. At the end we will have a live OOD instance running in a Podman container and managed at the system level with a systemd unit file.</description>
+                <logo></logo>
+                <persons>
+                    <person id='32'>Morgan Ludwig [Cambridge Computer]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='4c2a48e5-2998-55d0-98ec-9f262f292dc6' id='19'>
+                <date>2025-03-19T14:30:00-04:00</date>
+                <start>14:30</start>
+                <duration>00:25</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-19-bridging-the-gap-simplifying-hpc-access-for-data-science-users-at-universidad-de-sonora</slug>
+                <url>https://cfp.openondemand.org//2025/talk/TTWN9E/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Bridging the Gap: Simplifying HPC Access for Data Science Users at Universidad de Sonora</title>
+                <subtitle></subtitle>
+                <track>Platform Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>The Universidad de Sonora (UNISON) has successfully integrated Open OnDemand to address the growing demand for high-performance computing (HPC) resources among researchers and students, particularly those in data science with limited technical expertise in HPC. This presentation will showcase how Open OnDemand has empowered non-specialized users by providing an intuitive interface to access advanced computational resources, enabling breakthroughs in data-driven research. By detailing our implementation strategy, user-focused approach, and the resulting benefits, we aim to highlight the transformative potential of Open OnDemand for institutions facing similar challenges.</abstract>
+                <description>High-performance computing (HPC) systems are essential for modern data-driven research, yet their complexity often deters users without specialized computational backgrounds. At the Universidad de Sonora, Open OnDemand has been instrumental in democratizing access to HPC infrastructure, especially for data science researchers and students who lack deep technical expertise in supercomputing. By leveraging Open OnDemand&#8217;s web-based interface, we have made HPC resources more accessible, fostering interdisciplinary innovation and collaboration.
+This presentation will delve into the following key aspects:
+1.	Case Study: Universidad de Sonora&#8217;s Open OnDemand Implementation.
+2.	Supporting Data Science Users.
+3.	User-Centric Benefits.
+4.	Lessons Learned and Recommendations.
+5.	Future Directions.
+By focusing on the needs of data science users with limited HPC expertise, this presentation demonstrates how Open OnDemand can act as a bridge, making powerful computational resources accessible to a broader audience. Attendees will gain actionable insights into deploying and customizing Open OnDemand to support diverse user profiles, ensuring their HPC infrastructure can drive impactful research across disciplines.</description>
+                <logo></logo>
+                <persons>
+                    <person id='26'>Maria del Carmen Heras Sanchez [University of Sonora]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='88a309fd-529c-5315-b36b-42e69d9863f6' id='39'>
+                <date>2025-03-19T15:00:00-04:00</date>
+                <start>15:00</start>
+                <duration>00:25</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-39-ern-cryoem-federated-remote-instrument-access-pilot-project</slug>
+                <url>https://cfp.openondemand.org//2025/talk/NKEYVY/</url>
+                <recording>
+                    <license></license>
+                    <optout>true</optout>
+                </recording>
+                <title>ERN CryoEM Federated Remote Instrument Access Pilot Project</title>
+                <subtitle></subtitle>
+                <track>Platform Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>The Ecosystem for Research Networking (ERN) CryoEM Remote Instrument Access Pilot Project aims to simplify wide-area internet access to scientific instruments and data sets by multi-institutional collaboration with emphasis on under-represented and under-resourced institutions. The goal is a secure, web-based portal, built upon containerized Open OnDemand, providing federated access to scientific instruments and associated large data sets;  generate workflows paired with AI microservices, edge computing, and advanced computing, for real-time experimental parameter adjustments and decisions. This talk will present an overview of the design and development efforts of this active project, concluding with a short video and link to the open-source GitHub repository for community participation.</abstract>
+                <description>The vision of the ERN is to simplify, support, catalyze, and foster multi-campus collaborations between academic institutions of all types and sizes across the U.S. that advance the frontiers of research, pedagogy, and innovation. Feedback from ERN research community outreach events identified barriers multi-institutional collaborations face utilizing remote scientific instruments and associated large data sets, typically located in an isolated lab. In response, ERN launched the CryoEM Remote Instrument Access Pilot project, supporting the democratization of these scientific research instruments, the large data sets they generate, infuse AI microservices into workflows, provide real-time parameter adjustments, optimize resource utilization, provide technical expertise, infrastructure and services necessary by lowering the barriers for scientists to engage in research that cross institutional and disciplinary boundaries. This talk will be an overview of the design of this active project, the initial development and deployment of our early stages, and a short video (3:40) of our initial success.  Links will be provided to our project&#8217;s website(https://www.ern.ci/cryoem-remote-instrument/)  for those interested in additional details found in several published white papers, and our GitHub repository for access to our open-source solution and potential contributions.
+
+ERN has partnered with Rutgers&#8217; CryoEM &amp; Nanoimaging Facility, who have a transmission electron microscope indirectly attached to the university&#8217;s network, with limited remote access behind a VPN and secure VNC server. We&#8217;ll review the initial and updated design components, which includes Open OnDemand at the core of our Instrument Portal, the scientific instrument and the desired workflow which can involve AI microservices and edge computing for real-time parameter adjustments in a closed loop. Discussions will cover security and networking modifications, the containerization of Open OnDemand paired with use of InCommon for credentials, our FABRIC Cloudlet build and advanced computing extension to Pittsburgh SuperComputing Center, followed by a short video.  Closing will discuss the github repository and our next efforts targeting the full build out of Identity and Resource Management.  Depending on the time allotted, some topics will be high level, but focus will remain on our core foundation, Open OnDemand, and the support and expertise provided aiding in our initial success.</description>
+                <logo></logo>
+                <persons>
+                    <person id='49'>Maureen Dougherty [Ecosystem for Research Networking]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='02fd1206-134c-52b7-86f7-bef05c924417' id='34'>
+                <date>2025-03-19T16:00:00-04:00</date>
+                <start>16:00</start>
+                <duration>00:25</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-34-ood-at-ifom-combining-cancer-research-reproducibility-and-user-friendliness</slug>
+                <url>https://cfp.openondemand.org//2025/talk/MYXNRF/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>OOD at IFOM: combining Cancer Research, reproducibility and user-friendliness</title>
+                <subtitle></subtitle>
+                <track>Platform Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>IFOM is a cancer biomedical research center, with the ultimate goal of translating the discoveries in treatments and prevention strategies. Democratizing the access to the computational resources is the key step for our biomedical researchers to be independent in analyzing and exploring the data; for bioinformaticians to deliver novel computational approaches with ease; for the organization to have an organic, scalable and sustainable platform. This talk walkthrough on IFOM&#8217;s adoption of Open OnDemand: the challenges, the solutions and the cultural implications of this technological integration.</abstract>
+                <description>At IFOM, bridging the gap between wet-lab scientists and complex computational infrastructures is a priority. Many biologists find command-line tools and HPC systems challenging to use. To address this, we introduced Open OnDemand (OOD) as a user-friendly portal, streamlining access to our computational resources and enabling a more inclusive, collaborative workflow.
+Our OOD provides a graphical interface allowing even novice users to run advanced bioinformatics analyses. Central to this effort is the integration of nf-core (Nextflow) pipelines&#8212;commonly employed for scalable, reproducible research&#8212;directly into OOD. As a result, biomedical researchers can effortlessly execute and manage complex workflows without any deep computational expertise. Indeed, dynamic web forms let users run complex bioinformatics pipelines such as those privide by the nf-core community (https://nf-co.re/pipelines), RNA-seq is one example.
+Departing from the standard OOD guidelines, we have implemented a distinctive conda environment management solution wrapped within Apptainer containers. This approach ensures reproducible software stacks while simplifying environment selection and customization. Combined with Jupyter notebooks served through OOD, researchers can interactively explore data, prototype analyses, and visualize results. The seamless availability of these containerized environments breaks down traditional barriers, fostering a more iterative and data-driven scientific process. This is a great example of integration between software user friendliness and compliance with best practices for scientific reproducibility.
+To further support users, we have integrated widely used imaging applications such as Fiji and QuPath into OOD. Wet-lab researchers can now perform image analysis, data inspection, and computational tasks within a unified platform, minimizing the friction that often separates bench work from in silico exploration eliminating the tricky proliferation of standalone ad-hoc workstations linked to specific scientific instruments.
+In summary, OOD at IFOM demonstrates how a thoughtfully designed computational gateway can democratize access to powerful data analysis resources,closing the gap between experimental biology and computational infrastructure, promoting research efficiency. We believe that Open OnDemand is a robust solution to improve reproducibility and a stronger culture of collaboration between biomedical researchers and computational scientists.</description>
+                <logo></logo>
+                <persons>
+                    <person id='43'>Raoul Jean Pierre Bonnal [IFOM ETS - The AIRC Institute of Molecular Oncology]</person><person id='51'>Cristiano Petrini [AIRC Institute of Molecular Oncology]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='4a46427c-3bc7-5a26-b847-5c67ad726123' id='6'>
+                <date>2025-03-19T16:30:00-04:00</date>
+                <start>16:30</start>
+                <duration>00:25</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-6-ood-from-scratch-if-we-can-do-it-so-can-you-</slug>
+                <url>https://cfp.openondemand.org//2025/talk/D8UEDS/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>OOD from Scratch: if we can do it, so can you!</title>
+                <subtitle></subtitle>
+                <track>Platform Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Open OnDemand (OOD) is a transformative tool for Research and High Performance Computing Centers -- but getting it up-and-running at your institution can feel daunting. We recently took on this challenge, and trust me, if one guy from a small team at a small school can do it, then so can you! I will talk about excellent resources I had, lessons I learned, and some key takeaways from the experience. If you are considering OOD for your institution, then this is your chance to hear some positive first-hand experience.</abstract>
+                <description>Description will be completed before due date.</description>
+                <logo></logo>
+                <persons>
+                    <person id='14'>Sean Anderson [Wake Forest University]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='7c29579f-c7dd-5deb-8037-cab09f6b7bf9' id='29'>
+                <date>2025-03-19T17:00:00-04:00</date>
+                <start>17:00</start>
+                <duration>00:10</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-29-building-success-through-testing</slug>
+                <url>https://cfp.openondemand.org//2025/talk/T8TCDS/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Building Success Through Testing</title>
+                <subtitle></subtitle>
+                <track>Platform Track</track>
+                <type>Short Talk</type>
+                <language>en</language>
+                <abstract>Rolling out Open OnDemand is one thing - ensuring it actually works for users is another. Without a structured testing strategy, unexpected issues can slip through, leading to frustrated researchers and overloaded support teams.</abstract>
+                <description>At UBC ARC, we structured our Open OnDemand testing into two key phases: Alpha for internal validation and Beta for real-world usability. This approach helped us catch critical issues, refine usability, and ensure researchers had a seamless experience from day one. In this lightning talk, I will break down how each phase was structured, the challenges we faced, and the lessons that shaped our rollout.</description>
+                <logo></logo>
+                <persons>
+                    <person id='34'>Alyza Rosario [University of British Columbia]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='44889299-4a3b-5e2c-9b49-198c6b3d0054' id='8'>
+                <date>2025-03-19T17:10:00-04:00</date>
+                <start>17:10</start>
+                <duration>00:10</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-8-open-ondemand-for-an-established-university-hpc-community</slug>
+                <url>https://cfp.openondemand.org//2025/talk/GY9Y7X/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Open OnDemand for an Established University HPC Community</title>
+                <subtitle></subtitle>
+                <track>Platform Track</track>
+                <type>Short Talk</type>
+                <language>en</language>
+                <abstract>The Advanced Research Computing department at the University of British Columbia (UBC) have been supporting a local HPC cluster for use by the entire UBC research community for nearly a decade. With a demand for more interactive computing options coming from our researchers, we have begun implementing Open OnDemand as a portal for accessing our resources and with that has come challenges around our currently existing architecture. This talk will provide a detailed, yet high-level overview of the challenges we faced and the solutions we explored. By sharing our journey, we hope to provide other system administrators with a view of both the ease of modifying Open OnDemand for current systems, as well as potential challenges to keep in mind when exploring adding Open OnDemand.</abstract>
+                <description>This talk will cover our esperinces with implementing Open OnDemand with our local HPC system Sockeye. Sockeye has been in operation since 2019 and during that time the needs and demands of researchers have evolved with both their research and the tools available to assist them. With a growing number of researchers who are intersted in having more interactive and easy-to-use options for accessing our system we began exploring ways to expand our offerings. Our two main challenges arose from longstanding limitations that were built into the original system design to provide a more stable environment and better security standards for sensitive data use on the system, such as biomedical data. 
+
+One of these challenges was the limitation of write access of our home directory during running non-interactive jobs. This presented us with challenges around ensuring the logging of jobs and submission would work properly when users would use Open OnDemand to submit job scripts. The second is our outbound networking being restricted on nodes that are running jobs. This limitation makes it more challenging for users to make use of standard interactive tools to set up environments and workflows using resources from the web.
+
+A brief outline of the talk:
+- Introduction to UBC, ARC, and Sockeye
+- Current Architectural Challenges
+- Handling Storage Restrictions
+- Networking Access Limitations
+- Questions</description>
+                <logo></logo>
+                <persons>
+                    <person id='16'>Jacob Boschee [University of British Columbia]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='3111086c-63e6-51af-a480-0f32d731f733' id='73'>
+                <date>2025-03-19T17:30:00-04:00</date>
+                <start>17:30</start>
+                <duration>00:25</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-73-developer-forum-breakout-sessions-</slug>
+                <url>https://cfp.openondemand.org//2025/talk/UEWB9L/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Developer Forum (Breakout Sessions)</title>
+                <subtitle></subtitle>
+                <track>Core Team Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Meet with Open OnDemand Dev team members to ask questions about the platform and the docs that don&#8217;t easily lend themselves to discourse or email. Community members are welcome to chime in on topics outside the scope of what is deployed at Ohio Supercomputer Center.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        <room name='Lee Conference Room (CGIS S030)'>
+            <event guid='9090620e-bcd1-543a-aeb5-2aa7c975283b' id='30'>
+                <date>2025-03-19T13:00:00-04:00</date>
+                <start>13:00</start>
+                <duration>01:30</duration>
+                <room>Lee Conference Room (CGIS S030)</room>
+                <slug>2025-30-using-openondemand-for-teaching</slug>
+                <url>https://cfp.openondemand.org//2025/talk/AAGZE9/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Using OpenOnDemand for Teaching</title>
+                <subtitle></subtitle>
+                <track>Birds-of-a-Feather (BoFs)</track>
+                <type>Birds-of-a-feather (BoF)</type>
+                <language>en</language>
+                <abstract>This BoF will bring together administrators from different institutions who use OOD in a teaching context. We will have a panel of presenters to talk about how OOD is implemented for teaching in their implementation, and then open up the floor for discussion with the panel. This BoF is intended to be useful to developers and administrators who are responsible for OOD in teaching use cases, as well as instructors who want a better understanding of what&apos;s going on behind the scenes with the platforms they use. It&apos;s our hope that this sharing of ideas will result in a lot of learning from different solutions to similar problems unique to deploying OOD for teaching.</abstract>
+                <description>The panel consists of 4 OOD implementations, two from Harvard, one from Wake Forest University, and one from the University of Utah. Each panelist will give a 15 minute presentation on their implementation of OOD in a teaching setting, and then there will be 30 minutes for discussion amongst the panelists and with the audience. Our hope is that this will build connections across institutions between people working on similar issues with Open OnDemand. Our panelists are:
+
+- Artie Barrett, Vesna Tan, and Jeremy Guillette (Harvard University, FAS Academic Technology)
+- Ben Eisenbraum (Harvard University Medical School, SBGrid Consortium)
+- Ashley Dederich (University of Utah)
+- Sean Anderson (Wake Forest University)</description>
+                <logo></logo>
+                <persons>
+                    <person id='39'>Jeremy Guillette [Harvard]</person><person id='60'>Ben Eisenbraun [Harvard]</person><person id='14'>Sean Anderson [Wake Forest University]</person><person id='72'>Ashley Dederich [University of Utah]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='77fe8e2d-cf39-5735-8000-197cb8d6d184' id='69'>
+                <date>2025-03-19T17:30:00-04:00</date>
+                <start>17:30</start>
+                <duration>00:25</duration>
+                <room>Lee Conference Room (CGIS S030)</room>
+                <slug>2025-69-developer-forum-breakout-sessions-</slug>
+                <url>https://cfp.openondemand.org//2025/talk/GUHH3G/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Developer Forum (Breakout Sessions)</title>
+                <subtitle></subtitle>
+                <track>Core Team Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Meet with Open OnDemand Dev team members to ask questions about the platform and the docs that don&#8217;t easily lend themselves to discourse or email. Community members are welcome to chime in on topics outside the scope of what is deployed at Ohio Supercomputer Center.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        <room name='Kang Conference Room (CGIS S050)'>
+            <event guid='96a4a1f2-a8b9-5c3d-8529-070608efb2b4' id='21'>
+                <date>2025-03-19T13:00:00-04:00</date>
+                <start>13:00</start>
+                <duration>01:30</duration>
+                <room>Kang Conference Room (CGIS S050)</room>
+                <slug>2025-21-hpc-adult-coloring-book-bof</slug>
+                <url>https://cfp.openondemand.org//2025/talk/C7N9RV/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>HPC Adult Coloring Book BOF</title>
+                <subtitle></subtitle>
+                <track>Birds-of-a-Feather (BoFs)</track>
+                <type>Birds-of-a-feather (BoF)</type>
+                <language>en</language>
+                <abstract>Ever heard of coloring books for adults? Take a brain break, hang out with new friends and colleagues and color the &quot;What&apos;s So Super About Super Computing?&quot; OSC coloring book. Colored pencils provided!</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='28'>Sarah L Duncan [Harvard]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        <room name='CGIS Concourse'>
+            <event guid='8417ea37-8532-5e00-84c5-30be8f8475e1' id='86'>
+                <date>2025-03-19T18:00:00-04:00</date>
+                <start>18:00</start>
+                <duration>03:30</duration>
+                <room>CGIS Concourse</room>
+                <slug>2025-86-attendee-social-at-fenway-park</slug>
+                <url>https://cfp.openondemand.org//2025/talk/YGCSXM/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Attendee Social at Fenway Park</title>
+                <subtitle></subtitle>
+                <track>Reception</track>
+                <type>Reception</type>
+                <language>en</language>
+                <abstract>&#128205; Location: Fenway Park
+&#128341; Time: Wednesday, 6:00 PM &#8211; 9:30 PM</abstract>
+                <description>Join us for an evening at Fenway Park, one of the most iconic baseball stadiums in the world! This is your chance to unwind, connect with fellow attendees, and experience a behind-the-scenes look at this historic ballpark.
+
+**Agenda:**. 
+**6:00 PM | Bus Pickup &amp; Departure** - Shuttle buses will pick up attendees from the conference venue and transport them to Fenway Park.  
+
+**6:00 PM &#8211; 6:30 PM | Arrival &amp; Check-in** - Upon arrival, attendees will receive their drink ticket and be directed to the reception area. Enjoy a delicious selection of ballpark-inspired food while mingling with fellow attendees.  Each attendee will receive one drink ticket; a cash bar will be available for additional beverages.  
+
+**7:00 PM &#8211; 7:45 PM | Guided Ballpark Tour** - Take a guided tour of Fenway Park, where you&#8217;ll learn about its rich history, legendary moments, and unique features.  
+
+This event is included with your conference registration&#8212;just bring your badge! We look forward to an evening of great food, great company, and an exclusive Fenway Park experience.</description>
+                <logo></logo>
+                <persons>
+                    
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        
+    </day>
+    <day index='4' date='2025-03-20' start='2025-03-20T04:00:00-04:00' end='2025-03-21T03:59:00-04:00'>
+        <room name='Tsai Auditorium (CGIS S010)'>
+            <event guid='7e427a1c-562f-5d10-bf1c-fd98b21740b9' id='62'>
+                <date>2025-03-20T09:00:00-04:00</date>
+                <start>09:00</start>
+                <duration>00:25</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-62-open-ondemand-governance-sustainability</slug>
+                <url>https://cfp.openondemand.org//2025/talk/7TZZYC/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Open OnDemand Governance &amp; Sustainability</title>
+                <subtitle></subtitle>
+                <track>Core Team Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Learn about the Open OnDemand Governance and Sustainability models that we are rolling out in 2025 and how to get involved.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='21'>Julie Ma [Massachusetts Green High Performance Computing Center]</person><person id='86'>Justin Costa [OH-TECH]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='f75e087e-7dc5-5ea1-ac12-a219e5083bc5' id='83'>
+                <date>2025-03-20T09:30:00-04:00</date>
+                <start>09:30</start>
+                <duration>00:25</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-83-dell-and-intel-ai-better-together</slug>
+                <url>https://cfp.openondemand.org//2025/talk/GKLZKD/</url>
+                <recording>
+                    <license></license>
+                    <optout>true</optout>
+                </recording>
+                <title>Dell and Intel AI Better Together</title>
+                <subtitle></subtitle>
+                <track>Platinum Sponsor Talk [featuring AI OnDemand]</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Join us to learn what Dell and Intel are doing in the evolving world of AI and HPC.  We will introduce the room to new platforms, new technology and the focused insights of Dell and Intel.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='77'>Michael Simon [Dell]</person><person id='91'>John Haag [Intel]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='60435a88-eba9-556f-a7bc-54433b854e07' id='28'>
+                <date>2025-03-20T10:00:00-04:00</date>
+                <start>10:00</start>
+                <duration>00:25</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-28-a-simplified-approach-to-managing-your-data-with-globus</slug>
+                <url>https://cfp.openondemand.org//2025/talk/RNBTC8/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>A Simplified Approach to Managing Your Data With Globus</title>
+                <subtitle></subtitle>
+                <track>Sponsor Talk</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Open OnDemand and Globus are natural partners: Open OnDemand lowers the barrier to using advanced computing resources while Globus removes the friction from data management. Using Globus to move and share data makes your Open OnDemand system even more valuable to researchers. In this talk we will demonstrate how the two systems integrate to help researchers reach data management and computation nirvana.</abstract>
+                <description>Today&#8217;s researcher is confronted with many new challenges and opportunities. Instruments are generating volumes of data, and there is a growing mandate to make data FAIR (findable, accessible, interoperable and reusable). Modern tools and technologies are available to accelerate discoveries, but researchers must overcome many hurdles to take advantage of all the data that is available. Usage of remote storage and compute resources is becoming necessary, but is complicated to manage.
+Globus and Open OnDemand aim to make it easier for researchers to focus on their research by automating data management and simplifying the use of advanced computing systems. The Globus service provides secure, reliable, and scalable data software tools and services designed to serve the data and compute management needs of the research community. And now, with the integration between Open OnDemand and Globus, moving and sharing of data of any size has become easier than ever.
+
+In this session&#8212;aimed primarily at those new to Globus&#8212;we will demonstrate how Globus addresses data management challenges in the context of an Open OnDemand deployment and describe how the user experience is enhanced by a service that provides users with unified access to all their data.</description>
+                <logo></logo>
+                <persons>
+                    <person id='33'>Greg Nawrocki [Globus]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='62845eed-97f1-580d-9ede-9ac5e9915f16' id='72'>
+                <date>2025-03-20T10:30:00-04:00</date>
+                <start>10:30</start>
+                <duration>00:25</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-72-developer-forum</slug>
+                <url>https://cfp.openondemand.org//2025/talk/MH8ND3/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Developer Forum</title>
+                <subtitle></subtitle>
+                <track>Core Team Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Meet with Open OnDemand Dev team members to ask questions about the platform and the docs that don&#8217;t easily lend themselves to discourse or email. Community members are welcome to chime in on topics outside the scope of what is deployed at Ohio Supercomputer Center.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='73'>Emily Moffat Sadeghi [Ohio Supercomputer Center]</person><person id='5'>Alan Chalker [Ohio Supercomputer Center]</person><person id='75'>Jeff Ohrstrom [Ohio Supercomputer Center]</person><person id='74'>Travis Ravert [Ohio Supercomputer Center]</person><person id='21'>Julie Ma [Massachusetts Green High Performance Computing Center]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='053f4cf6-87ab-57a7-8716-e81390919725' id='16'>
+                <date>2025-03-20T11:30:00-04:00</date>
+                <start>11:30</start>
+                <duration>00:10</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-16-using-a-passenger-app-for-displaying-gpu-node-configuration-and-resource-availability</slug>
+                <url>https://cfp.openondemand.org//2025/talk/M3EWSU/</url>
+                <recording>
+                    <license></license>
+                    <optout>true</optout>
+                </recording>
+                <title>Using a Passenger App for Displaying GPU Node Configuration and Resource Availability</title>
+                <subtitle></subtitle>
+                <track>Application Track</track>
+                <type>Short Talk</type>
+                <language>en</language>
+                <abstract>An up-to-the-minute status report of the configuration and availability of HPC resources can be useful for selecting resource parameters in interactive apps. GPU node resources can be low at times leaving few or no GPUs available for immediate use when launching interactive apps. By providing the status of readily available GPU node resources such as the type and number of GPUs, CPU cores and GB of memory, users can more efficiently utilize cluster resources and minimize job queue wait times.</abstract>
+                <description>Efficient selection and utilization of HPC resources is essential for minimizing job queue wait times and maximizing productivity. Selecting appropriate GPU resource parameters in interactive apps can be challenging, especially when GPU resources are limited. Without real-time information on GPU configurations and current availability, including GPU types, counts, CPU cores, and GB of memory, users may submit suboptimal resource requests that lead to longer job queue wait times. To address this challenge, we configured a Passenger app within the Open OnDemand framework that provides real-time status of GPU compute node resources. Building upon the example Passenger app provided by the Ohio Supercomputer Center (https://github.com/OSC/ood-example-ps) and utilizing a custom script (https://github.com/tamu-edu/dor-hprc-ood-apps/tree/main/gpuavail), this status app queries the Slurm workload manager configuration to retrieve current GPU node configurations and availability. The app displays the information in two comprehensive tables:
+
+1. Configuration Table: Details the types and numbers of GPUs attached to compute nodes, along with the count of nodes sharing each GPU configuration.
+
+2. Availability Table: Lists GPU compute nodes and resources currently available for new jobs, including the GPU types and counts, CPU cores, and available memory in GB.
+
+The gpuavail Passenger app equips users with up-to-the-minute information on GPU resource availability, enabling informed decision-making when selecting resource parameters for GPU-supported interactive apps. By aligning resource requests with actual cluster availability, users can reduce job queue wait times and enhance overall cluster efficiency.</description>
+                <logo></logo>
+                <persons>
+                    <person id='12'>Michael Dickens [Texas A&amp;M University]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='806912f4-3677-534a-a325-09340697a181' id='47'>
+                <date>2025-03-20T11:45:00-04:00</date>
+                <start>11:45</start>
+                <duration>00:10</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-47-open-ondemand-web-dashboard-for-user-friendly-job-accounting-and-performance-metrics</slug>
+                <url>https://cfp.openondemand.org//2025/talk/PBSAAB/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Open OnDemand Web Dashboard for User-Friendly Job Accounting and Performance Metrics</title>
+                <subtitle></subtitle>
+                <track>Application Track</track>
+                <type>Short Talk</type>
+                <language>en</language>
+                <abstract>The Anvil supercomputer, funded by the NSF and maintained by Purdue University, powers research across the country. Anvil&#8217;s web dashboard is an Open OnDemand portal with just the base features, including creating jobs and viewing the job queue. However, a lot of information is locked behind Slurm terminal commands and other scripts, making it difficult for researchers without terminal knowledge to access the information provided by these commands. The goal of this project is to create a detailed, user-friendly dashboard built off of Open OnDemand to provide useful information about the cluster and their own jobs. This improved dashboard enables researchers to more efficiently conduct their research and access commonly-needed cluster information without learning complex terminal commands.</abstract>
+                <description>Open OnDemand contains many useful features for conducting research computing, including the Interactive Jobs and the Files apps, allowing any user of Purdue University&#8217;s NSF-funded Anvil supercomputer to start commonly-used applications and manage their files on Anvil without ever touching the terminal. However, the base Open OnDemand configuration lacks several other features that would be useful for Anvil users, especially users with no terminal knowledge. This results in many support tickets that can be addressed through information found in Slurm workload manager&#8217;s terminal commands and other relevant shell scripts on Anvil. This informational short talk discusses some of the new features being integrated into the Anvil web dashboard to help users perform detailed job accounting and access cluster status information from the Open OnDemand dashboard without any knowledge of the terminal. We hope to collect feedback from the Open OnDemand and HPC community about this ongoing project so we can improve Anvil&#8217;s web dashboard, providing useful, detailed job accounting and cluster information for users in a format that is easy to understand and navigate. The new features currently being developed and tested on Anvil include a homepage dashboard app containing information about each user&#8217;s own service unit usage, disk and file count usage and quota, important announcements, queue statuses, and queued jobs. Another new feature is the My Jobs app, which we created as an overhaul and improvement of Open OnDemand&#8217;s Active Jobs app to provide more detailed, user-friendly job accounting information, including key statistics about each job from Slurm accounting database, improved job filtering, and charts displaying distributions of job data. In addition, the Performance Metrics app provides information about the resource efficiency of users&#8217; jobs, comparing their requested CPU cores, memory, and time with the amount they actually utilize. The goal of these three apps is to be as user-friendly and intuitive as possible while providing detailed information that users want to know regarding their jobs and the Anvil supercomputer. We want to share the features and improvements being worked on for Anvil&#8217;s Open OnDemand dashboard as well as generate feedback and discussion about further potential Open OnDemand improvements to eventually contribute these changes back to the Open OnDemand community.</description>
+                <logo>/media/2025/submissions/PBSAAB/session-image-good25_ZUCJyX4.png</logo>
+                <persons>
+                    <person id='56'>Richie Tan [Purdue]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='3e36972b-338a-546c-8ec6-95ed3412bf85' id='77'>
+                <date>2025-03-20T12:00:00-04:00</date>
+                <start>12:00</start>
+                <duration>00:25</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-77-drona-workflow-engine</slug>
+                <url>https://cfp.openondemand.org//2025/talk/8XZYTX/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Drona Workflow Engine</title>
+                <subtitle></subtitle>
+                <track>Core Team Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Texas  A&amp;M has a long history of creating Apps for OpenOnDemand to improve the user experience. In this presentation, we will present two of our latest projects. We will briefly show our new experimental customizable dashboard, where users can manage their resources and interact with the HPRC helpdesk. Next, we will show the Drona workflow engine, a framework for composing and generating custom workflows. Drona abstracts the researcher as much as possible from HPC specifics normally required to run their jobs on our clusters so they can focus on their research. This includes setting up custom environments and automatically selecting resources. A major application is to assist researchers in creating and running their AI workloads on a variety of accelerators.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='76'>Marinus Pennings [Texas A&amp;M University]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='7d097122-df61-59e3-834f-85c7d863b8c5' id='61'>
+                <date>2025-03-20T13:30:00-04:00</date>
+                <start>13:30</start>
+                <duration>00:25</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-61-a-good-ending</slug>
+                <url>https://cfp.openondemand.org//2025/talk/Y7E77C/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>A GOOD Ending</title>
+                <subtitle></subtitle>
+                <track>Core Team Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>A brief summary of the GOOD conference will be provided, along with a call to action to continue the engagement within the Open OnDemand community in the months and years to come.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='5'>Alan Chalker [Ohio Supercomputer Center]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='dbdfc6ae-63cd-5c8f-9d02-24417c4c1f73' id='81'>
+                <date>2025-03-20T14:00:00-04:00</date>
+                <start>14:00</start>
+                <duration>01:00</duration>
+                <room>Tsai Auditorium (CGIS S010)</room>
+                <slug>2025-81-governance-working-group-community-engagement</slug>
+                <url>https://cfp.openondemand.org//2025/talk/VP83KJ/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Governance Working Group - Community Engagement</title>
+                <subtitle></subtitle>
+                <track>Core Team Track</track>
+                <type>Other [Share your creative idea for the program]</type>
+                <language>en</language>
+                <abstract>TBA</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        <room name='Belfer Case Study Room (CGIS S020)'>
+            <event guid='6ab6c6e2-1ece-5083-aeb7-a8d35ffe4bf1' id='40'>
+                <date>2025-03-20T10:00:00-04:00</date>
+                <start>10:00</start>
+                <duration>00:25</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-40-enhanced-hpc-workforce-development-overcoming-the-blinking-cursor-barrier-with-open-ond</slug>
+                <url>https://cfp.openondemand.org//2025/talk/ZLW9EY/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Enhanced HPC Workforce Development: Overcoming the &apos;Blinking Cursor&apos; Barrier with Open OnD</title>
+                <subtitle></subtitle>
+                <track>Sponsor Talk</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>High-Performance Computing (HPC) workforce development initiatives aimed to train diverse stakeholders in essential tools and methods. The &quot;blinking cursor&quot; barrier in terminal interfaces was addressed by integrating Open OnDemand within the projectEUREKA platform, facilitating 18 groups of MSI undergraduates and faculty in cyberinfrastructure-targeted hackathons. These time-bounded events, based on the HackHPC Model, addressed the HPC skills gap through intensive applied training. This presentation will compare traditional terminal/CLI-based and web-GUI-based training approaches, examining their evolution and effectiveness. Additionally, modified outcomes and artifacts produced by participants will provide insights into the impact of these training methodologies.</abstract>
+                <description>The implementation of High-Performance Computing (HPC) workforce development initiatives involves the training of students, faculty, researchers, and professionals on common tools and methods utilized within the community. An early barrier often encountered is the &quot;blinking cursor&quot; found on the terminal or command window. These early challenges can deter or distract from early practitioners incorporating domain specific knowledge towards problems. In short, the tool or more apropos, access and/or use of the tool becomes the problem.
+
+The integration of Open OnDemand within the projectEUREKA platform, used for authentication and launching common applications, successfully mitigated this &quot;blinking cursor&quot; barrier for 18 groups of MSI undergraduates and faculty participating in cyberinfrastructure-targeted workforce development hackathons. These time-bounded events were designed to address the skills gap in the HPC field, offering intensive training sessions in applied HPC skills that brought together students, mentors, and industry experts, as developed in the HackHPC Model. 
+
+The presentation, aimed at educators and trainers utilizing HPC resources, will elucidate the distinctions between traditional terminal/CLI-based and web-GUI-based training methodologies/curricula employed for participant onboarding. Furthermore, it will examine the evolutionary trajectory of these pedagogical approaches over time, providing valuable insights for optimizing HPC education and training strategies. Furthermore, modified outcomes and artifacts produced by the participants will be discussed. Attendees will take away methods to utilize Open OnDemand coupled with cyberinfrastructure technology to better provide on-ramping of HPC resources for students, faculty, and professionals.</description>
+                <logo></logo>
+                <persons>
+                    <person id='50'>Jeaime Powell [Omnibond]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='f0c00ed2-682c-562b-8d66-36fff94c6f90' id='70'>
+                <date>2025-03-20T10:30:00-04:00</date>
+                <start>10:30</start>
+                <duration>00:25</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-70-developer-forum-breakout-session-</slug>
+                <url>https://cfp.openondemand.org//2025/talk/WXPYBE/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Developer Forum (Breakout Session)</title>
+                <subtitle></subtitle>
+                <track>Core Team Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Meet with Open OnDemand Dev team members to ask questions about the platform and the docs that don&#8217;t easily lend themselves to discourse or email. Community members are welcome to chime in on topics outside the scope of what is deployed at Ohio Supercomputer Center.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='acb2f2c7-9b86-5b24-a8dc-934ce7b2e7fc' id='14'>
+                <date>2025-03-20T11:30:00-04:00</date>
+                <start>11:30</start>
+                <duration>00:10</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-14-maintaining-institutional-identity-within-a-shared-open-ondemand-instance</slug>
+                <url>https://cfp.openondemand.org//2025/talk/RARKPZ/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Maintaining Institutional Identity Within a Shared Open OnDemand Instance</title>
+                <subtitle></subtitle>
+                <track>Platform Track</track>
+                <type>Short Talk</type>
+                <language>en</language>
+                <abstract>This session discusses using CILogon and Open OnDemand to enable institution-specific authentication and branding for Swarthmore College&apos;s and Lafayette College&apos;s merged HPC cluster.</abstract>
+                <description>Swarthmore College and Lafayette College completed the initial merger of their HPC systems in summer 2024. A requirement of this project was that users from both institutions should feel like &quot;first-class citizens.&quot; We did not want to require, for example, a user from Lafayette to have Swarthmore guest account in order to access the cluster, or for a Swarthmore user to see a Lafayette domain and associated branding when using the system. Open OnDemand&apos;s flexible architecture allowed us to configure CILogon as the authentication gateway, thus allowing users to login using their home credentials, while also providing configuration profiles to customize the experience for each institution. This is an elegant solution that can facilitate an arbitrary number of institutions sharing infrastructure and services under a single, unified Open OnDemand instance while maintaining specific branding and resources for each.</description>
+                <logo></logo>
+                <persons>
+                    <person id='15'>Jason L. Simms [Swarthmore College]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='e7b57e1b-5f3e-50e6-be5f-a17ef6a12bad' id='36'>
+                <date>2025-03-20T11:45:00-04:00</date>
+                <start>11:45</start>
+                <duration>00:10</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-36-approachable-high-performance-computing-with-open-ondemand</slug>
+                <url>https://cfp.openondemand.org//2025/talk/CXWBEP/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Approachable High Performance Computing with Open OnDemand</title>
+                <subtitle></subtitle>
+                <track>Platform Track</track>
+                <type>Short Talk</type>
+                <language>en</language>
+                <abstract>Administrators and Research Consultants helping researchers scale their work can use Open OnDemand applications to make HPC resources more accessible to disciplines that are not traditionally identified as HPC users.  A brief discussion of how we help make high performance computing (HPC) more approachable to new users, with an emphasis on the applications presented, support process, and using Open OnDemand as a launch pad to fully integrate new users into the HPC workflow.</abstract>
+                <description>Michigan State University (MSU) uses Open OnDemand extensively to support research on High Performance Computing (HPC) resources.  Our foundational instruction courses and workshops use Open OnDemand to reduce the friction in getting started using the HPC.  
+In addition to presenting the standard graphical desktop, shell access, and file browser applications; we include a number of applications to help new HPC users start using the HPC systems at MSU,  We also continue to work on adding additional applications to our Open OnDemand instance including LMStudio, and Ollama.  One of our Interns has created a template to facilitate rapid development and we publish beta versions of applications to a testing group that users can opt into.  To enable classroom usage without undue scheduling delays, our Open OnDemand instance defaults to using a designated partition that is not part of our general queue.  This does not prevent the use of Open OnDemand on all our available resources and is explicitly used to facilitate the use of newer systems focusing on big data processing by research disciplines that haven&apos;t traditionally used HPC resources.  We facilitate user support by tying the Submit Support Ticket email action into our help desk ticketing system.  This lets us quickly identify issues with user submission errors and systemic issues with our Open OnDemand deployment.</description>
+                <logo></logo>
+                <persons>
+                    <person id='46'>Joe Ryan [Michigan State University]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='45fddd95-033e-523a-9017-6786a30e3e37' id='78'>
+                <date>2025-03-20T12:00:00-04:00</date>
+                <start>12:00</start>
+                <duration>00:25</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-78-leveraging-the-open-science-operating-system-to-build-virtual-environments-for-science-and-education</slug>
+                <url>https://cfp.openondemand.org//2025/talk/LNMCUB/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Leveraging the Open Science Operating System to build virtual environments for science and education</title>
+                <subtitle></subtitle>
+                <track>Sponsor Talk</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>The Stack Science team will share use cases to demonstrate how the Open Science Operating System (OS2) is driving research and scientific outcomes through a suite of capabilities, including science gateways as a service, research software development, secure cloud enclaves, and regulatory data management.</abstract>
+                <description>Instead of focusing on research and innovation, principal investigators and their teams are increasingly consumed by the challenge of building cyberinfrastructure that supports their research. And when too much time is spent chasing down infrastructure, software and tooling, the science suffers. Researchers who succeed are the ones who keep their focus on scientific innovation, not the technology behind it. Rather than patching together disconnected services, they invest in unified, end-to-end solutions that ensure the impact, reach, and sustainability of their work. Our services, offered as part of the Open Science Operating System, make data and computationally intensive capabilities accessible to millions of researchers, educators and students across disciplines through science gateways, secure cloud enclaves, and  research software development. By prioritizing customers and innovative solutions, our team helps build strong scientific communities, improves cyberinfrastructure, accelerates research milestones, and delivers meaningful real-world impact.</description>
+                <logo></logo>
+                <persons>
+                    <person id='78'>Sandeep Chandra [Stack Science]</person><person id='79'>Sandra Gesing [Stack Science]</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='d9e92d6b-1548-582e-9614-d689859ae912' id='82'>
+                <date>2025-03-20T14:00:00-04:00</date>
+                <start>14:00</start>
+                <duration>01:00</duration>
+                <room>Belfer Case Study Room (CGIS S020)</room>
+                <slug>2025-82-governance-working-group-technical</slug>
+                <url>https://cfp.openondemand.org//2025/talk/E893EN/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Governance Working Group - Technical</title>
+                <subtitle></subtitle>
+                <track>Core Team Track</track>
+                <type>Other [Share your creative idea for the program]</type>
+                <language>en</language>
+                <abstract>TBA</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        <room name='Lee Conference Room (CGIS S030)'>
+            <event guid='6b64f191-d34d-5360-82ed-18395b73a804' id='63'>
+                <date>2025-03-20T10:30:00-04:00</date>
+                <start>10:30</start>
+                <duration>00:25</duration>
+                <room>Lee Conference Room (CGIS S030)</room>
+                <slug>2025-63-developer-forum-breakout-session-</slug>
+                <url>https://cfp.openondemand.org//2025/talk/GLJQGC/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Developer Forum (Breakout Session)</title>
+                <subtitle></subtitle>
+                <track>Core Team Track</track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Meet with Open OnDemand Dev team members to ask questions about the platform and the docs that don&#8217;t easily lend themselves to discourse or email. Community members are welcome to chime in on topics outside the scope of what is deployed at Ohio Supercomputer Center.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='f8c2b580-b8be-5488-95d8-17800e8ebcba' id='79'>
+                <date>2025-03-20T14:00:00-04:00</date>
+                <start>14:00</start>
+                <duration>01:00</duration>
+                <room>Lee Conference Room (CGIS S030)</room>
+                <slug>2025-79-governance-working-group-contributor-guide</slug>
+                <url>https://cfp.openondemand.org//2025/talk/8QYEUJ/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Governance Working Group - Contributor Guide</title>
+                <subtitle></subtitle>
+                <track>Core Team Track</track>
+                <type>Other [Share your creative idea for the program]</type>
+                <language>en</language>
+                <abstract>TBA</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        <room name='Kang Conference Room (CGIS S050)'>
+            <event guid='ca706325-bf0e-5d09-ba68-13555f6cad7b' id='80'>
+                <date>2025-03-20T14:00:00-04:00</date>
+                <start>14:00</start>
+                <duration>01:00</duration>
+                <room>Kang Conference Room (CGIS S050)</room>
+                <slug>2025-80-governance-working-group-user-guide</slug>
+                <url>https://cfp.openondemand.org//2025/talk/RPVAEC/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Governance Working Group - User Guide</title>
+                <subtitle></subtitle>
+                <track>Core Team Track</track>
+                <type>Other [Share your creative idea for the program]</type>
+                <language>en</language>
+                <abstract>TBA</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        
+    </day>
+    
+</schedule>

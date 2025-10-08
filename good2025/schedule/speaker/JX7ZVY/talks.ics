@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.openondemand.org//2025//JX7ZVY
+BEGIN:VTIMEZONE
+TZID:US/Eastern
+BEGIN:STANDARD
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T060000Z
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T070000Z
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-2025-NYHCQF@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250319T160000
+DTEND;TZID=US/Eastern:20250319T162500
+DESCRIPTION:The AlphaFold AI system won the 2024 Chemistry Nobel Prize beca
+ use of its predictive achievements poised to revolutionize disease underst
+ anding and drug discovery. Initially released as open-source (and now prop
+ rietary)\, researchers are working to improve the code to require less res
+ ources and maintain open-source accessibility. We present an open-source i
+ mplementation of AlphaFold 2 & 3 that optimizes computational resource all
+ ocation by intelligently separating CPU and GPU phases within a single OOD
+  instance. This addresses a critical challenge to make AlphaFold more acce
+ ssible by minimizing idle GPU cycles. Benchmarking across three major clus
+ ters (NCSA Delta\, Jetstream2\, and ROAR)\, we developed a user-friendly O
+ OD application that operates with maximum resource efficiency.
+DTSTAMP:20250709T214537Z
+LOCATION:Tsai Auditorium (CGIS S010)
+SUMMARY:AlphaFold accessibility: an optimized open-source OOD app for Prote
+ in Structure Prediction - Vinay Saji Mathew [Pennsylvania State University
+ ]\, William Lai [Cornell]
+URL:https://cfp.openondemand.org/2025/talk/NYHCQF/
+END:VEVENT
+END:VCALENDAR

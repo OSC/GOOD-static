@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.openondemand.org//XUTHP9
+BEGIN:VTIMEZONE
+TZID:US/Eastern
+BEGIN:STANDARD
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T060000Z
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T070000Z
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-2025-XUTHP9@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250318T170000
+DTEND;TZID=US/Eastern:20250318T180000
+DESCRIPTION:Members of the leadership team of GOODLUCK\, the most recent NS
+ F-funded Open OnDemand project\, will introduce the key elements of the fo
+ ur major thrusts of the project:  building an apverse\, gathering classroo
+ m solutions\,  developing cross-cutting solutions and growing the communit
+ y through affinity groups with time for Q&A and feedback. \n\nThis session
+  will be followed by the Idea Marketplace\, where audience members will ha
+ ve an opportunity to have informal one-on-one discussions with the GOODLUC
+ K team to provide feedback and join the effort.
+DTSTAMP:20250709T214530Z
+LOCATION:Tsai Auditorium (CGIS S010)
+SUMMARY:Growing Open OnDemand: Leveraging Unified Community Knowledge (GOOD
+ LUCK) – A Deeper Dive - 
+URL:https://cfp.openondemand.org/2025/talk/XUTHP9/
+END:VEVENT
+END:VCALENDAR
