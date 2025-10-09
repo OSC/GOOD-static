@@ -1,5 +1,5 @@
-# Deploy all root folders in the repository to GitHub Pages
-name: Deploy all folders to GitHub Pages
+# Deploy good2025 site to /good2025/ on GitHub Pages
+name: Deploy good2025 site to subpath
 
 on:
   push:
@@ -17,7 +17,7 @@ concurrency:
 
 jobs:
   deploy:
-    name: Deploy all root folders
+    name: Deploy good2025 subfolder
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -27,20 +27,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Prepare combined deployment directory
+      - name: Prepare deployment directory
         run: |
-          mkdir -p _site
-          for dir in $(find . -mindepth 1 -maxdepth 1 -type d ! -name "_site" ! -name ".git" ! -name ".github"); do
-            echo "Including directory: $dir"
-            cp -r "$dir" "_site/"
-          done
-          echo "Final structure:"
+          mkdir -p _site/good2025
+          cp -r good2025/* _site/good2025/
+          echo "Contents of _site:"
           find _site -maxdepth 2 -type f
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload site artifact
+      - name: Upload site
         uses: actions/upload-pages-artifact@v3
         with:
           path: '_site'
