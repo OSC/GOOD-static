@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<iCalendar xmlns:pentabarf='http://pentabarf.org' xmlns:xCal='urn:ietf:params:xml:ns:xcal'>
+<iCalendar xmlns:pentabarf='https://pentabarf.org' xmlns:xCal='urn:ietf:params:xml:ns:xcal'>
     <vcalendar>
         <version>2.0</version>
         <prodid>-//Pentabarf//Schedule//EN</prodid>
