@@ -1,0 +1,199 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Using a Passenger App for Displaying GPU Node Configuration and Resource Availability ::  GOOD 2025 :: pretalx</title>
+        <meta name="title" content="Using a Passenger App for Displaying GPU Node Configuration and Resource Availability  - GOOD 2025 pretalx">
+        <meta name="description" content="Efficient selection and utilization of HPC resources is essential for minimizing job queue wait times and maximizing productivity. Selecting appropriate GPU resource parameters in interactive apps can be challenging, especially when GPU resources are limited. Without real-time information on GPU configurations and current availability, including GPU types, counts, CPU cores, and GB of memory, users may submit suboptimal resource requests that lead to longer job queue wait times. To address this challenge, we configured a Passenger app within the Open OnDemand framework that provides real-time status of GPU compute node resources. Building upon the example Passenger app provided by the Ohio Supercomputer Center (https://github.com/OSC/ood-example-ps) and utilizing a custom script (https://github.com/tamu-edu/dor-hprc-ood-apps/tree/main/gpuavail), this status app queries the Slurm workload manager configuration to retrieve current GPU node configurations and availability. The app displays the information in two comprehensive tables:
+
+1. Configuration Table: Details the types and numbers of GPUs attached to compute nodes, along with the count of nodes sharing each GPU configuration.
+
+2. Availability Table: Lists GPU compute nodes and resources currently available for new jobs, including the GPU types and counts, CPU cores, and available memory in GB.
+
+The gpuavail Passenger app equips users with up-to-the-minute information on GPU resource availability, enabling informed decision-making when selecting resource parameters for GPU-supported interactive apps. By aligning resource requests with actual cluster availability, users can reduce job queue wait times and enhance overall cluster efficiency.">
+        <meta name="application-name" content="pretalx">
+        <meta name="generator" content="pretalx">
+        <meta name="keywords" content="GOOD 2025, 2025, 2025, schedule, talks, cfp, call for papers, conference, submissions, organizer">
+        
+        <meta name="robots" content="index, follow">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#C91235">
+        <meta name="HandheldFriendly" content="True"/>
+        <meta property="thumbnail" content="https://cfp.openondemand.org/2025/talk/M3EWSU/og-image">
+    <meta property="og:image" content="https://cfp.openondemand.org/2025/talk/M3EWSU/og-image">
+        <meta property="og:title" content="Using a Passenger App for Displaying GPU Node Configuration and Resource Availability GOOD 2025">
+        <meta property="og:description" content="Efficient selection and utilization of HPC resources is essential for minimizing job queue wait times and maximizing productivity. Selecting appropriate GPU resource parameters in interactive apps can be challenging, especially when GPU resources are limited. Without real-time information on GPU configurations and current availability, including GPU types, counts, CPU cores, and GB of memory, users may submit suboptimal resource requests that lead to longer job queue wait times. To address this challenge, we configured a Passenger app within the Open OnDemand framework that provides real-time status of GPU compute node resources. Building upon the example Passenger app provided by the Ohio Supercomputer Center (https://github.com/OSC/ood-example-ps) and utilizing a custom script (https://github.com/tamu-edu/dor-hprc-ood-apps/tree/main/gpuavail), this status app queries the Slurm workload manager configuration to retrieve current GPU node configurations and availability. The app displays the information in two comprehensive tables:
+
+1. Configuration Table: Details the types and numbers of GPUs attached to compute nodes, along with the count of nodes sharing each GPU configuration.
+
+2. Availability Table: Lists GPU compute nodes and resources currently available for new jobs, including the GPU types and counts, CPU cores, and available memory in GB.
+
+The gpuavail Passenger app equips users with up-to-the-minute information on GPU resource availability, enabling informed decision-making when selecting resource parameters for GPU-supported interactive apps. By aligning resource requests with actual cluster availability, users can reduce job queue wait times and enhance overall cluster efficiency.">
+        <meta property="og:url" content="http://testserver/2025/talk/M3EWSU/">
+        <meta property="twitter:card" content="summary">
+
+        
+            <link rel="icon" type="image/png" sizes="32x32" href="/good2025/schedule/static/common/img/favicon-32x32.38c2aab28d3a.png">
+            <link rel="icon" type="image/png" sizes="16x16" href="/good2025/schedule/static/common/img/favicon-16x16.02f8a56e1af3.png">
+        
+
+        <link rel="stylesheet" type="text/css" href="/good2025/schedule/static/common/scss/uncompressed.cabbf3759e3e.css" />
+        
+            <link rel="stylesheet" type="text/css" href="/good2025/schedule/static/vendored/fullcalendar/fullcalendar.min.ba055a2cd2b3.css"/>
+            <link rel="stylesheet" type="text/css" href="/good2025/schedule/media/2025/cfp.b4fdc45e320a46e0.css"/>
+            <link rel="stylesheet" type="text/css" href="/good2025/schedule/media/2025/agenda.4ecfa7153a486dbb.css"/>
+        
+        
+        <script src="/good2025/schedule/static/CACHE/js/output.079684506270.js" defer></script>
+        
+    
+    <link rel="alternate" type="application/json" title="GOOD 2025 API" href="https://cfp.openondemand.org/api/events/2025/talks/M3EWSU" />
+
+    
+    
+
+    </head>
+    <body data-datetimeformat="YYYY-MM-DD HH:mm:ss" data-dateformat="YYYY-MM-DD" data-datetimelocale="en">
+        <div id="top-bg" class="header pcb">
+            
+        </div>
+        
+        <div class="container" id="main-container">
+            <header>
+                <h1>
+                    <a href="
+    /2025/schedule/
+">
+                        
+                            GOOD 2025
+                        
+                    </a>
+                </h1>
+
+                <div class="d-flex" id="header-row">
+                    
+                    
+                </div>
+            </header>
+            <div class="card" id="main-card">
+                <main>
+                    
+
+                    
+    
+    
+    <article>
+        
+        <h3 class="talk-title">
+            <div class="heading-with-buttons">
+                Using a Passenger App for Displaying GPU Node Configuration and Resource Availability
+                <div class="buttons" id="talk-buttons">
+                    
+                        <a class="btn btn-outline-primary" href="/good2025/schedule/talk/M3EWSU.ics">
+                            <i class="fa fa-calendar"></i> .ical
+                        </a>
+                    
+                    
+                    
+                </div>
+            </div>
+            <small>
+                
+                    03-20, 11:30–11:40 (US/Eastern), Tsai Auditorium (CGIS S010) <i class="fa fa-question-circle" data-toggle="tooltip" title="S010"></i>
+                
+                
+                
+                    <span class="fa-stack">
+                        <i class="fa fa-video-camera fa-stack-1x"></i>
+                        <i class="fa fa-ban do-not-record fa-stack-2x" aria-hidden="true" alt="This session will not be recorded."></i>
+                    </span>
+                    <em></em>
+                
+            </small>
+        </h3>
+        <div class="talk row">
+            <div class="talk-content">
+                
+                
+                
+                <section class="abstract">
+                    <p>An up-to-the-minute status report of the configuration and availability of HPC resources can be useful for selecting resource parameters in interactive apps. GPU node resources can be low at times leaving few or no GPUs available for immediate use when launching interactive apps. By providing the status of readily available GPU node resources such as the type and number of GPUs, CPU cores and GB of memory, users can more efficiently utilize cluster resources and minimize job queue wait times.</p>
+                </section>
+                
+                    <hr />
+                
+                <section class="description">
+                    <p>Efficient selection and utilization of HPC resources is essential for minimizing job queue wait times and maximizing productivity. Selecting appropriate GPU resource parameters in interactive apps can be challenging, especially when GPU resources are limited. Without real-time information on GPU configurations and current availability, including GPU types, counts, CPU cores, and GB of memory, users may submit suboptimal resource requests that lead to longer job queue wait times. To address this challenge, we configured a Passenger app within the Open OnDemand framework that provides real-time status of GPU compute node resources. Building upon the example Passenger app provided by the Ohio Supercomputer Center (<a href="https://github.com/OSC/ood-example-ps" rel="nofollow" target="_blank">https://github.com/OSC/ood-example-ps</a>) and utilizing a custom script (<a href="https://github.com/tamu-edu/dor-hprc-ood-apps/tree/main/gpuavail" rel="nofollow" target="_blank">https://github.com/tamu-edu/dor-hprc-ood-apps/tree/main/gpuavail</a>), this status app queries the Slurm workload manager configuration to retrieve current GPU node configurations and availability. The app displays the information in two comprehensive tables:</p>
+<ol>
+<li>
+<p>Configuration Table: Details the types and numbers of GPUs attached to compute nodes, along with the count of nodes sharing each GPU configuration.</p>
+</li>
+<li>
+<p>Availability Table: Lists GPU compute nodes and resources currently available for new jobs, including the GPU types and counts, CPU cores, and available memory in GB.</p>
+</li>
+</ol>
+<p>The gpuavail Passenger app equips users with up-to-the-minute information on GPU resource availability, enabling informed decision-making when selecting resource parameters for GPU-supported interactive apps. By aligning resource requests with actual cluster availability, users can reduce job queue wait times and enhance overall cluster efficiency.</p>
+                </section>
+                
+            </section>
+            
+            <section>
+                
+            </section>
+        </div>
+    </div>
+    
+        
+            <div class="pretalx-session">
+                <div class="pretalx-session-time-box avatar">
+                    <a href="/good2025/schedule/speaker/RNEZP8/">
+                        <div class="avatar-wrapper">
+                            
+                                <img src="/good2025/schedule/media/avatars/Michael-Dickens-5_jvRp2q2.jpg">
+                            
+                        </div>
+                    </a>
+                </div>
+                <div class="pretalx-session-info">
+                    <div class="title">
+                        <a href="/good2025/schedule/speaker/RNEZP8/">Michael Dickens [Texas A&amp;M University]</a>
+                    </div>
+                    <div class="abstract"></div>
+                    
+                </div>
+            </div>
+        
+    
+    </article>
+
+
+                </main>
+            </div>
+            <footer>
+                
+                    <div id="exporttimestamp" class="text-muted">
+                        
+                        This is a static export generated at 2025-07-09 17:45 EDT
+                    </div>
+                
+                
+
+
+    powered by <a href="https://pretalx.com" target="_blank" rel="noopener">pretalx</a>
+
+
+                
+                    &middot;
+                    <a href="mailto:jim@numfocus.org">Contact us</a>
+                
+                
+                
+            </footer>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,181 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Containerized bioinformatics applications and pipelines on Open OnDemand ::  GOOD 2025 :: pretalx</title>
+        <meta name="title" content="Containerized bioinformatics applications and pipelines on Open OnDemand  - GOOD 2025 pretalx">
+        <meta name="description" content="The decreasing cost of next-generation sequencing (NGS) has encouraged more wet-lab scientists to integrate bioinformatics into their research. However, transitioning from wet-lab work to bioinformatics requires new skills, with the Linux command-line interface posing a significant challenge. Open OnDemand (OOD) provides a solution by offering a web-based interface that simplifies HPC access without extensive command-line navigation.
+Some bioinformatics applications come with a GUI, making them suitable for OOD. At Tufts HPC, we have deployed containerized versions of popular tools like CellProfiler, FastQC, QualiMap, and Relion as OOD apps. Our custom RStudio Server for bioinformatics is particularly popular, offering a user-friendly web-based interface superior to RStudio Desktop. We researched user needs and pre-installed over 1,300 R packages, supporting a wide range of analyses beyond bioinformatics. Users can also install additional packages in their $HOME directory.
+While most OOD apps are GUI-based, some command-line tools also benefit greatly from OOD integration. AlphaFold, the recipient of the 2024 Nobel Prize in Chemistry, serves as a prime example. Running AlphaFold via the command line involves complex database paths and parameters. OOD simplifies this by managing configurations behind the scenes. Since deploying AlphaFold on OOD, most users prefer this version. In classrooms, even undergraduates with limited command-line skills have successfully submitted AlphaFold GPU jobs via OOD and obtained predicted protein structures. 
+nf-core is a global initiative providing over 120 open-source analysis pipelines built with Nextflow, enhancing research with consistency and reproducibility in genomics and beyond. Despite their benefits, adopting Nextflow and nf-core in HPC centers faces challenges. While nf-core pipelines are designed for general usability, they often need customization for specialized HPC environments, leaving many users unsure of how to adapt them effectively. In Spring 2024, we integrated nf-core pipelines into Tufts’ OOD. Custom scripts converted hundreds of pipeline parameters into OOD form widgets, enabling users to run complex workflows via an intuitive interface. Within just five months, over 12% of Tufts bioinformatics researchers adopted Nextflow and nf-core into their research.">
+        <meta name="application-name" content="pretalx">
+        <meta name="generator" content="pretalx">
+        <meta name="keywords" content="GOOD 2025, 2025, 2025, schedule, talks, cfp, call for papers, conference, submissions, organizer">
+        
+        <meta name="robots" content="index, follow">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#C91235">
+        <meta name="HandheldFriendly" content="True"/>
+        <meta property="thumbnail" content="https://cfp.openondemand.org/2025/talk/73MZUC/og-image">
+    <meta property="og:image" content="https://cfp.openondemand.org/2025/talk/73MZUC/og-image">
+        <meta property="og:title" content="Containerized bioinformatics applications and pipelines on Open OnDemand GOOD 2025">
+        <meta property="og:description" content="The decreasing cost of next-generation sequencing (NGS) has encouraged more wet-lab scientists to integrate bioinformatics into their research. However, transitioning from wet-lab work to bioinformatics requires new skills, with the Linux command-line interface posing a significant challenge. Open OnDemand (OOD) provides a solution by offering a web-based interface that simplifies HPC access without extensive command-line navigation.
+Some bioinformatics applications come with a GUI, making them suitable for OOD. At Tufts HPC, we have deployed containerized versions of popular tools like CellProfiler, FastQC, QualiMap, and Relion as OOD apps. Our custom RStudio Server for bioinformatics is particularly popular, offering a user-friendly web-based interface superior to RStudio Desktop. We researched user needs and pre-installed over 1,300 R packages, supporting a wide range of analyses beyond bioinformatics. Users can also install additional packages in their $HOME directory.
+While most OOD apps are GUI-based, some command-line tools also benefit greatly from OOD integration. AlphaFold, the recipient of the 2024 Nobel Prize in Chemistry, serves as a prime example. Running AlphaFold via the command line involves complex database paths and parameters. OOD simplifies this by managing configurations behind the scenes. Since deploying AlphaFold on OOD, most users prefer this version. In classrooms, even undergraduates with limited command-line skills have successfully submitted AlphaFold GPU jobs via OOD and obtained predicted protein structures. 
+nf-core is a global initiative providing over 120 open-source analysis pipelines built with Nextflow, enhancing research with consistency and reproducibility in genomics and beyond. Despite their benefits, adopting Nextflow and nf-core in HPC centers faces challenges. While nf-core pipelines are designed for general usability, they often need customization for specialized HPC environments, leaving many users unsure of how to adapt them effectively. In Spring 2024, we integrated nf-core pipelines into Tufts’ OOD. Custom scripts converted hundreds of pipeline parameters into OOD form widgets, enabling users to run complex workflows via an intuitive interface. Within just five months, over 12% of Tufts bioinformatics researchers adopted Nextflow and nf-core into their research.">
+        <meta property="og:url" content="http://testserver/2025/talk/73MZUC/">
+        <meta property="twitter:card" content="summary">
+
+        
+            <link rel="icon" type="image/png" sizes="32x32" href="/good2025/schedule/static/common/img/favicon-32x32.38c2aab28d3a.png">
+            <link rel="icon" type="image/png" sizes="16x16" href="/good2025/schedule/static/common/img/favicon-16x16.02f8a56e1af3.png">
+        
+
+        <link rel="stylesheet" type="text/css" href="/good2025/schedule/static/common/scss/uncompressed.cabbf3759e3e.css" />
+        
+            <link rel="stylesheet" type="text/css" href="/good2025/schedule/static/vendored/fullcalendar/fullcalendar.min.ba055a2cd2b3.css"/>
+            <link rel="stylesheet" type="text/css" href="/good2025/schedule/media/2025/cfp.b4fdc45e320a46e0.css"/>
+            <link rel="stylesheet" type="text/css" href="/good2025/schedule/media/2025/agenda.4ecfa7153a486dbb.css"/>
+        
+        
+        <script src="/good2025/schedule/static/CACHE/js/output.079684506270.js" defer></script>
+        
+    
+    <link rel="alternate" type="application/json" title="GOOD 2025 API" href="https://cfp.openondemand.org/api/events/2025/talks/73MZUC" />
+
+    
+    
+
+    </head>
+    <body data-datetimeformat="YYYY-MM-DD HH:mm:ss" data-dateformat="YYYY-MM-DD" data-datetimelocale="en">
+        <div id="top-bg" class="header pcb">
+            
+        </div>
+        
+        <div class="container" id="main-container">
+            <header>
+                <h1>
+                    <a href="
+    /2025/schedule/
+">
+                        
+                            GOOD 2025
+                        
+                    </a>
+                </h1>
+
+                <div class="d-flex" id="header-row">
+                    
+                    
+                </div>
+            </header>
+            <div class="card" id="main-card">
+                <main>
+                    
+
+                    
+    
+    
+    <article>
+        
+        <h3 class="talk-title">
+            <div class="heading-with-buttons">
+                Containerized bioinformatics applications and pipelines on Open OnDemand
+                <div class="buttons" id="talk-buttons">
+                    
+                        <a class="btn btn-outline-primary" href="/good2025/schedule/talk/73MZUC.ics">
+                            <i class="fa fa-calendar"></i> .ical
+                        </a>
+                    
+                    
+                    
+                </div>
+            </div>
+            <small>
+                
+                    03-19, 14:30–14:55 (US/Eastern), Tsai Auditorium (CGIS S010) <i class="fa fa-question-circle" data-toggle="tooltip" title="S010"></i>
+                
+                
+                
+            </small>
+        </h3>
+        <div class="talk row">
+            <div class="talk-content">
+                
+                
+                
+                <section class="abstract">
+                    <p>Tufts University hosts a vibrant bioinformatics community, many of whom are new to using the linux command line for high-performance computing (HPC). Open OnDemand (OOD) simplifies access to HPC resources with its user-friendly web interface. At Tufts, we have deployed over 30 bioinformatics applications and nf-core pipelines on OOD, including custom RStudio servers tailored for bioinformatics. The nf-core pipelines enable users to run complex workflows with ease. Here, we share our experiences in building a custom RStudio server container for bioinformatics, deploying containerized applications as OOD apps, and transforming the complex command-line interfaces of nf-core pipelines into user-friendly OOD web applications.</p>
+                </section>
+                
+                    <hr />
+                
+                <section class="description">
+                    <p>The decreasing cost of next-generation sequencing (NGS) has encouraged more wet-lab scientists to integrate bioinformatics into their research. However, transitioning from wet-lab work to bioinformatics requires new skills, with the Linux command-line interface posing a significant challenge. Open OnDemand (OOD) provides a solution by offering a web-based interface that simplifies HPC access without extensive command-line navigation.<br>
+Some bioinformatics applications come with a GUI, making them suitable for OOD. At Tufts HPC, we have deployed containerized versions of popular tools like CellProfiler, FastQC, QualiMap, and Relion as OOD apps. Our custom RStudio Server for bioinformatics is particularly popular, offering a user-friendly web-based interface superior to RStudio Desktop. We researched user needs and pre-installed over 1,300 R packages, supporting a wide range of analyses beyond bioinformatics. Users can also install additional packages in their $HOME directory.<br>
+While most OOD apps are GUI-based, some command-line tools also benefit greatly from OOD integration. AlphaFold, the recipient of the 2024 Nobel Prize in Chemistry, serves as a prime example. Running AlphaFold via the command line involves complex database paths and parameters. OOD simplifies this by managing configurations behind the scenes. Since deploying AlphaFold on OOD, most users prefer this version. In classrooms, even undergraduates with limited command-line skills have successfully submitted AlphaFold GPU jobs via OOD and obtained predicted protein structures. <br>
+nf-core is a global initiative providing over 120 open-source analysis pipelines built with Nextflow, enhancing research with consistency and reproducibility in genomics and beyond. Despite their benefits, adopting Nextflow and nf-core in HPC centers faces challenges. While nf-core pipelines are designed for general usability, they often need customization for specialized HPC environments, leaving many users unsure of how to adapt them effectively. In Spring 2024, we integrated nf-core pipelines into Tufts’ OOD. Custom scripts converted hundreds of pipeline parameters into OOD form widgets, enabling users to run complex workflows via an intuitive interface. Within just five months, over 12% of Tufts bioinformatics researchers adopted Nextflow and nf-core into their research.</p>
+                </section>
+                
+            </section>
+            
+            <section>
+                
+            </section>
+        </div>
+    </div>
+    
+        
+            <div class="pretalx-session">
+                <div class="pretalx-session-time-box avatar">
+                    <a href="/good2025/schedule/speaker/MPPTM8/">
+                        <div class="avatar-wrapper">
+                            
+                                <img src="/good2025/schedule/speaker/avatar.svg">
+                            
+                        </div>
+                    </a>
+                </div>
+                <div class="pretalx-session-info">
+                    <div class="title">
+                        <a href="/good2025/schedule/speaker/MPPTM8/">Yucheng Zhang [Tufts University]</a>
+                    </div>
+                    <div class="abstract"><p>Dr. Yucheng Zhang is a bioinformatics engineer at Tufts University Research Technology, specializing in bioinformatics workflows, high-performance computing (HPC), and containerized applications. Before joining Tufts, he served as a senior life scientist at the Rosen Center for Advanced Computing (RCAC) at Purdue University, where he contributed to advancing computational solutions for life sciences.</p></div>
+                    
+                </div>
+            </div>
+        
+    
+    </article>
+
+
+                </main>
+            </div>
+            <footer>
+                
+                    <div id="exporttimestamp" class="text-muted">
+                        
+                        This is a static export generated at 2025-07-09 17:45 EDT
+                    </div>
+                
+                
+
+
+    powered by <a href="https://pretalx.com" target="_blank" rel="noopener">pretalx</a>
+
+
+                
+                    &middot;
+                    <a href="mailto:jim@numfocus.org">Contact us</a>
+                
+                
+                
+            </footer>
+        </div>
+    </body>
+</html>

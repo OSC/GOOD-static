@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.openondemand.org//2025//LGFWCA
+BEGIN:VTIMEZONE
+TZID:US/Eastern
+BEGIN:STANDARD
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T060000Z
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T070000Z
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-2025-3R7NWE@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250319T163000
+DTEND;TZID=US/Eastern:20250319T165500
+DESCRIPTION:Open OnDemand has evolved to offer powerful customization featu
+ res\, enabling institutions to tailor their instances like never before. T
+ his talk will explore how these features allow administrators and develope
+ rs to create and deploy customizations easily\, fostering a community-driv
+ en ecosystem of shared enhancements. Attendees will learn how to extend Op
+ en OnDemand using plugins and benefit from community contributions through
+  practical examples\, such as the metrics widget and the session card metr
+ ics developed by IQSS.\n\nWhether you're managing an HPC environment or de
+ veloping for Open OnDemand\, you'll leave with practical knowledge on how 
+ to try\, create\, and share customizations that simplify administration an
+ d improve user experiences.
+DTSTAMP:20250709T214541Z
+LOCATION:Tsai Auditorium (CGIS S010)
+SUMMARY:Try | Create | Share - Customizations with OnDemand plugins - Aday 
+ Bujeda [Harvard]
+URL:https://cfp.openondemand.org/2025/talk/3R7NWE/
+END:VEVENT
+END:VCALENDAR

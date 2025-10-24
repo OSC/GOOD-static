@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.openondemand.org//2025//CXPR3P
+BEGIN:VTIMEZONE
+TZID:US/Eastern
+BEGIN:STANDARD
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T060000Z
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T070000Z
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-2025-TTWN9E@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250319T143000
+DTEND;TZID=US/Eastern:20250319T145500
+DESCRIPTION:The Universidad de Sonora (UNISON) has successfully integrated 
+ Open OnDemand to address the growing demand for high-performance computing
+  (HPC) resources among researchers and students\, particularly those in da
+ ta science with limited technical expertise in HPC. This presentation will
+  showcase how Open OnDemand has empowered non-specialized users by providi
+ ng an intuitive interface to access advanced computational resources\, ena
+ bling breakthroughs in data-driven research. By detailing our implementati
+ on strategy\, user-focused approach\, and the resulting benefits\, we aim 
+ to highlight the transformative potential of Open OnDemand for institution
+ s facing similar challenges.
+DTSTAMP:20250709T214537Z
+LOCATION:Belfer Case Study Room (CGIS S020)
+SUMMARY:Bridging the Gap: Simplifying HPC Access for Data Science Users at 
+ Universidad de Sonora - Maria del Carmen Heras Sanchez [University of Sono
+ ra]
+URL:https://cfp.openondemand.org/2025/talk/TTWN9E/
+END:VEVENT
+END:VCALENDAR

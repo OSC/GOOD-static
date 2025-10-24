@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.openondemand.org//2025//KLCLLE
+BEGIN:VTIMEZONE
+TZID:US/Eastern
+BEGIN:STANDARD
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T060000Z
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T070000Z
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-2025-FU7YFW@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250318T184000
+DTEND;TZID=US/Eastern:20250318T185000
+DESCRIPTION:As computational methods in research evolve\, many researchers 
+ face challenges using traditional High-Performance Computing (HPC) systems
+ . At the University of Virginia Research Computing\, we address this by le
+ veraging Open OnDemand (OOD) as a user-friendly\, browser-based platform f
+ or Interactive HPC (IHPC) and Slurm job management. OOD simplifies HPC acc
+ ess with popular applications\, virtual desktops for GUI-based tools\, and
+  seamless connectivity without the need for a VPN or command-line interact
+ ion. To enhance usability\, we’ve added custom utilities for monitoring 
+ account status\, managing scratch filesystem files\, and generating Slurm 
+ scripts with Service Unit (SU) estimates. \nThese innovations reduce barri
+ ers to HPC use\, enabling researchers to focus on their work while accessi
+ ng pow
+DTSTAMP:20250709T214540Z
+LOCATION:CGIS Concourse
+SUMMARY:Simplifying HPC Access: Enhancing Research with Open OnDemand at Un
+ iversity of Virginia - Ahmad Sheikhzada [University of Virginia]
+URL:https://cfp.openondemand.org/2025/talk/FU7YFW/
+END:VEVENT
+END:VCALENDAR

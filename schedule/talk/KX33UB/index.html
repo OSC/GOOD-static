@@ -1,0 +1,248 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Lessons Learned from 8 Years of Open OnDemand at Princeton Research Computing ::  GOOD 2025 :: pretalx</title>
+        <meta name="title" content="Lessons Learned from 8 Years of Open OnDemand at Princeton Research Computing  - GOOD 2025 pretalx">
+        <meta name="description" content="OOD at Princeton started over 8 years ago as an attempt to make teaching easier. It quickly blossomed into an essential new way to not only teach but to facilitate research, for expert users but especially beginners. We have reached the point where in 2023, on our largest general-purpose HPC cluster, 41% of users ran at least one job with OOD.
+
+The journey to that point involved a lot of learning about OOD but also about the needs of our user community. We now have Jupyter OOD apps that offer numerous different setups (e.g., per course, per Anaconda version) and that largely auto-detect user environments. Remote desktop via OOD uses our dedicated visualization nodes and a systemd-based scheduler that we contributed. MATLAB, Mathematica, RStudio, Stata and other apps are also available. File quota reports are available through a web interface as well.
+
+To improve utilization of our clusters and help users optimize their jobs, we developed Jobstats, which is a job monitoring platform that includes OOD helper apps. For a given job ID, we have an app that generates a URL to a Grafana dashboard that shows detailed job metrics as a function of time. These metrics include the CPU/GPU utilization and CPU/GPU memory usage as well as useful node-level metrics. The dashboard is helpful when trying to understand why a job failed and for troubleshooting system performance issues.
+
+To meet the recent demand for GPUs for classes and training workshops, we have configured our local OOD implementation to burst to the cloud. We will discuss the various unexpected problems that arose while creating this service as well as their solutions. Feedback from instructors and students will be presented.
+
+While OOD is working well for the majority of use cases, a certain set of issues continually arise. For instance, we receive a steady stream of support tickets from users with sessions that will not start. While support staff is capable of resolving the matter, more can be done with OOD to identify the problem and present the solution to the user in an understandable way. Other recurring issues and our efforts to address them will be presented.">
+        <meta name="application-name" content="pretalx">
+        <meta name="generator" content="pretalx">
+        <meta name="keywords" content="GOOD 2025, 2025, 2025, schedule, talks, cfp, call for papers, conference, submissions, organizer">
+        
+        <meta name="robots" content="index, follow">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#C91235">
+        <meta name="HandheldFriendly" content="True"/>
+        <meta property="thumbnail" content="https://cfp.openondemand.org/2025/talk/KX33UB/og-image">
+    <meta property="og:image" content="https://cfp.openondemand.org/2025/talk/KX33UB/og-image">
+        <meta property="og:title" content="Lessons Learned from 8 Years of Open OnDemand at Princeton Research Computing GOOD 2025">
+        <meta property="og:description" content="OOD at Princeton started over 8 years ago as an attempt to make teaching easier. It quickly blossomed into an essential new way to not only teach but to facilitate research, for expert users but especially beginners. We have reached the point where in 2023, on our largest general-purpose HPC cluster, 41% of users ran at least one job with OOD.
+
+The journey to that point involved a lot of learning about OOD but also about the needs of our user community. We now have Jupyter OOD apps that offer numerous different setups (e.g., per course, per Anaconda version) and that largely auto-detect user environments. Remote desktop via OOD uses our dedicated visualization nodes and a systemd-based scheduler that we contributed. MATLAB, Mathematica, RStudio, Stata and other apps are also available. File quota reports are available through a web interface as well.
+
+To improve utilization of our clusters and help users optimize their jobs, we developed Jobstats, which is a job monitoring platform that includes OOD helper apps. For a given job ID, we have an app that generates a URL to a Grafana dashboard that shows detailed job metrics as a function of time. These metrics include the CPU/GPU utilization and CPU/GPU memory usage as well as useful node-level metrics. The dashboard is helpful when trying to understand why a job failed and for troubleshooting system performance issues.
+
+To meet the recent demand for GPUs for classes and training workshops, we have configured our local OOD implementation to burst to the cloud. We will discuss the various unexpected problems that arose while creating this service as well as their solutions. Feedback from instructors and students will be presented.
+
+While OOD is working well for the majority of use cases, a certain set of issues continually arise. For instance, we receive a steady stream of support tickets from users with sessions that will not start. While support staff is capable of resolving the matter, more can be done with OOD to identify the problem and present the solution to the user in an understandable way. Other recurring issues and our efforts to address them will be presented.">
+        <meta property="og:url" content="http://testserver/2025/talk/KX33UB/">
+        <meta property="twitter:card" content="summary">
+
+        
+            <link rel="icon" type="image/png" sizes="32x32" href="/good2025/schedule/static/common/img/favicon-32x32.38c2aab28d3a.png">
+            <link rel="icon" type="image/png" sizes="16x16" href="/good2025/schedule/static/common/img/favicon-16x16.02f8a56e1af3.png">
+        
+
+        <link rel="stylesheet" type="text/css" href="/good2025/schedule/static/common/scss/uncompressed.cabbf3759e3e.css" />
+        
+            <link rel="stylesheet" type="text/css" href="/good2025/schedule/static/vendored/fullcalendar/fullcalendar.min.ba055a2cd2b3.css"/>
+            <link rel="stylesheet" type="text/css" href="/good2025/schedule/media/2025/cfp.b4fdc45e320a46e0.css"/>
+            <link rel="stylesheet" type="text/css" href="/good2025/schedule/media/2025/agenda.4ecfa7153a486dbb.css"/>
+        
+        
+        <script src="/good2025/schedule/static/CACHE/js/output.079684506270.js" defer></script>
+        
+    
+    <link rel="alternate" type="application/json" title="GOOD 2025 API" href="https://cfp.openondemand.org/api/events/2025/talks/KX33UB" />
+
+    
+    
+
+    </head>
+    <body data-datetimeformat="YYYY-MM-DD HH:mm:ss" data-dateformat="YYYY-MM-DD" data-datetimelocale="en">
+        <div id="top-bg" class="header pcb">
+            
+        </div>
+        
+        <div class="container" id="main-container">
+            <header>
+                <h1>
+                    <a href="
+    /2025/schedule/
+">
+                        
+                            GOOD 2025
+                        
+                    </a>
+                </h1>
+
+                <div class="d-flex" id="header-row">
+                    
+                    
+                </div>
+            </header>
+            <div class="card" id="main-card">
+                <main>
+                    
+
+                    
+    
+    
+    <article>
+        
+        <h3 class="talk-title">
+            <div class="heading-with-buttons">
+                Lessons Learned from 8 Years of Open OnDemand at Princeton Research Computing
+                <div class="buttons" id="talk-buttons">
+                    
+                        <a class="btn btn-outline-primary" href="/good2025/schedule/talk/KX33UB.ics">
+                            <i class="fa fa-calendar"></i> .ical
+                        </a>
+                    
+                    
+                    
+                </div>
+            </div>
+            <small>
+                
+                    03-18, 14:30–14:55 (US/Eastern), Belfer Case Study Room (CGIS S020) <i class="fa fa-question-circle" data-toggle="tooltip" title="S020"></i>
+                
+                
+                
+            </small>
+        </h3>
+        <div class="talk row">
+            <div class="talk-content">
+                
+                
+                
+                <section class="abstract">
+                    <p>Adopting a new software platform that has the power to change the way teaching and research is done is rarely easy. In this talk, we explain how Princeton University Research Computing started with Open OnDemand (OOD), what we contributed, and what we learned. Hear about our problems, solutions and continued pain points.</p>
+                </section>
+                
+                    <hr />
+                
+                <section class="description">
+                    <p>OOD at Princeton started over 8 years ago as an attempt to make teaching easier. It quickly blossomed into an essential new way to not only teach but to facilitate research, for expert users but especially beginners. We have reached the point where in 2023, on our largest general-purpose HPC cluster, 41% of users ran at least one job with OOD.</p>
+<p>The journey to that point involved a lot of learning about OOD but also about the needs of our user community. We now have Jupyter OOD apps that offer numerous different setups (e.g., per course, per Anaconda version) and that largely auto-detect user environments. Remote desktop via OOD uses our dedicated visualization nodes and a systemd-based scheduler that we contributed. MATLAB, Mathematica, RStudio, Stata and other apps are also available. File quota reports are available through a web interface as well.</p>
+<p>To improve utilization of our clusters and help users optimize their jobs, we developed Jobstats, which is a job monitoring platform that includes OOD helper apps. For a given job ID, we have an app that generates a URL to a Grafana dashboard that shows detailed job metrics as a function of time. These metrics include the CPU/GPU utilization and CPU/GPU memory usage as well as useful node-level metrics. The dashboard is helpful when trying to understand why a job failed and for troubleshooting system performance issues.</p>
+<p>To meet the recent demand for GPUs for classes and training workshops, we have configured our local OOD implementation to burst to the cloud. We will discuss the various unexpected problems that arose while creating this service as well as their solutions. Feedback from instructors and students will be presented.</p>
+<p>While OOD is working well for the majority of use cases, a certain set of issues continually arise. For instance, we receive a steady stream of support tickets from users with sessions that will not start. While support staff is capable of resolving the matter, more can be done with OOD to identify the problem and present the solution to the user in an understandable way. Other recurring issues and our efforts to address them will be presented.</p>
+                </section>
+                
+            </section>
+            
+            <section>
+                
+            </section>
+        </div>
+    </div>
+    
+        
+            <div class="pretalx-session">
+                <div class="pretalx-session-time-box avatar">
+                    <a href="/good2025/schedule/speaker/RB7MVU/">
+                        <div class="avatar-wrapper">
+                            
+                                <img src="/good2025/schedule/speaker/avatar.svg">
+                            
+                        </div>
+                    </a>
+                </div>
+                <div class="pretalx-session-info">
+                    <div class="title">
+                        <a href="/good2025/schedule/speaker/RB7MVU/">Josko Plazonic [Princeton]</a>
+                    </div>
+                    <div class="abstract"></div>
+                    
+                        This speaker also appears in:
+                        <ul>
+                            
+                                <li>
+                                    <a href="/good2025/schedule/talk/ES9ML9/">Integration of Open OnDemand with the Jobstats Job Monitoring Platform</a>
+                                </li>
+                            
+                        </ul>
+                    
+                </div>
+            </div>
+        
+            <div class="pretalx-session">
+                <div class="pretalx-session-time-box avatar">
+                    <a href="/good2025/schedule/speaker/PXTCFR/">
+                        <div class="avatar-wrapper">
+                            
+                                <img src="/good2025/schedule/speaker/avatar.svg">
+                            
+                        </div>
+                    </a>
+                </div>
+                <div class="pretalx-session-info">
+                    <div class="title">
+                        <a href="/good2025/schedule/speaker/PXTCFR/">Jonathan Halverson [Princeton]</a>
+                    </div>
+                    <div class="abstract"><p>Jonathan Halverson is the Training Lead for the Princeton Institute of Computational Science and Engineering at Princeton University.</p></div>
+                    
+                        This speaker also appears in:
+                        <ul>
+                            
+                                <li>
+                                    <a href="/good2025/schedule/talk/ES9ML9/">Integration of Open OnDemand with the Jobstats Job Monitoring Platform</a>
+                                </li>
+                            
+                        </ul>
+                    
+                </div>
+            </div>
+        
+            <div class="pretalx-session">
+                <div class="pretalx-session-time-box avatar">
+                    <a href="/good2025/schedule/speaker/7ZKSVJ/">
+                        <div class="avatar-wrapper">
+                            
+                                <img src="/good2025/schedule/speaker/avatar.svg">
+                            
+                        </div>
+                    </a>
+                </div>
+                <div class="pretalx-session-info">
+                    <div class="title">
+                        <a href="/good2025/schedule/speaker/7ZKSVJ/">Irene Kopaliani [Princeton]</a>
+                    </div>
+                    <div class="abstract"></div>
+                    
+                </div>
+            </div>
+        
+    
+    </article>
+
+
+                </main>
+            </div>
+            <footer>
+                
+                    <div id="exporttimestamp" class="text-muted">
+                        
+                        This is a static export generated at 2025-07-09 17:45 EDT
+                    </div>
+                
+                
+
+
+    powered by <a href="https://pretalx.com" target="_blank" rel="noopener">pretalx</a>
+
+
+                
+                    &middot;
+                    <a href="mailto:jim@numfocus.org">Contact us</a>
+                
+                
+                
+            </footer>
+        </div>
+    </body>
+</html>

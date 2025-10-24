@@ -1,0 +1,218 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Open OnDemand App Template for Standardizing and Simplifying Development ::  GOOD 2025 :: pretalx</title>
+        <meta name="title" content="Open OnDemand App Template for Standardizing and Simplifying Development  - GOOD 2025 pretalx">
+        <meta name="description" content="The goal of this talk is to describe the design decisions behind the Open OnDemand template, and discuss benefits of using templates such as this one. This talk will have the following outline:
+
+- Introduce audience to motivation behind the template
+- Discuss technical aspects of the template
+	- Comment on documentation throughout project
+	- Showcase the form with default values, VNC configuration, and modules to load
+	- Discuss structure of main script file structure and module loading
+	- Showcase VNC auto configuration in before and main script file
+- Discuss plugin system
+	- Explain motivation behind plugin system
+	- Discuss what things can be done with plugins (adding attributes to form file and running scripts before app starts)
+	- Discuss plugin technical details (structure, ERB rendering on form file, locating and running scripts)
+- Conclusion and future direction
+
+The target audience will be developers looking to produce Open OnDemand applications, and who may want to utilize the template to create a generic framework that can be utilized to deploy custom apps on their infrastructure. As of now the source code is closed source, but snippets and design ideas will be discussed.">
+        <meta name="application-name" content="pretalx">
+        <meta name="generator" content="pretalx">
+        <meta name="keywords" content="GOOD 2025, 2025, 2025, schedule, talks, cfp, call for papers, conference, submissions, organizer">
+        
+        <meta name="robots" content="index, follow">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#C91235">
+        <meta name="HandheldFriendly" content="True"/>
+        <meta property="thumbnail" content="https://cfp.openondemand.org/2025/talk/78P3VV/og-image">
+    <meta property="og:image" content="https://cfp.openondemand.org/2025/talk/78P3VV/og-image">
+        <meta property="og:title" content="Open OnDemand App Template for Standardizing and Simplifying Development GOOD 2025">
+        <meta property="og:description" content="The goal of this talk is to describe the design decisions behind the Open OnDemand template, and discuss benefits of using templates such as this one. This talk will have the following outline:
+
+- Introduce audience to motivation behind the template
+- Discuss technical aspects of the template
+	- Comment on documentation throughout project
+	- Showcase the form with default values, VNC configuration, and modules to load
+	- Discuss structure of main script file structure and module loading
+	- Showcase VNC auto configuration in before and main script file
+- Discuss plugin system
+	- Explain motivation behind plugin system
+	- Discuss what things can be done with plugins (adding attributes to form file and running scripts before app starts)
+	- Discuss plugin technical details (structure, ERB rendering on form file, locating and running scripts)
+- Conclusion and future direction
+
+The target audience will be developers looking to produce Open OnDemand applications, and who may want to utilize the template to create a generic framework that can be utilized to deploy custom apps on their infrastructure. As of now the source code is closed source, but snippets and design ideas will be discussed.">
+        <meta property="og:url" content="http://testserver/2025/talk/78P3VV/">
+        <meta property="twitter:card" content="summary">
+
+        
+            <link rel="icon" type="image/png" sizes="32x32" href="/good2025/schedule/static/common/img/favicon-32x32.38c2aab28d3a.png">
+            <link rel="icon" type="image/png" sizes="16x16" href="/good2025/schedule/static/common/img/favicon-16x16.02f8a56e1af3.png">
+        
+
+        <link rel="stylesheet" type="text/css" href="/good2025/schedule/static/common/scss/uncompressed.cabbf3759e3e.css" />
+        
+            <link rel="stylesheet" type="text/css" href="/good2025/schedule/static/vendored/fullcalendar/fullcalendar.min.ba055a2cd2b3.css"/>
+            <link rel="stylesheet" type="text/css" href="/good2025/schedule/media/2025/cfp.b4fdc45e320a46e0.css"/>
+            <link rel="stylesheet" type="text/css" href="/good2025/schedule/media/2025/agenda.4ecfa7153a486dbb.css"/>
+        
+        
+        <script src="/good2025/schedule/static/CACHE/js/output.079684506270.js" defer></script>
+        
+    
+    <link rel="alternate" type="application/json" title="GOOD 2025 API" href="https://cfp.openondemand.org/api/events/2025/talks/78P3VV" />
+
+    
+    
+
+    </head>
+    <body data-datetimeformat="YYYY-MM-DD HH:mm:ss" data-dateformat="YYYY-MM-DD" data-datetimelocale="en">
+        <div id="top-bg" class="header pcb">
+            
+        </div>
+        
+        <div class="container" id="main-container">
+            <header>
+                <h1>
+                    <a href="
+    /2025/schedule/
+">
+                        
+                            GOOD 2025
+                        
+                    </a>
+                </h1>
+
+                <div class="d-flex" id="header-row">
+                    
+                    
+                </div>
+            </header>
+            <div class="card" id="main-card">
+                <main>
+                    
+
+                    
+    
+    
+    <article>
+        
+        <h3 class="talk-title">
+            <div class="heading-with-buttons">
+                Open OnDemand App Template for Standardizing and Simplifying Development
+                <div class="buttons" id="talk-buttons">
+                    
+                        <a class="btn btn-outline-primary" href="/good2025/schedule/talk/78P3VV.ics">
+                            <i class="fa fa-calendar"></i> .ical
+                        </a>
+                    
+                    
+                    
+                </div>
+            </div>
+            <small>
+                
+                    03-19, 17:00–17:10 (US/Eastern), Tsai Auditorium (CGIS S010) <i class="fa fa-question-circle" data-toggle="tooltip" title="S010"></i>
+                
+                
+                
+            </small>
+        </h3>
+        <div class="talk row">
+            <div class="talk-content">
+                
+                
+                
+                <section class="abstract">
+                    <p>The OnDemand Template is a framework that simplifies and standardizes the app development process, which aims to reduce the learning curve for new developers. It offers a documented, generic application that provides most of the configuration required to get applications running in the OnDemand system. Users can specify parameters via the form file, which the template will utilize to self-configure. In most cases, users only need to specify the app metadata, modules to load, the command to execute, and whether it's VNC enabled. The template also utilizes a work in progress plugin system that allows developers to extend existing apps by dynamically adding attributes to the form file and evaluating scripts before the app is started, which allows for apps to be easily extended.</p>
+                </section>
+                
+                    <hr />
+                
+                <section class="description">
+                    <p>The goal of this talk is to describe the design decisions behind the Open OnDemand template, and discuss benefits of using templates such as this one. This talk will have the following outline:</p>
+<ul>
+<li>Introduce audience to motivation behind the template</li>
+<li>Discuss technical aspects of the template<ul>
+<li>Comment on documentation throughout project</li>
+<li>Showcase the form with default values, VNC configuration, and modules to load</li>
+<li>Discuss structure of main script file structure and module loading</li>
+<li>Showcase VNC auto configuration in before and main script file</li>
+</ul>
+</li>
+<li>Discuss plugin system<ul>
+<li>Explain motivation behind plugin system</li>
+<li>Discuss what things can be done with plugins (adding attributes to form file and running scripts before app starts)</li>
+<li>Discuss plugin technical details (structure, ERB rendering on form file, locating and running scripts)</li>
+</ul>
+</li>
+<li>Conclusion and future direction</li>
+</ul>
+<p>The target audience will be developers looking to produce Open OnDemand applications, and who may want to utilize the template to create a generic framework that can be utilized to deploy custom apps on their infrastructure. As of now the source code is closed source, but snippets and design ideas will be discussed.</p>
+                </section>
+                
+            </section>
+            
+            <section>
+                
+            </section>
+        </div>
+    </div>
+    
+        
+            <div class="pretalx-session">
+                <div class="pretalx-session-time-box avatar">
+                    <a href="/good2025/schedule/speaker/F98XHJ/">
+                        <div class="avatar-wrapper">
+                            
+                                <img src="/good2025/schedule/media/avatars/gpic2_tctVfho.JPG">
+                            
+                        </div>
+                    </a>
+                </div>
+                <div class="pretalx-session-info">
+                    <div class="title">
+                        <a href="/good2025/schedule/speaker/F98XHJ/">Owen Cochell [Michigan State University]</a>
+                    </div>
+                    <div class="abstract"><p>Owen Cochell is a senior undergraduate student at Michigan State University. He works for the Institute for Cyber Enabled Research at MSU, which manages the on campus HPCC to accelerate research activities. Open OnDemand is used extensively at ICER to simplify the process of interacting with the HPCC, allowing for non-technical users and groups to utilize it's resources.</p></div>
+                    
+                </div>
+            </div>
+        
+    
+    </article>
+
+
+                </main>
+            </div>
+            <footer>
+                
+                    <div id="exporttimestamp" class="text-muted">
+                        
+                        This is a static export generated at 2025-07-09 17:45 EDT
+                    </div>
+                
+                
+
+
+    powered by <a href="https://pretalx.com" target="_blank" rel="noopener">pretalx</a>
+
+
+                
+                    &middot;
+                    <a href="mailto:jim@numfocus.org">Contact us</a>
+                
+                
+                
+            </footer>
+        </div>
+    </body>
+</html>

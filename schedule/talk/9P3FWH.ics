@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.openondemand.org//9P3FWH
+BEGIN:VTIMEZONE
+TZID:US/Eastern
+BEGIN:STANDARD
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T060000Z
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T070000Z
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-2025-9P3FWH@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250319T113000
+DTEND;TZID=US/Eastern:20250319T115500
+DESCRIPTION:Research computing organizations facilitate scientific investig
+ ations by providing access to computational resources\, advanced networkin
+ g\, and ample storage to support the demands of scientific workflows.  Tra
+ ditional HPC systems run as self-contained environments with a head node t
+ hat defines access to all resources and orchestrates operation of the clus
+ ter.  Managing access to these services over the various lifetimes of hard
+ ware\, software\, clusters\, and facilities presents challenges in maintai
+ ning access for users to different systems as they evolve.  At UAB we are 
+ building a software defined HPC environment to manage evolution of our sys
+ tems by implementing an A/B testing framework that leverages Open OnDemand
+  as the web interface to different generations of hardware.
+DTSTAMP:20250709T214532Z
+LOCATION:Tsai Auditorium (CGIS S010)
+SUMMARY:Software Defined HPC with Open OnDemand - John-Paul Robinson [Unive
+ rsity of Alabama at Birmingham]
+URL:https://cfp.openondemand.org/2025/talk/9P3FWH/
+END:VEVENT
+END:VCALENDAR

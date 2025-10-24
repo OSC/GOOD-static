@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.openondemand.org//2025//WPF3NV
+BEGIN:VTIMEZONE
+TZID:US/Eastern
+BEGIN:STANDARD
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T060000Z
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T070000Z
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-2025-EZSRZ8@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250319T171000
+DTEND;TZID=US/Eastern:20250319T172000
+DESCRIPTION:Secure and efficient access to High-Performance Computing (HPC)
+  resources is critical for enabling scientific and technical innovation. O
+ pen OnDemand (OOD)\, a widely used web-based HPC access portal\, simplifie
+ s user interactions with cluster resources. However\, traditional authenti
+ cation methods often present challenges\, including limited scalability\, 
+ complex configurations\, and security vulnerabilities. Integrating Securit
+ y Assertion Markup Language (SAML)-based authentication with OOD addresses
+  these challenges by leveraging federated identity providers for seamless 
+ and secure single sign-on (SSO). This approach enables researchers and ins
+ titutions to utilize existing identity management systems\, ensuring compl
+ iance with organizational policies while streamlining user access. The pre
+ sent
+DTSTAMP:20250709T214539Z
+LOCATION:Tsai Auditorium (CGIS S010)
+SUMMARY:SAML Authentication with Open On Demand for HPC Clusters - Rodgers 
+ Kimera [Research Data and Communication Technologies]
+URL:https://cfp.openondemand.org/2025/talk/EZSRZ8/
+END:VEVENT
+END:VCALENDAR

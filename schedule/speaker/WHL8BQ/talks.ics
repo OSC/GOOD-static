@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.openondemand.org//2025//WHL8BQ
+BEGIN:VTIMEZONE
+TZID:US/Eastern
+BEGIN:STANDARD
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T060000Z
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T070000Z
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-2025-WKECSV@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250318T150000
+DTEND;TZID=US/Eastern:20250318T152500
+DESCRIPTION:Meet with Open OnDemand Dev team members to ask questions about
+  the platform and the docs that don’t easily lend themselves to discours
+ e or email. Community members are welcome to chime in on topics outside th
+ e scope of what is deployed at Ohio Supercomputer Center.
+DTSTAMP:20250709T214541Z
+LOCATION:Tsai Auditorium (CGIS S010)
+SUMMARY:Developer Forum - Alan Chalker [Ohio Supercomputer Center]\, Julie 
+ Ma [Massachusetts Green High Performance Computing Center]\, Emily Moffat 
+ Sadeghi [Ohio Supercomputer Center]\, Travis Ravert [Ohio Supercomputer Ce
+ nter]\, Jeff Ohrstrom [Ohio Supercomputer Center]
+URL:https://cfp.openondemand.org/2025/talk/WKECSV/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2025-FBJKT8@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250319T173000
+DTEND;TZID=US/Eastern:20250319T175500
+DESCRIPTION:Meet with Open OnDemand Dev team members to ask questions about
+  the platform and the docs that don’t easily lend themselves to discours
+ e or email. Community members are welcome to chime in on topics outside th
+ e scope of what is deployed at Ohio Supercomputer Center.
+DTSTAMP:20250709T214541Z
+LOCATION:Tsai Auditorium (CGIS S010)
+SUMMARY:Developer Forum - Alan Chalker [Ohio Supercomputer Center]\, Julie 
+ Ma [Massachusetts Green High Performance Computing Center]\, Emily Moffat 
+ Sadeghi [Ohio Supercomputer Center]\, Travis Ravert [Ohio Supercomputer Ce
+ nter]\, Jeff Ohrstrom [Ohio Supercomputer Center]
+URL:https://cfp.openondemand.org/2025/talk/FBJKT8/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2025-MH8ND3@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250320T103000
+DTEND;TZID=US/Eastern:20250320T105500
+DESCRIPTION:Meet with Open OnDemand Dev team members to ask questions about
+  the platform and the docs that don’t easily lend themselves to discours
+ e or email. Community members are welcome to chime in on topics outside th
+ e scope of what is deployed at Ohio Supercomputer Center.
+DTSTAMP:20250709T214541Z
+LOCATION:Tsai Auditorium (CGIS S010)
+SUMMARY:Developer Forum - Alan Chalker [Ohio Supercomputer Center]\, Julie 
+ Ma [Massachusetts Green High Performance Computing Center]\, Emily Moffat 
+ Sadeghi [Ohio Supercomputer Center]\, Travis Ravert [Ohio Supercomputer Ce
+ nter]\, Jeff Ohrstrom [Ohio Supercomputer Center]
+URL:https://cfp.openondemand.org/2025/talk/MH8ND3/
+END:VEVENT
+END:VCALENDAR

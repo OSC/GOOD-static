@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.openondemand.org//2025//STL7KR
+BEGIN:VTIMEZONE
+TZID:US/Eastern
+BEGIN:STANDARD
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T060000Z
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T070000Z
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-2025-SUZHBH@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250319T150000
+DTEND;TZID=US/Eastern:20250319T152500
+DESCRIPTION:We present our experience of leveraging several publicly availa
+ ble container projects for RStudio Server and PostGIS/PostgreSQL Open OnDe
+ mand interactive apps. These containers have pre-configured software stack
+ s that facilitate easier application-specific package installation by user
+ s\, reducing user support requests on computing center staff. This talk de
+ scribes the user-friendly OOD interfaces to these complex apps and how the
+  containers are launched on an HPC cluster with Singularity.
+DTSTAMP:20250709T214540Z
+LOCATION:Tsai Auditorium (CGIS S010)
+SUMMARY:Using Community Container Images with OOD for Robust RStudio Server
+  and PostGIS - Paula C Sanematsu [Harvard]
+URL:https://cfp.openondemand.org/2025/talk/SUZHBH/
+END:VEVENT
+END:VCALENDAR

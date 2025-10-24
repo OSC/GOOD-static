@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.openondemand.org//2025//RB7MVU
+BEGIN:VTIMEZONE
+TZID:US/Eastern
+BEGIN:STANDARD
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T060000Z
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T070000Z
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-2025-KX33UB@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250318T143000
+DTEND;TZID=US/Eastern:20250318T145500
+DESCRIPTION:Adopting a new software platform that has the power to change t
+ he way teaching and research is done is rarely easy. In this talk\, we exp
+ lain how Princeton University Research Computing started with Open OnDeman
+ d (OOD)\, what we contributed\, and what we learned. Hear about our proble
+ ms\, solutions and continued pain points.
+DTSTAMP:20250709T214539Z
+LOCATION:Belfer Case Study Room (CGIS S020)
+SUMMARY:Lessons Learned from 8 Years of Open OnDemand at Princeton Research
+  Computing - Josko Plazonic [Princeton]\, Jonathan Halverson [Princeton]\,
+  Irene Kopaliani [Princeton]
+URL:https://cfp.openondemand.org/2025/talk/KX33UB/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2025-ES9ML9@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250319T172000
+DTEND;TZID=US/Eastern:20250319T173000
+DESCRIPTION:Given the ever increasing cost of compute (especially GPUs) it 
+ is imperative that these resources are used efficiently. How can this be a
+ chieved in a simple-to-use way on a high-performance computing cluster tha
+ t supports a large number of diverse researchers? Our solution is Jobstats
+ \, a job monitoring platform which integrates with Open OnDemand (OOD). Th
+ is talk will provide an overview of the platform and its various component
+ s while concentrating on its links with OOD. Our planned extensions for th
+ e OOD integration will be presented with the hope of receiving feedback an
+ d new ideas from attendees.
+DTSTAMP:20250709T214539Z
+LOCATION:Tsai Auditorium (CGIS S010)
+SUMMARY:Integration of Open OnDemand with the Jobstats Job Monitoring Platf
+ orm - Josko Plazonic [Princeton]\, Jonathan Halverson [Princeton]
+URL:https://cfp.openondemand.org/2025/talk/ES9ML9/
+END:VEVENT
+END:VCALENDAR

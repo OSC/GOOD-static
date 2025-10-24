@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.openondemand.org//78P3VV
+BEGIN:VTIMEZONE
+TZID:US/Eastern
+BEGIN:STANDARD
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T060000Z
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T070000Z
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-2025-78P3VV@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250319T170000
+DTEND;TZID=US/Eastern:20250319T171000
+DESCRIPTION:The OnDemand Template is a framework that simplifies and standa
+ rdizes the app development process\, which aims to reduce the learning cur
+ ve for new developers. It offers a documented\, generic application that p
+ rovides most of the configuration required to get applications running in 
+ the OnDemand system. Users can specify parameters via the form file\, whic
+ h the template will utilize to self-configure. In most cases\, users only 
+ need to specify the app metadata\, modules to load\, the command to execut
+ e\, and whether it's VNC enabled. The template also utilizes a work in pro
+ gress plugin system that allows developers to extend existing apps by dyna
+ mically adding attributes to the form file and evaluating scripts before t
+ he app is started\, which allows for apps to be easily extended.
+DTSTAMP:20250709T214534Z
+LOCATION:Tsai Auditorium (CGIS S010)
+SUMMARY:Open OnDemand App Template for Standardizing and Simplifying Develo
+ pment - Owen Cochell [Michigan State University]
+URL:https://cfp.openondemand.org/2025/talk/78P3VV/
+END:VEVENT
+END:VCALENDAR

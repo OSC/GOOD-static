@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.openondemand.org//2025//LPKMRG
+BEGIN:VTIMEZONE
+TZID:US/Eastern
+BEGIN:STANDARD
+DTSTART:20001029T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10;UNTIL=20061029T060000Z
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000402T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4;UNTIL=20060402T070000Z
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-2025-GY9Y7X@cfp.openondemand.org
+DTSTART;TZID=US/Eastern:20250319T171000
+DTEND;TZID=US/Eastern:20250319T172000
+DESCRIPTION:The Advanced Research Computing department at the University of
+  British Columbia (UBC) have been supporting a local HPC cluster for use b
+ y the entire UBC research community for nearly a decade. With a demand for
+  more interactive computing options coming from our researchers\, we have 
+ begun implementing Open OnDemand as a portal for accessing our resources a
+ nd with that has come challenges around our currently existing architectur
+ e. This talk will provide a detailed\, yet high-level overview of the chal
+ lenges we faced and the solutions we explored. By sharing our journey\, we
+  hope to provide other system administrators with a view of both the ease 
+ of modifying Open OnDemand for current systems\, as well as potential chal
+ lenges to keep in mind when exploring adding Open OnDemand.
+DTSTAMP:20250709T214536Z
+LOCATION:Belfer Case Study Room (CGIS S020)
+SUMMARY:Open OnDemand for an Established University HPC Community - Jacob B
+ oschee [University of British Columbia]
+URL:https://cfp.openondemand.org/2025/talk/GY9Y7X/
+END:VEVENT
+END:VCALENDAR
